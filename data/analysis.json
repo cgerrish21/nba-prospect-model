@@ -1,0 +1,820 @@
+{
+  "generatedAt": "2026-10-26T22:22:43.932Z",
+  "sampleCount": 951,
+  "collegePairCount": 706,
+  "translation": {
+    "stats": [
+      {
+        "label": "Points",
+        "collegeAvg": 15.285410764872523,
+        "nbaAvg": 8.385024413160812,
+        "correlation": 0.16759481190155046,
+        "r2": 0.02808802097631608,
+        "stickiness": "WEAK",
+        "isPct": false,
+        "pctUp": 0.10906515580736544,
+        "pctDown": 0.8909348441926346,
+        "medianChange": -7.2898249602182315
+      },
+      {
+        "label": "Rebounds",
+        "collegeAvg": 6.169405099150144,
+        "nbaAvg": 3.5050831556321875,
+        "correlation": 0.4970619693635426,
+        "r2": 0.24707060138756334,
+        "stickiness": "MODERATE",
+        "isPct": false,
+        "pctUp": 0.06232294617563739,
+        "pctDown": 0.9376770538243626,
+        "medianChange": -2.4587401960784314
+      },
+      {
+        "label": "Assists",
+        "collegeAvg": 2.5518413597733725,
+        "nbaAvg": 1.7787651421560364,
+        "correlation": 0.5882481684229699,
+        "r2": 0.34603590765297876,
+        "stickiness": "MODERATE",
+        "isPct": false,
+        "pctUp": 0.22946175637393768,
+        "pctDown": 0.7691218130311614,
+        "medianChange": -0.6856072984749455
+      },
+      {
+        "label": "Steals",
+        "collegeAvg": 1.156940509915013,
+        "nbaAvg": 0.6457139691598099,
+        "correlation": 0.5478219784342108,
+        "r2": 0.3001089200555729,
+        "stickiness": "MODERATE",
+        "isPct": false,
+        "pctUp": 0.08356940509915015,
+        "pctDown": 0.9135977337110481,
+        "medianChange": -0.4568676332741668
+      },
+      {
+        "label": "Blocks",
+        "collegeAvg": 0.9084985835694058,
+        "nbaAvg": 0.40980980737593503,
+        "correlation": 0.689151002984154,
+        "r2": 0.4749291049140654,
+        "stickiness": "HIGH",
+        "isPct": false,
+        "pctUp": 0.10623229461756374,
+        "pctDown": 0.8739376770538244,
+        "medianChange": -0.3276513501742161
+      },
+      {
+        "label": "3PM",
+        "collegeAvg": 1.2361189801699715,
+        "nbaAvg": 0.7293976500066413,
+        "correlation": 0.626915898086198,
+        "r2": 0.39302354327322414,
+        "stickiness": "MODERATE",
+        "isPct": false,
+        "pctUp": 0.2096317280453258,
+        "pctDown": 0.6912181303116147,
+        "medianChange": -0.37145194683764104
+      },
+      {
+        "label": "Turnovers",
+        "collegeAvg": 2.1555240793201125,
+        "nbaAvg": 1.1223818238932006,
+        "correlation": 0.3731491534507676,
+        "r2": 0.1392402907210245,
+        "stickiness": "LOW",
+        "isPct": false,
+        "pctUp": 0.0708215297450425,
+        "pctDown": 0.9277620396600567,
+        "medianChange": -1.043868887818086
+      },
+      {
+        "label": "FT%",
+        "collegeAvg": 0.7406048158640226,
+        "nbaAvg": 0.7318769283215857,
+        "correlation": 0.6292724668909109,
+        "r2": 0.39598383758697253,
+        "stickiness": "MODERATE",
+        "isPct": true,
+        "pctUp": 0.46742209631728043,
+        "pctDown": 0.5254957507082153,
+        "medianChange": -0.004574199814818214
+      },
+      {
+        "label": "FG%",
+        "collegeAvg": 0.49129461756373966,
+        "nbaAvg": 0.4515929938637401,
+        "correlation": 0.5336215881815417,
+        "r2": 0.2847519993733909,
+        "stickiness": "MODERATE",
+        "isPct": true,
+        "pctUp": 0.20254957507082152,
+        "pctDown": 0.7818696883852692,
+        "medianChange": -0.04336114384120368
+      }
+    ],
+    "ftDeepDive": {
+      "ftToFt": {
+        "r": 0.6292724668909109,
+        "r2": 0.39598383758697253
+      },
+      "ftToFg": {
+        "r": -0.4443652244692231,
+        "r2": 0.19746045271758303
+      },
+      "threePctToFg": {
+        "r": -0.07722628354453964,
+        "r2": 0.0059638988701016344
+      },
+      "buckets": [
+        {
+          "label": "Elite (80%+)",
+          "count": 189,
+          "avgNbaPts": 9.179298268875018,
+          "avgNbaFtPct": 0.797293717544662,
+          "avgNbaFgPct": 0.42435217038506706,
+          "avgPick": 24.883597883597883
+        },
+        {
+          "label": "Good (72-80%)",
+          "count": 249,
+          "avgNbaPts": 8.394746648411973,
+          "avgNbaFtPct": 0.7468862445377658,
+          "avgNbaFgPct": 0.4398831848678248,
+          "avgPick": 24.433734939759034
+        },
+        {
+          "label": "Average (65-72%)",
+          "count": 163,
+          "avgNbaPts": 7.846768542210521,
+          "avgNbaFtPct": 0.6963228080588337,
+          "avgNbaFgPct": 0.46502405245161993,
+          "avgPick": 24.141104294478527
+        },
+        {
+          "label": "Poor (<65%)",
+          "count": 105,
+          "avgNbaPts": 7.767854047992955,
+          "avgNbaFtPct": 0.6337267254819535,
+          "avgNbaFgPct": 0.5075453322220989,
+          "avgPick": 24.409523809523808
+        }
+      ]
+    },
+    "lateGems": [
+      {
+        "name": "Desmond Bane",
+        "pick": 30,
+        "collegePts": 16.6,
+        "nbaPts": 17.422950819672128,
+        "collegeFtPct": 0.789,
+        "collegeStl": 1.5
+      },
+      {
+        "name": "Keldon Johnson",
+        "pick": 29,
+        "collegePts": 13.5,
+        "nbaPts": 16.51294642857143,
+        "collegeFtPct": 0.703,
+        "collegeStl": 0.8
+      },
+      {
+        "name": "Jordan Poole",
+        "pick": 28,
+        "collegePts": 12.8,
+        "nbaPts": 15.760902255639097,
+        "collegeFtPct": 0.833,
+        "collegeStl": 1.1
+      },
+      {
+        "name": "Isaiah Thomas",
+        "pick": 60,
+        "collegePts": 16.8,
+        "nbaPts": 15.568904593639576,
+        "collegeFtPct": 0.719,
+        "collegeStl": 1.3
+      },
+      {
+        "name": "Kyle Kuzma",
+        "pick": 27,
+        "collegePts": 16.4,
+        "nbaPts": 15.241666666666669,
+        "collegeFtPct": 0.669,
+        "collegeStl": 0.6
+      },
+      {
+        "name": "Cam Thomas",
+        "pick": 27,
+        "collegePts": 23,
+        "nbaPts": 15.156744186046511,
+        "collegeFtPct": 0.882,
+        "collegeStl": 0.9
+      },
+      {
+        "name": "Chandler Parsons",
+        "pick": 38,
+        "collegePts": 11.3,
+        "nbaPts": 14.484229390681005,
+        "collegeFtPct": 0.557,
+        "collegeStl": 0.9
+      },
+      {
+        "name": "Marcus Thornton",
+        "pick": 43,
+        "collegePts": 21.1,
+        "nbaPts": 14.353159851301115,
+        "collegeFtPct": 0.745,
+        "collegeStl": 1.6
+      },
+      {
+        "name": "Jordan Clarkson",
+        "pick": 46,
+        "collegePts": 17.5,
+        "nbaPts": 14.145847176079734,
+        "collegeFtPct": 0.831,
+        "collegeStl": 1.1
+      },
+      {
+        "name": "Dillon Brooks",
+        "pick": 45,
+        "collegePts": 16.1,
+        "nbaPts": 14.049999999999997,
+        "collegeFtPct": 0.754,
+        "collegeStl": 1.1
+      },
+      {
+        "name": "Khris Middleton",
+        "pick": 39,
+        "collegePts": 13.2,
+        "nbaPts": 13.682771535580525,
+        "collegeFtPct": 0.75,
+        "collegeStl": 1
+      },
+      {
+        "name": "Immanuel Quickley",
+        "pick": 25,
+        "collegePts": 16.1,
+        "nbaPts": 13.656013745704467,
+        "collegeFtPct": 0.923,
+        "collegeStl": 0.9
+      },
+      {
+        "name": "Malcolm Brogdon",
+        "pick": 36,
+        "collegePts": 18.2,
+        "nbaPts": 13.603319502074687,
+        "collegeFtPct": 0.897,
+        "collegeStl": 0.9
+      },
+      {
+        "name": "Pascal Siakam",
+        "pick": 27,
+        "collegePts": 20.3,
+        "nbaPts": 12.856159420289854,
+        "collegeFtPct": 0.678,
+        "collegeStl": 1
+      },
+      {
+        "name": "Devonte' Graham",
+        "pick": 34,
+        "collegePts": 17.3,
+        "nbaPts": 12.838333333333333,
+        "collegeFtPct": 0.827,
+        "collegeStl": 1.6
+      },
+      {
+        "name": "Aaron Brooks",
+        "pick": 26,
+        "collegePts": 17.7,
+        "nbaPts": 12.49889705882353,
+        "collegeFtPct": 0.846,
+        "collegeStl": 1.4
+      },
+      {
+        "name": "Jordan Crawford",
+        "pick": 27,
+        "collegePts": 20.5,
+        "nbaPts": 12.199221789883268,
+        "collegeFtPct": 0.773,
+        "collegeStl": 1.3
+      },
+      {
+        "name": "Josh Richardson",
+        "pick": 40,
+        "collegePts": 16,
+        "nbaPts": 12.125482625482626,
+        "collegeFtPct": 0.798,
+        "collegeStl": 2.1
+      },
+      {
+        "name": "Carl Landry",
+        "pick": 31,
+        "collegePts": 18.9,
+        "nbaPts": 12.072659176029962,
+        "collegeFtPct": 0.726,
+        "collegeStl": 1.2
+      },
+      {
+        "name": "Jalen Brunson",
+        "pick": 33,
+        "collegePts": 18.9,
+        "nbaPts": 11.88014440433213,
+        "collegeFtPct": 0.802,
+        "collegeStl": 0.9
+      }
+    ],
+    "lateTraits": {
+      "gems": {
+        "pts": 16.48809523809524,
+        "ftPct": 0.7574285714285716,
+        "stl": 1.1833333333333338,
+        "blk": 0.5047619047619045,
+        "ast": 3.0333333333333337
+      },
+      "allLate": {
+        "pts": 15.15562310030396,
+        "ftPct": 0.7401398176291791,
+        "stl": 1.1243161094224936,
+        "blk": 0.8021276595744682,
+        "ast": 2.558358662613982
+      },
+      "gemCount": 42,
+      "allLateCount": 329
+    }
+  },
+  "blindComparison": {
+    "lambdaV1": 100,
+    "lambdaBlind": 100,
+    "cvComparison": [
+      {
+        "stat": "pts",
+        "v1MAE": 2.9816049918056606,
+        "v1R2": 0.33364525731493155,
+        "blindMAE": 3.2915060727907868,
+        "blindR2": 0.18820976293115124,
+        "winner": "v1"
+      },
+      {
+        "stat": "reb",
+        "v1MAE": 1.112272372034477,
+        "v1R2": 0.3977309899705631,
+        "blindMAE": 1.1984202272435613,
+        "blindR2": 0.3052879116826983,
+        "winner": "v1"
+      },
+      {
+        "stat": "ast",
+        "v1MAE": 0.7269551908876543,
+        "v1R2": 0.449096724071143,
+        "blindMAE": 0.7521942556464928,
+        "blindR2": 0.39545208110849484,
+        "winner": "v1"
+      },
+      {
+        "stat": "stl",
+        "v1MAE": 0.2020627417369225,
+        "v1R2": 0.39056949778780603,
+        "blindMAE": 0.216567709511772,
+        "blindR2": 0.3069467220334039,
+        "winner": "v1"
+      },
+      {
+        "stat": "blk",
+        "v1MAE": 0.1727730190390512,
+        "v1R2": 0.4766174126773255,
+        "blindMAE": 0.18148317040215864,
+        "blindR2": 0.4350305578439923,
+        "winner": "v1"
+      },
+      {
+        "stat": "threePM",
+        "v1MAE": 0.33698829891672916,
+        "v1R2": 0.43189986001923214,
+        "blindMAE": 0.35304176792447456,
+        "blindR2": 0.3768351844869771,
+        "winner": "v1"
+      },
+      {
+        "stat": "fgPct",
+        "v1MAE": 0.04083155792326616,
+        "v1R2": 0.3788512858125702,
+        "blindMAE": 0.04076584225885057,
+        "blindR2": 0.38196750978333427,
+        "winner": "blind"
+      },
+      {
+        "stat": "ftPct",
+        "v1MAE": 0.07926086529983346,
+        "v1R2": 0.18046675549475116,
+        "blindMAE": 0.07979145229603513,
+        "blindR2": 0.16346131295720628,
+        "winner": "v1"
+      },
+      {
+        "stat": "tov",
+        "v1MAE": 0.38480380238126405,
+        "v1R2": 0.38746945647607633,
+        "blindMAE": 0.41630294821248337,
+        "blindR2": 0.2740521499051089,
+        "winner": "v1"
+      }
+    ],
+    "v1PtsWeights": [
+      {
+        "feature": "draftPosition",
+        "weight": -1.9497101146589937
+      },
+      {
+        "feature": "classYear",
+        "weight": -0.5911695672054587
+      },
+      {
+        "feature": "ageAtDraft",
+        "weight": -0.4711721595578961
+      },
+      {
+        "feature": "minutesPerGame",
+        "weight": 0.40358148664101706
+      },
+      {
+        "feature": "assistToTurnover",
+        "weight": 0.3959002138564948
+      },
+      {
+        "feature": "ptsPer40",
+        "weight": 0.34213350516148894
+      },
+      {
+        "feature": "ftaPer40",
+        "weight": 0.3031104736269234
+      },
+      {
+        "feature": "heightInches",
+        "weight": 0.3019649166925608
+      },
+      {
+        "feature": "stlPer40",
+        "weight": 0.27328261631708894
+      },
+      {
+        "feature": "handLength",
+        "weight": -0.23384815024414163
+      },
+      {
+        "feature": "winSharesPer40",
+        "weight": 0.22041463546301565
+      },
+      {
+        "feature": "usageRate",
+        "weight": 0.21291440524144573
+      }
+    ],
+    "blindPtsWeights": [
+      {
+        "feature": "ageAtDraft",
+        "weight": -1.272726136378383
+      },
+      {
+        "feature": "classYear",
+        "weight": -1.0488227503116276
+      },
+      {
+        "feature": "winSharesPer40",
+        "weight": 0.6462722792565815
+      },
+      {
+        "feature": "minutesPerGame",
+        "weight": 0.6409472988399957
+      },
+      {
+        "feature": "heightInches",
+        "weight": 0.5104998219395608
+      },
+      {
+        "feature": "ftaPer40",
+        "weight": 0.4559363205434438
+      },
+      {
+        "feature": "stlPer40",
+        "weight": 0.4489405824969777
+      },
+      {
+        "feature": "assistToTurnover",
+        "weight": 0.4356340087688677
+      },
+      {
+        "feature": "threePer40",
+        "weight": 0.4086300370979777
+      },
+      {
+        "feature": "ptsPer40",
+        "weight": 0.38012883265964453
+      },
+      {
+        "feature": "laneAgility",
+        "weight": -0.31247670538025685
+      },
+      {
+        "feature": "trueShootingPct",
+        "weight": 0.2712499028251814
+      }
+    ],
+    "undervalued": [
+      {
+        "name": "Victor Wembanyama",
+        "pick": 1,
+        "draftYear": 2023,
+        "actualFV": 51.9,
+        "v1FV": 24.6,
+        "blindFV": 21.5,
+        "blindGap": -30.4
+      },
+      {
+        "name": "Luka Dončić",
+        "pick": 3,
+        "draftYear": 2018,
+        "actualFV": 48.9,
+        "v1FV": 26,
+        "blindFV": 22.7,
+        "blindGap": -26.2
+      },
+      {
+        "name": "Anthony Davis",
+        "pick": 1,
+        "draftYear": 2012,
+        "actualFV": 44.5,
+        "v1FV": 25,
+        "blindFV": 20.5,
+        "blindGap": -24
+      },
+      {
+        "name": "Joel Embiid",
+        "pick": 3,
+        "draftYear": 2014,
+        "actualFV": 46.6,
+        "v1FV": 25.3,
+        "blindFV": 22.7,
+        "blindGap": -23.9
+      },
+      {
+        "name": "Chris Paul",
+        "pick": 4,
+        "draftYear": 2005,
+        "actualFV": 44.8,
+        "v1FV": 24.8,
+        "blindFV": 21.1,
+        "blindGap": -23.8
+      },
+      {
+        "name": "Trae Young",
+        "pick": 5,
+        "draftYear": 2018,
+        "actualFV": 42.6,
+        "v1FV": 20.6,
+        "blindFV": 19.1,
+        "blindGap": -23.5
+      },
+      {
+        "name": "Kristaps Porziņģis",
+        "pick": 4,
+        "draftYear": 2015,
+        "actualFV": 36.3,
+        "v1FV": 20.1,
+        "blindFV": 15.6,
+        "blindGap": -20.8
+      },
+      {
+        "name": "Russell Westbrook",
+        "pick": 4,
+        "draftYear": 2008,
+        "actualFV": 37,
+        "v1FV": 20.9,
+        "blindFV": 17.4,
+        "blindGap": -19.6
+      },
+      {
+        "name": "Damian Lillard",
+        "pick": 6,
+        "draftYear": 2012,
+        "actualFV": 36.3,
+        "v1FV": 21.4,
+        "blindFV": 16.9,
+        "blindGap": -19.4
+      },
+      {
+        "name": "Donovan Mitchell",
+        "pick": 13,
+        "draftYear": 2017,
+        "actualFV": 36.7,
+        "v1FV": 19.9,
+        "blindFV": 17.3,
+        "blindGap": -19.3
+      },
+      {
+        "name": "Deron Williams",
+        "pick": 3,
+        "draftYear": 2005,
+        "actualFV": 33.5,
+        "v1FV": 20.9,
+        "blindFV": 14.4,
+        "blindGap": -19.2
+      },
+      {
+        "name": "Hassan Whiteside",
+        "pick": 33,
+        "draftYear": 2010,
+        "actualFV": 32.8,
+        "v1FV": 13.2,
+        "blindFV": 14.1,
+        "blindGap": -18.7
+      },
+      {
+        "name": "Cade Cunningham",
+        "pick": 1,
+        "draftYear": 2021,
+        "actualFV": 40.7,
+        "v1FV": 24.9,
+        "blindFV": 22.4,
+        "blindGap": -18.3
+      },
+      {
+        "name": "Marc Gasol",
+        "pick": 48,
+        "draftYear": 2007,
+        "actualFV": 31.8,
+        "v1FV": 10.5,
+        "blindFV": 13.6,
+        "blindGap": -18.2
+      },
+      {
+        "name": "Blake Griffin",
+        "pick": 1,
+        "draftYear": 2009,
+        "actualFV": 41.4,
+        "v1FV": 23.8,
+        "blindFV": 23.2,
+        "blindGap": -18.2
+      }
+    ],
+    "overvalued": [
+      {
+        "name": "T.J. Leaf",
+        "pick": 18,
+        "draftYear": 2017,
+        "actualFV": 7,
+        "v1FV": 20.5,
+        "blindFV": 20.1,
+        "blindGap": 13.2
+      },
+      {
+        "name": "Jaden Springer",
+        "pick": 28,
+        "draftYear": 2021,
+        "actualFV": 7.6,
+        "v1FV": 18,
+        "blindFV": 20.6,
+        "blindGap": 13
+      },
+      {
+        "name": "Zeke Nnaji",
+        "pick": 22,
+        "draftYear": 2020,
+        "actualFV": 9.6,
+        "v1FV": 19.6,
+        "blindFV": 22.1,
+        "blindGap": 12.5
+      },
+      {
+        "name": "Tyler Ennis",
+        "pick": 18,
+        "draftYear": 2014,
+        "actualFV": 9.6,
+        "v1FV": 21.4,
+        "blindFV": 20.7,
+        "blindGap": 11.1
+      },
+      {
+        "name": "Rashad Vaughn",
+        "pick": 17,
+        "draftYear": 2015,
+        "actualFV": 6.7,
+        "v1FV": 17.9,
+        "blindFV": 17.5,
+        "blindGap": 10.8
+      },
+      {
+        "name": "Darius Morris",
+        "pick": 41,
+        "draftYear": 2011,
+        "actualFV": 6.7,
+        "v1FV": 14.5,
+        "blindFV": 17.2,
+        "blindGap": 10.5
+      },
+      {
+        "name": "James Wiseman",
+        "pick": 2,
+        "draftYear": 2020,
+        "actualFV": 18.6,
+        "v1FV": 28.8,
+        "blindFV": 29,
+        "blindGap": 10.4
+      },
+      {
+        "name": "Johnny Davis",
+        "pick": 10,
+        "draftYear": 2022,
+        "actualFV": 7.8,
+        "v1FV": 21.3,
+        "blindFV": 18.2,
+        "blindGap": 10.4
+      },
+      {
+        "name": "Josh Minott",
+        "pick": 45,
+        "draftYear": 2022,
+        "actualFV": 8.2,
+        "v1FV": 13.1,
+        "blindFV": 18.4,
+        "blindGap": 10.2
+      },
+      {
+        "name": "Nick Calathes",
+        "pick": 45,
+        "draftYear": 2009,
+        "actualFV": 12.9,
+        "v1FV": 16.2,
+        "blindFV": 22.9,
+        "blindGap": 10
+      },
+      {
+        "name": "Javaris Crittenton",
+        "pick": 19,
+        "draftYear": 2007,
+        "actualFV": 11.3,
+        "v1FV": 20.9,
+        "blindFV": 21.1,
+        "blindGap": 9.8
+      },
+      {
+        "name": "Hasheem Thabeet",
+        "pick": 2,
+        "draftYear": 2009,
+        "actualFV": 8.7,
+        "v1FV": 21.8,
+        "blindFV": 18,
+        "blindGap": 9.3
+      },
+      {
+        "name": "JT Thor",
+        "pick": 37,
+        "draftYear": 2021,
+        "actualFV": 8,
+        "v1FV": 13.1,
+        "blindFV": 17.3,
+        "blindGap": 9.3
+      },
+      {
+        "name": "Rob Dillingham",
+        "pick": 8,
+        "draftYear": 2024,
+        "actualFV": 10.2,
+        "v1FV": 21.8,
+        "blindFV": 19.6,
+        "blindGap": 9.3
+      },
+      {
+        "name": "Bruno Fernando",
+        "pick": 34,
+        "draftYear": 2019,
+        "actualFV": 9,
+        "v1FV": 15.6,
+        "blindFV": 18.2,
+        "blindGap": 9.2
+      }
+    ],
+    "rangeAccuracy": [
+      {
+        "range": "Top 5",
+        "count": 88,
+        "v1MAE": 8.054545454545455,
+        "blindMAE": 9.807954545454546,
+        "winner": "v1"
+      },
+      {
+        "range": "10-20",
+        "count": 178,
+        "v1MAE": 5.2376404494382,
+        "blindMAE": 5.129213483146067,
+        "winner": "blind"
+      },
+      {
+        "range": "20+",
+        "count": 358,
+        "v1MAE": 4.60027932960894,
+        "blindMAE": 4.533240223463686,
+        "winner": "blind"
+      }
+    ]
+  }
+}

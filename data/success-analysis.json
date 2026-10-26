@@ -1,0 +1,2322 @@
+{
+  "generatedAt": "2026-10-26T22:22:51.669Z",
+  "playerCount": 731,
+  "draftYearRange": "2005-2020",
+  "positionCounts": {
+    "Guard": 287,
+    "Wing": 225,
+    "Big": 219
+  },
+  "bustRates": [
+    {
+      "position": "Guard",
+      "range": "Top 5",
+      "total": 24,
+      "distribution": {
+        "Starter": 0.9583333333333334,
+        "Rotation": 0.041666666666666664,
+        "Fringe": 0,
+        "Out": 0
+      },
+      "bustRate": 0,
+      "medianGames": 10,
+      "names": {
+        "starters": [
+          "Chris Paul (20)",
+          "Russell Westbrook (18)",
+          "Mike Conley (17)",
+          "James Harden (17)",
+          "Kyrie Irving (13)"
+        ],
+        "busts": []
+      }
+    },
+    {
+      "position": "Guard",
+      "range": "Lottery (6-14)",
+      "total": 52,
+      "distribution": {
+        "Starter": 0.7115384615384616,
+        "Rotation": 0.15384615384615385,
+        "Fringe": 0.09615384615384616,
+        "Out": 0.038461538461538464
+      },
+      "bustRate": 0.13461538461538464,
+      "medianGames": 7,
+      "names": {
+        "starters": [
+          "DeMar DeRozan (17)",
+          "Stephen Curry (15)",
+          "Eric Gordon (14)",
+          "D.J. Augustin (13)",
+          "Klay Thompson (13)"
+        ],
+        "busts": [
+          "Acie Law (0)",
+          "Romeo Langford (0)"
+        ]
+      }
+    },
+    {
+      "position": "Guard",
+      "range": "Late 1st (15-30)",
+      "total": 88,
+      "distribution": {
+        "Starter": 0.4659090909090909,
+        "Rotation": 0.19318181818181818,
+        "Fringe": 0.13636363636363635,
+        "Out": 0.20454545454545456
+      },
+      "bustRate": 0.34090909090909094,
+      "medianGames": 4,
+      "names": {
+        "starters": [
+          "Kyle Lowry (17)",
+          "Nicolas Batum (17)",
+          "Jrue Holiday (17)",
+          "George Hill (13)",
+          "Jarrett Jack (12)"
+        ],
+        "busts": [
+          "Maurice Ager (0)",
+          "Mardy Collins (0)",
+          "Morris Almond (0)",
+          "J.R. Giddens (0)",
+          "Dominique Jones (0)"
+        ]
+      }
+    },
+    {
+      "position": "Guard",
+      "range": "2nd Round (31-60)",
+      "total": 123,
+      "distribution": {
+        "Starter": 0.2032520325203252,
+        "Rotation": 0.14634146341463414,
+        "Fringe": 0.11382113821138211,
+        "Out": 0.5365853658536586
+      },
+      "bustRate": 0.6504065040650406,
+      "medianGames": 0,
+      "names": {
+        "starters": [
+          "Jordan Clarkson (12)",
+          "Danny Green (11)",
+          "Norman Powell (10)",
+          "Mario Chalmers (9)",
+          "Will Barton (9)"
+        ],
+        "busts": [
+          "Roko Ukić (0)",
+          "Bracey Wright (0)",
+          "Alex Acker (0)",
+          "Bobby Jones (0)",
+          "David Noel (0)"
+        ]
+      }
+    },
+    {
+      "position": "Wing",
+      "range": "Top 5",
+      "total": 25,
+      "distribution": {
+        "Starter": 0.72,
+        "Rotation": 0.16,
+        "Fringe": 0.08,
+        "Out": 0.04
+      },
+      "bustRate": 0.12,
+      "medianGames": 6,
+      "names": {
+        "starters": [
+          "Jeff Green (16)",
+          "Jonas Valančiūnas (13)",
+          "Andrew Wiggins (12)",
+          "Enes Freedom (9)",
+          "Kristaps Porziņģis (9)"
+        ],
+        "busts": [
+          "Anthony Bennett (0)"
+        ]
+      }
+    },
+    {
+      "position": "Wing",
+      "range": "Lottery (6-14)",
+      "total": 32,
+      "distribution": {
+        "Starter": 0.6875,
+        "Rotation": 0.21875,
+        "Fringe": 0.03125,
+        "Out": 0.0625
+      },
+      "bustRate": 0.09375,
+      "medianGames": 7,
+      "names": {
+        "starters": [
+          "Thaddeus Young (14)",
+          "Paul George (14)",
+          "Harrison Barnes (14)",
+          "Gordon Hayward (13)",
+          "Danilo Gallinari (11)"
+        ],
+        "busts": [
+          "Yaroslav Korolev (0)",
+          "Georgios Papagiannis (0)"
+        ]
+      }
+    },
+    {
+      "position": "Wing",
+      "range": "Late 1st (15-30)",
+      "total": 72,
+      "distribution": {
+        "Starter": 0.4444444444444444,
+        "Rotation": 0.2222222222222222,
+        "Fringe": 0.125,
+        "Out": 0.20833333333333334
+      },
+      "bustRate": 0.33333333333333337,
+      "medianGames": 4,
+      "names": {
+        "starters": [
+          "Rajon Rondo (14)",
+          "Jimmy Butler (14)",
+          "Kawhi Leonard (13)",
+          "Jared Dudley (11)",
+          "Robin Lopez (11)"
+        ],
+        "busts": [
+          "Julius Hodge (0)",
+          "Oleksiy Pecherov (0)",
+          "Quincy Douby (0)",
+          "Alando Tucker (0)",
+          "Victor Claver (0)"
+        ]
+      }
+    },
+    {
+      "position": "Wing",
+      "range": "2nd Round (31-60)",
+      "total": 96,
+      "distribution": {
+        "Starter": 0.21875,
+        "Rotation": 0.20833333333333334,
+        "Fringe": 0.14583333333333334,
+        "Out": 0.4270833333333333
+      },
+      "bustRate": 0.5729166666666666,
+      "medianGames": 1,
+      "names": {
+        "starters": [
+          "Draymond Green (14)",
+          "Marc Gasol (13)",
+          "Ersan İlyasova (12)",
+          "Goran Dragić (12)",
+          "Jerami Grant (12)"
+        ],
+        "busts": [
+          "Dijon Thompson (0)",
+          "Uroš Slokar (0)",
+          "James White (0)",
+          "Paul Davis (0)",
+          "Hassan Adams (0)"
+        ]
+      }
+    },
+    {
+      "position": "Big",
+      "range": "Top 5",
+      "total": 25,
+      "distribution": {
+        "Starter": 0.76,
+        "Rotation": 0.12,
+        "Fringe": 0.08,
+        "Out": 0.04
+      },
+      "bustRate": 0.12,
+      "medianGames": 8,
+      "names": {
+        "starters": [
+          "Kevin Durant (18)",
+          "Al Horford (17)",
+          "Marvin Williams (15)",
+          "LaMarcus Aldridge (15)",
+          "Kevin Love (13)"
+        ],
+        "busts": [
+          "Hasheem Thabeet (0)"
+        ]
+      }
+    },
+    {
+      "position": "Big",
+      "range": "Lottery (6-14)",
+      "total": 46,
+      "distribution": {
+        "Starter": 0.6304347826086957,
+        "Rotation": 0.17391304347826086,
+        "Fringe": 0.10869565217391304,
+        "Out": 0.08695652173913043
+      },
+      "bustRate": 0.19565217391304346,
+      "medianGames": 5.5,
+      "names": {
+        "starters": [
+          "Rudy Gay (16)",
+          "Brook Lopez (15)",
+          "Andre Drummond (12)",
+          "Marcus Morris (11)",
+          "Julius Randle (11)"
+        ],
+        "busts": [
+          "Sean May (0)",
+          "Patrick O'Bryant (0)",
+          "Julian Wright (0)",
+          "Joe Alexander (0)"
+        ]
+      }
+    },
+    {
+      "position": "Big",
+      "range": "Late 1st (15-30)",
+      "total": 70,
+      "distribution": {
+        "Starter": 0.38571428571428573,
+        "Rotation": 0.21428571428571427,
+        "Fringe": 0.08571428571428572,
+        "Out": 0.3142857142857143
+      },
+      "bustRate": 0.4,
+      "medianGames": 3,
+      "names": {
+        "starters": [
+          "Tobias Harris (14)",
+          "Taj Gibson (13)",
+          "David Lee (12)",
+          "Rudy Gobert (12)",
+          "Mason Plumlee (11)"
+        ],
+        "busts": [
+          "Wayne Simien (0)",
+          "Cedric Simmons (0)",
+          "Craig Brackins (0)",
+          "Daniel Orton (0)",
+          "JaJuan Johnson (0)"
+        ]
+      }
+    },
+    {
+      "position": "Big",
+      "range": "2nd Round (31-60)",
+      "total": 78,
+      "distribution": {
+        "Starter": 0.16666666666666666,
+        "Rotation": 0.16666666666666666,
+        "Fringe": 0.07692307692307693,
+        "Out": 0.5897435897435898
+      },
+      "bustRate": 0.6666666666666667,
+      "medianGames": 0,
+      "names": {
+        "starters": [
+          "Paul Millsap (15)",
+          "DeAndre Jordan (12)",
+          "Marcin Gortat (9)",
+          "Dante Cunningham (9)",
+          "Dwight Powell (8)"
+        ],
+        "busts": [
+          "Chris Taft (0)",
+          "Solomon Jones (0)",
+          "James Augustine (0)",
+          "Jermareo Davidson (0)",
+          "Chris Richard (0)"
+        ]
+      }
+    }
+  ],
+  "rangeStats": [
+    {
+      "range": "Top 5",
+      "count": 74,
+      "medianMeaningfulSeasons": 8,
+      "p25": 5,
+      "p75": 11,
+      "bustRate": 0.02702702702702703,
+      "starterRate": 0.8108108108108109
+    },
+    {
+      "range": "Lottery (6-14)",
+      "count": 130,
+      "medianMeaningfulSeasons": 7,
+      "p25": 3,
+      "p75": 10,
+      "bustRate": 0.06153846153846154,
+      "starterRate": 0.676923076923077
+    },
+    {
+      "range": "Late 1st (15-30)",
+      "count": 230,
+      "medianMeaningfulSeasons": 3.5,
+      "p25": 1,
+      "p75": 7,
+      "bustRate": 0.2391304347826087,
+      "starterRate": 0.43478260869565216
+    },
+    {
+      "range": "2nd Round (31-60)",
+      "count": 297,
+      "medianMeaningfulSeasons": 0,
+      "p25": 0,
+      "p75": 3,
+      "bustRate": 0.5151515151515151,
+      "starterRate": 0.19865319865319866
+    }
+  ],
+  "successMarkers": [
+    {
+      "position": "Guard",
+      "markers": [
+        {
+          "key": "ageAtDraft",
+          "label": "Age at Draft",
+          "correlation": -0.24493397911759812,
+          "starterAvg": 20.904072009821505,
+          "bustAvg": 21.80870328807389,
+          "diff": -0.9046312782523849,
+          "n": 287
+        },
+        {
+          "key": "winSharesPer40",
+          "label": "Win Shares/40",
+          "correlation": 0.20540648486886082,
+          "starterAvg": 0.19688617886178855,
+          "bustAvg": 0.17583529411764703,
+          "diff": 0.021050884744141518,
+          "n": 276
+        },
+        {
+          "key": "boxPlusMinus",
+          "label": "Box +/-",
+          "correlation": 0.20316633569738088,
+          "starterAvg": 8.992105263157898,
+          "bustAvg": 7.463333333333332,
+          "diff": 1.5287719298245657,
+          "n": 182
+        },
+        {
+          "key": "classYear",
+          "label": "Class Year",
+          "correlation": -0.14127063538921858,
+          "starterAvg": 3.0555555555555554,
+          "bustAvg": 3.5232558139534884,
+          "diff": -0.46770025839793306,
+          "n": 287
+        },
+        {
+          "key": "sprint",
+          "label": "Sprint",
+          "correlation": -0.1277673894714558,
+          "starterAvg": 3.2225396825396775,
+          "bustAvg": 3.2490697674418607,
+          "diff": -0.026530084902183226,
+          "n": 287
+        },
+        {
+          "key": "ptsTrajectory",
+          "label": "PTS Trajectory",
+          "correlation": 0.1079501916024102,
+          "starterAvg": 0.38800059429903183,
+          "bustAvg": 0.2656732220986789,
+          "diff": 0.12232737220035295,
+          "n": 218
+        },
+        {
+          "key": "stlPer40",
+          "label": "STL/40",
+          "correlation": 0.1063212800218033,
+          "starterAvg": 1.838942080784104,
+          "bustAvg": 1.6507698579601662,
+          "diff": 0.18817222282393775,
+          "n": 287
+        },
+        {
+          "key": "standingVertical",
+          "label": "Standing Vert",
+          "correlation": 0.10175711199835667,
+          "starterAvg": 30.486507936507937,
+          "bustAvg": 29.773255813953487,
+          "diff": 0.7132521225544508,
+          "n": 287
+        },
+        {
+          "key": "blkPer40",
+          "label": "BLK/40",
+          "correlation": -0.09455623795802774,
+          "starterAvg": 0.5158358676957772,
+          "bustAvg": 0.5725643309610775,
+          "diff": -0.056728463265300344,
+          "n": 266
+        },
+        {
+          "key": "trueShootingPct",
+          "label": "True Shooting %",
+          "correlation": 0.09263311652020767,
+          "starterAvg": 0.5772722417950814,
+          "bustAvg": 0.5636046511627907,
+          "diff": 0.013667590632290727,
+          "n": 287
+        },
+        {
+          "key": "gamesPlayed",
+          "label": "Games Played",
+          "correlation": 0.07453983160946663,
+          "starterAvg": 33.479674796747965,
+          "bustAvg": 32.48148148148148,
+          "diff": 0.9981933152664837,
+          "n": 276
+        },
+        {
+          "key": "shuttleRun",
+          "label": "Shuttle Run",
+          "correlation": 0.07117367337503362,
+          "starterAvg": 3.048412698412701,
+          "bustAvg": 3.024767441860466,
+          "diff": 0.023645256552234706,
+          "n": 287
+        },
+        {
+          "key": "threePtPct",
+          "label": "3PT%",
+          "correlation": 0.07063774439159357,
+          "starterAvg": 0.3743673225534831,
+          "bustAvg": 0.36319767441860457,
+          "diff": 0.01116964813487853,
+          "n": 286
+        },
+        {
+          "key": "astPer40",
+          "label": "AST/40",
+          "correlation": 0.06796085429332135,
+          "starterAvg": 4.605406212464391,
+          "bustAvg": 4.293740241637513,
+          "diff": 0.3116659708268781,
+          "n": 286
+        },
+        {
+          "key": "freeThrowPct",
+          "label": "FT%",
+          "correlation": 0.06339678745875942,
+          "starterAvg": 0.781801474478681,
+          "bustAvg": 0.7684883720930231,
+          "diff": 0.01331310238565786,
+          "n": 287
+        }
+      ]
+    },
+    {
+      "position": "Wing",
+      "markers": [
+        {
+          "key": "gamesPlayed",
+          "label": "Games Played",
+          "correlation": 0.24461182686422267,
+          "starterAvg": 30.402173913043477,
+          "bustAvg": 25.83050847457627,
+          "diff": 4.571665438467207,
+          "n": 221
+        },
+        {
+          "key": "minutesPerGame",
+          "label": "MPG",
+          "correlation": 0.23283319269861077,
+          "starterAvg": 29.295698924731187,
+          "bustAvg": 25.435593220338987,
+          "diff": 3.8601057043922005,
+          "n": 225
+        },
+        {
+          "key": "boxPlusMinus",
+          "label": "Box +/-",
+          "correlation": 0.1964508936283269,
+          "starterAvg": 8.52888888888889,
+          "bustAvg": 6.76,
+          "diff": 1.76888888888889,
+          "n": 93
+        },
+        {
+          "key": "ageAtDraft",
+          "label": "Age at Draft",
+          "correlation": -0.19490524924824082,
+          "starterAvg": 20.607394405069428,
+          "bustAvg": 21.514551599593183,
+          "diff": -0.9071571945237551,
+          "n": 225
+        },
+        {
+          "key": "astPer40",
+          "label": "AST/40",
+          "correlation": 0.16930885046948227,
+          "starterAvg": 2.864539831740878,
+          "bustAvg": 2.2483754361848054,
+          "diff": 0.6161643955560727,
+          "n": 218
+        },
+        {
+          "key": "maxVertical",
+          "label": "Max Vert",
+          "correlation": 0.12237182677916057,
+          "starterAvg": 34.41935483870968,
+          "bustAvg": 34.03389830508475,
+          "diff": 0.38545653362493226,
+          "n": 225
+        },
+        {
+          "key": "assistToTurnover",
+          "label": "AST/TO",
+          "correlation": 0.11869396955368806,
+          "starterAvg": 1.0390888266794513,
+          "bustAvg": 0.8918339910824971,
+          "diff": 0.1472548355969543,
+          "n": 222
+        },
+        {
+          "key": "trueShootingPct",
+          "label": "True Shooting %",
+          "correlation": 0.11423121912043672,
+          "starterAvg": 0.5410943227937078,
+          "bustAvg": 0.5243893322434868,
+          "diff": 0.01670499055022101,
+          "n": 222
+        },
+        {
+          "key": "ptsTrajectory",
+          "label": "PTS Trajectory",
+          "correlation": -0.11329617658792733,
+          "starterAvg": 0.5528727428479551,
+          "bustAvg": 0.8226828664594208,
+          "diff": -0.2698101236114657,
+          "n": 166
+        },
+        {
+          "key": "stlPer40",
+          "label": "STL/40",
+          "correlation": 0.1121595584736452,
+          "starterAvg": 1.5437100249112177,
+          "bustAvg": 1.375260420504609,
+          "diff": 0.1684496044066086,
+          "n": 218
+        },
+        {
+          "key": "threePtPct",
+          "label": "3PT%",
+          "correlation": 0.0963132608458911,
+          "starterAvg": 0.36898020705394335,
+          "bustAvg": 0.3416845298888495,
+          "diff": 0.027295677165093846,
+          "n": 202
+        },
+        {
+          "key": "wingspanInches",
+          "label": "Wingspan",
+          "correlation": -0.08941595292287208,
+          "starterAvg": 83.48655913978494,
+          "bustAvg": 83.69067796610169,
+          "diff": -0.20411882631674416,
+          "n": 225
+        },
+        {
+          "key": "assistsShare",
+          "label": "Ast Share",
+          "correlation": 0.08897815518210087,
+          "starterAvg": 0.16260365123510676,
+          "bustAvg": 0.1440423236769652,
+          "diff": 0.01856132755814155,
+          "n": 149
+        },
+        {
+          "key": "heightInches",
+          "label": "Height",
+          "correlation": -0.08782197952673144,
+          "starterAvg": 78.8010752688172,
+          "bustAvg": 78.80932203389831,
+          "diff": -0.008246765081111107,
+          "n": 225
+        },
+        {
+          "key": "standingVertical",
+          "label": "Standing Vert",
+          "correlation": 0.08617690968367016,
+          "starterAvg": 29.27956989247312,
+          "bustAvg": 28.949152542372882,
+          "diff": 0.33041735010023743,
+          "n": 225
+        }
+      ]
+    },
+    {
+      "position": "Big",
+      "markers": [
+        {
+          "key": "winSharesPer40",
+          "label": "Win Shares/40",
+          "correlation": 0.2546826058647879,
+          "starterAvg": 0.24072500000000008,
+          "bustAvg": 0.20883098591549293,
+          "diff": 0.03189401408450715,
+          "n": 205
+        },
+        {
+          "key": "stlPer40",
+          "label": "STL/40",
+          "correlation": 0.2340621719885086,
+          "starterAvg": 1.2633362934377628,
+          "bustAvg": 1.0356935435358017,
+          "diff": 0.2276427499019611,
+          "n": 219
+        },
+        {
+          "key": "boxPlusMinus",
+          "label": "Box +/-",
+          "correlation": 0.2239127630701472,
+          "starterAvg": 9.309756097560975,
+          "bustAvg": 7.560869565217393,
+          "diff": 1.7488865323435814,
+          "n": 118
+        },
+        {
+          "key": "threePer40",
+          "label": "3PM/40",
+          "correlation": -0.1847336642384453,
+          "starterAvg": 0.6509810327217455,
+          "bustAvg": 0.8895584638403105,
+          "diff": -0.238577431118565,
+          "n": 131
+        },
+        {
+          "key": "ageAtDraft",
+          "label": "Age at Draft",
+          "correlation": -0.18283587309762667,
+          "starterAvg": 20.84278099267832,
+          "bustAvg": 21.57633790579418,
+          "diff": -0.7335569131158586,
+          "n": 219
+        },
+        {
+          "key": "laneAgility",
+          "label": "Lane Agility",
+          "correlation": -0.16753195285017064,
+          "starterAvg": 11.388863636363649,
+          "bustAvg": 11.598493150684934,
+          "diff": -0.20962951432128563,
+          "n": 219
+        },
+        {
+          "key": "ftaPer40",
+          "label": "FTA/40",
+          "correlation": 0.16257737386279725,
+          "starterAvg": 7.176419323116443,
+          "bustAvg": 6.1849373539942105,
+          "diff": 0.9914819691222325,
+          "n": 219
+        },
+        {
+          "key": "tovPer40",
+          "label": "TOV/40",
+          "correlation": 0.1384070282613069,
+          "starterAvg": 2.8459424752122584,
+          "bustAvg": 2.6566911189903677,
+          "diff": 0.1892513562218907,
+          "n": 219
+        },
+        {
+          "key": "benchPress",
+          "label": "Bench Press",
+          "correlation": 0.13498658541408917,
+          "starterAvg": 11.806818181818182,
+          "bustAvg": 10.602739726027398,
+          "diff": 1.2040784557907838,
+          "n": 219
+        },
+        {
+          "key": "assistsShare",
+          "label": "Ast Share",
+          "correlation": 0.12822860693295984,
+          "starterAvg": 0.09970621496808284,
+          "bustAvg": 0.08641912407639496,
+          "diff": 0.013287090891687878,
+          "n": 207
+        },
+        {
+          "key": "shuttleRun",
+          "label": "Shuttle Run",
+          "correlation": -0.11756059715036421,
+          "starterAvg": 3.054431818181821,
+          "bustAvg": 3.0798630136986316,
+          "diff": -0.0254311955168105,
+          "n": 219
+        },
+        {
+          "key": "pointsShare",
+          "label": "Points Share",
+          "correlation": 0.11542461012889679,
+          "starterAvg": 0.202768521389488,
+          "bustAvg": 0.18152880084500433,
+          "diff": 0.02123972054448367,
+          "n": 208
+        },
+        {
+          "key": "classYear",
+          "label": "Class Year",
+          "correlation": -0.1135290905470252,
+          "starterAvg": 2.784090909090909,
+          "bustAvg": 3.3013698630136985,
+          "diff": -0.5172789539227893,
+          "n": 219
+        },
+        {
+          "key": "astPer40",
+          "label": "AST/40",
+          "correlation": 0.11013947486408829,
+          "starterAvg": 1.8516261626983124,
+          "bustAvg": 1.7156289726254883,
+          "diff": 0.13599719007282407,
+          "n": 218
+        },
+        {
+          "key": "ptsPer40",
+          "label": "PTS/40",
+          "correlation": 0.10949146931664377,
+          "starterAvg": 20.52117400699829,
+          "bustAvg": 18.8192857367893,
+          "diff": 1.7018882702089897,
+          "n": 219
+        }
+      ]
+    }
+  ],
+  "topOutperformers": [
+    {
+      "position": "Guard",
+      "range": "Top 5",
+      "players": [
+        {
+          "name": "Chris Paul",
+          "pick": 4,
+          "draftYear": 2005,
+          "totalGames": 300,
+          "meaningfulSeasons": 20,
+          "expected": 8,
+          "ratio": 2.5
+        },
+        {
+          "name": "Russell Westbrook",
+          "pick": 4,
+          "draftYear": 2008,
+          "totalGames": 312,
+          "meaningfulSeasons": 18,
+          "expected": 8,
+          "ratio": 2.25
+        },
+        {
+          "name": "Mike Conley",
+          "pick": 4,
+          "draftYear": 2007,
+          "totalGames": 296,
+          "meaningfulSeasons": 17,
+          "expected": 8,
+          "ratio": 2.125
+        },
+        {
+          "name": "James Harden",
+          "pick": 3,
+          "draftYear": 2009,
+          "totalGames": 298,
+          "meaningfulSeasons": 17,
+          "expected": 8,
+          "ratio": 2.125
+        },
+        {
+          "name": "Kyrie Irving",
+          "pick": 1,
+          "draftYear": 2011,
+          "totalGames": 256,
+          "meaningfulSeasons": 13,
+          "expected": 8,
+          "ratio": 1.625
+        },
+        {
+          "name": "Bradley Beal",
+          "pick": 3,
+          "draftYear": 2012,
+          "totalGames": 247,
+          "meaningfulSeasons": 13,
+          "expected": 8,
+          "ratio": 1.625
+        },
+        {
+          "name": "Deron Williams",
+          "pick": 3,
+          "draftYear": 2005,
+          "totalGames": 310,
+          "meaningfulSeasons": 12,
+          "expected": 8,
+          "ratio": 1.5
+        },
+        {
+          "name": "Raymond Felton",
+          "pick": 5,
+          "draftYear": 2005,
+          "totalGames": 319,
+          "meaningfulSeasons": 12,
+          "expected": 8,
+          "ratio": 1.5
+        }
+      ]
+    },
+    {
+      "position": "Guard",
+      "range": "Lottery (6-14)",
+      "players": [
+        {
+          "name": "DeMar DeRozan",
+          "pick": 9,
+          "draftYear": 2009,
+          "totalGames": 304,
+          "meaningfulSeasons": 17,
+          "expected": 7,
+          "ratio": 2.4285714285714284
+        },
+        {
+          "name": "Stephen Curry",
+          "pick": 7,
+          "draftYear": 2009,
+          "totalGames": 258,
+          "meaningfulSeasons": 15,
+          "expected": 7,
+          "ratio": 2.142857142857143
+        },
+        {
+          "name": "Eric Gordon",
+          "pick": 7,
+          "draftYear": 2008,
+          "totalGames": 205,
+          "meaningfulSeasons": 14,
+          "expected": 7,
+          "ratio": 2
+        },
+        {
+          "name": "D.J. Augustin",
+          "pick": 9,
+          "draftYear": 2008,
+          "totalGames": 282,
+          "meaningfulSeasons": 13,
+          "expected": 7,
+          "ratio": 1.8571428571428572
+        },
+        {
+          "name": "Klay Thompson",
+          "pick": 11,
+          "draftYear": 2011,
+          "totalGames": 306,
+          "meaningfulSeasons": 13,
+          "expected": 7,
+          "ratio": 1.8571428571428572
+        },
+        {
+          "name": "Damian Lillard",
+          "pick": 6,
+          "draftYear": 2012,
+          "totalGames": 321,
+          "meaningfulSeasons": 13,
+          "expected": 7,
+          "ratio": 1.8571428571428572
+        },
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "pick": 8,
+          "draftYear": 2013,
+          "totalGames": 314,
+          "meaningfulSeasons": 13,
+          "expected": 7,
+          "ratio": 1.8571428571428572
+        },
+        {
+          "name": "JJ Redick",
+          "pick": 11,
+          "draftYear": 2006,
+          "totalGames": 222,
+          "meaningfulSeasons": 12,
+          "expected": 7,
+          "ratio": 1.7142857142857142
+        }
+      ]
+    },
+    {
+      "position": "Guard",
+      "range": "Late 1st (15-30)",
+      "players": [
+        {
+          "name": "Kyle Lowry",
+          "pick": 24,
+          "draftYear": 2006,
+          "totalGames": 237,
+          "meaningfulSeasons": 17,
+          "expected": 3.5,
+          "ratio": 4.857142857142857
+        },
+        {
+          "name": "Nicolas Batum",
+          "pick": 25,
+          "draftYear": 2008,
+          "totalGames": 255,
+          "meaningfulSeasons": 17,
+          "expected": 3.5,
+          "ratio": 4.857142857142857
+        },
+        {
+          "name": "Jrue Holiday",
+          "pick": 17,
+          "draftYear": 2009,
+          "totalGames": 298,
+          "meaningfulSeasons": 17,
+          "expected": 3.5,
+          "ratio": 4.857142857142857
+        },
+        {
+          "name": "George Hill",
+          "pick": 26,
+          "draftYear": 2008,
+          "totalGames": 281,
+          "meaningfulSeasons": 13,
+          "expected": 3.5,
+          "ratio": 3.7142857142857144
+        },
+        {
+          "name": "Jarrett Jack",
+          "pick": 22,
+          "draftYear": 2005,
+          "totalGames": 322,
+          "meaningfulSeasons": 12,
+          "expected": 3.5,
+          "ratio": 3.4285714285714284
+        },
+        {
+          "name": "Tim Hardaway Jr.",
+          "pick": 24,
+          "draftYear": 2013,
+          "totalGames": 281,
+          "meaningfulSeasons": 12,
+          "expected": 3.5,
+          "ratio": 3.4285714285714284
+        },
+        {
+          "name": "Nick Young",
+          "pick": 16,
+          "draftYear": 2007,
+          "totalGames": 295,
+          "meaningfulSeasons": 11,
+          "expected": 3.5,
+          "ratio": 3.142857142857143
+        },
+        {
+          "name": "Jeff Teague",
+          "pick": 19,
+          "draftYear": 2009,
+          "totalGames": 287,
+          "meaningfulSeasons": 11,
+          "expected": 3.5,
+          "ratio": 3.142857142857143
+        }
+      ]
+    },
+    {
+      "position": "Wing",
+      "range": "Top 5",
+      "players": [
+        {
+          "name": "Jeff Green",
+          "pick": 5,
+          "draftYear": 2007,
+          "totalGames": 315,
+          "meaningfulSeasons": 16,
+          "expected": 8,
+          "ratio": 2
+        },
+        {
+          "name": "Jonas Valančiūnas",
+          "pick": 5,
+          "draftYear": 2011,
+          "totalGames": 283,
+          "meaningfulSeasons": 13,
+          "expected": 8,
+          "ratio": 1.625
+        },
+        {
+          "name": "Andrew Wiggins",
+          "pick": 1,
+          "draftYear": 2014,
+          "totalGames": 327,
+          "meaningfulSeasons": 12,
+          "expected": 8,
+          "ratio": 1.5
+        },
+        {
+          "name": "Enes Freedom",
+          "pick": 3,
+          "draftYear": 2011,
+          "totalGames": 291,
+          "meaningfulSeasons": 9,
+          "expected": 8,
+          "ratio": 1.125
+        },
+        {
+          "name": "Kristaps Porziņģis",
+          "pick": 4,
+          "draftYear": 2015,
+          "totalGames": 243,
+          "meaningfulSeasons": 9,
+          "expected": 8,
+          "ratio": 1.125
+        },
+        {
+          "name": "Brandon Ingram",
+          "pick": 2,
+          "draftYear": 2016,
+          "totalGames": 252,
+          "meaningfulSeasons": 9,
+          "expected": 8,
+          "ratio": 1.125
+        },
+        {
+          "name": "Andrea Bargnani",
+          "pick": 1,
+          "draftYear": 2006,
+          "totalGames": 301,
+          "meaningfulSeasons": 8,
+          "expected": 8,
+          "ratio": 1
+        },
+        {
+          "name": "Luka Dončić",
+          "pick": 3,
+          "draftYear": 2018,
+          "totalGames": 264,
+          "meaningfulSeasons": 8,
+          "expected": 8,
+          "ratio": 1
+        }
+      ]
+    },
+    {
+      "position": "Wing",
+      "range": "Lottery (6-14)",
+      "players": [
+        {
+          "name": "Thaddeus Young",
+          "pick": 12,
+          "draftYear": 2007,
+          "totalGames": 298,
+          "meaningfulSeasons": 14,
+          "expected": 7,
+          "ratio": 2
+        },
+        {
+          "name": "Paul George",
+          "pick": 10,
+          "draftYear": 2010,
+          "totalGames": 286,
+          "meaningfulSeasons": 14,
+          "expected": 7,
+          "ratio": 2
+        },
+        {
+          "name": "Harrison Barnes",
+          "pick": 7,
+          "draftYear": 2012,
+          "totalGames": 307,
+          "meaningfulSeasons": 14,
+          "expected": 7,
+          "ratio": 2
+        },
+        {
+          "name": "Gordon Hayward",
+          "pick": 9,
+          "draftYear": 2010,
+          "totalGames": 287,
+          "meaningfulSeasons": 13,
+          "expected": 7,
+          "ratio": 1.8571428571428572
+        },
+        {
+          "name": "Danilo Gallinari",
+          "pick": 6,
+          "draftYear": 2008,
+          "totalGames": 214,
+          "meaningfulSeasons": 11,
+          "expected": 7,
+          "ratio": 1.5714285714285714
+        },
+        {
+          "name": "Thabo Sefolosha",
+          "pick": 13,
+          "draftYear": 2006,
+          "totalGames": 288,
+          "meaningfulSeasons": 10,
+          "expected": 7,
+          "ratio": 1.4285714285714286
+        },
+        {
+          "name": "Corey Brewer",
+          "pick": 7,
+          "draftYear": 2007,
+          "totalGames": 245,
+          "meaningfulSeasons": 10,
+          "expected": 7,
+          "ratio": 1.4285714285714286
+        },
+        {
+          "name": "Terrence Ross",
+          "pick": 8,
+          "draftYear": 2012,
+          "totalGames": 309,
+          "meaningfulSeasons": 10,
+          "expected": 7,
+          "ratio": 1.4285714285714286
+        }
+      ]
+    },
+    {
+      "position": "Wing",
+      "range": "Late 1st (15-30)",
+      "players": [
+        {
+          "name": "Rajon Rondo",
+          "pick": 21,
+          "draftYear": 2006,
+          "totalGames": 316,
+          "meaningfulSeasons": 14,
+          "expected": 3.5,
+          "ratio": 4
+        },
+        {
+          "name": "Jimmy Butler",
+          "pick": 30,
+          "draftYear": 2011,
+          "totalGames": 256,
+          "meaningfulSeasons": 14,
+          "expected": 3.5,
+          "ratio": 4
+        },
+        {
+          "name": "Kawhi Leonard",
+          "pick": 15,
+          "draftYear": 2011,
+          "totalGames": 252,
+          "meaningfulSeasons": 13,
+          "expected": 3.5,
+          "ratio": 3.7142857142857144
+        },
+        {
+          "name": "Jared Dudley",
+          "pick": 22,
+          "draftYear": 2007,
+          "totalGames": 305,
+          "meaningfulSeasons": 11,
+          "expected": 3.5,
+          "ratio": 3.142857142857143
+        },
+        {
+          "name": "Robin Lopez",
+          "pick": 15,
+          "draftYear": 2008,
+          "totalGames": 242,
+          "meaningfulSeasons": 11,
+          "expected": 3.5,
+          "ratio": 3.142857142857143
+        },
+        {
+          "name": "Marco Belinelli",
+          "pick": 18,
+          "draftYear": 2007,
+          "totalGames": 221,
+          "meaningfulSeasons": 10,
+          "expected": 3.5,
+          "ratio": 2.857142857142857
+        },
+        {
+          "name": "Arron Afflalo",
+          "pick": 27,
+          "draftYear": 2007,
+          "totalGames": 300,
+          "meaningfulSeasons": 10,
+          "expected": 3.5,
+          "ratio": 2.857142857142857
+        },
+        {
+          "name": "Courtney Lee",
+          "pick": 22,
+          "draftYear": 2008,
+          "totalGames": 287,
+          "meaningfulSeasons": 10,
+          "expected": 3.5,
+          "ratio": 2.857142857142857
+        }
+      ]
+    },
+    {
+      "position": "Big",
+      "range": "Top 5",
+      "players": [
+        {
+          "name": "Kevin Durant",
+          "pick": 2,
+          "draftYear": 2007,
+          "totalGames": 314,
+          "meaningfulSeasons": 18,
+          "expected": 8,
+          "ratio": 2.25
+        },
+        {
+          "name": "Al Horford",
+          "pick": 3,
+          "draftYear": 2007,
+          "totalGames": 306,
+          "meaningfulSeasons": 17,
+          "expected": 8,
+          "ratio": 2.125
+        },
+        {
+          "name": "Marvin Williams",
+          "pick": 2,
+          "draftYear": 2005,
+          "totalGames": 284,
+          "meaningfulSeasons": 15,
+          "expected": 8,
+          "ratio": 1.875
+        },
+        {
+          "name": "LaMarcus Aldridge",
+          "pick": 2,
+          "draftYear": 2006,
+          "totalGames": 298,
+          "meaningfulSeasons": 15,
+          "expected": 8,
+          "ratio": 1.875
+        },
+        {
+          "name": "Kevin Love",
+          "pick": 5,
+          "draftYear": 2008,
+          "totalGames": 269,
+          "meaningfulSeasons": 13,
+          "expected": 8,
+          "ratio": 1.625
+        },
+        {
+          "name": "Anthony Davis",
+          "pick": 1,
+          "draftYear": 2012,
+          "totalGames": 260,
+          "meaningfulSeasons": 13,
+          "expected": 8,
+          "ratio": 1.625
+        },
+        {
+          "name": "Blake Griffin",
+          "pick": 1,
+          "draftYear": 2009,
+          "totalGames": 308,
+          "meaningfulSeasons": 11,
+          "expected": 8,
+          "ratio": 1.375
+        },
+        {
+          "name": "Derrick Favors",
+          "pick": 3,
+          "draftYear": 2010,
+          "totalGames": 293,
+          "meaningfulSeasons": 11,
+          "expected": 8,
+          "ratio": 1.375
+        }
+      ]
+    },
+    {
+      "position": "Big",
+      "range": "Lottery (6-14)",
+      "players": [
+        {
+          "name": "Rudy Gay",
+          "pick": 8,
+          "draftYear": 2006,
+          "totalGames": 318,
+          "meaningfulSeasons": 16,
+          "expected": 7,
+          "ratio": 2.2857142857142856
+        },
+        {
+          "name": "Brook Lopez",
+          "pick": 10,
+          "draftYear": 2008,
+          "totalGames": 251,
+          "meaningfulSeasons": 15,
+          "expected": 7,
+          "ratio": 2.142857142857143
+        },
+        {
+          "name": "Andre Drummond",
+          "pick": 9,
+          "draftYear": 2012,
+          "totalGames": 304,
+          "meaningfulSeasons": 12,
+          "expected": 7,
+          "ratio": 1.7142857142857142
+        },
+        {
+          "name": "Marcus Morris",
+          "pick": 14,
+          "draftYear": 2011,
+          "totalGames": 257,
+          "meaningfulSeasons": 11,
+          "expected": 7,
+          "ratio": 1.5714285714285714
+        },
+        {
+          "name": "Julius Randle",
+          "pick": 7,
+          "draftYear": 2014,
+          "totalGames": 238,
+          "meaningfulSeasons": 11,
+          "expected": 7,
+          "ratio": 1.5714285714285714
+        },
+        {
+          "name": "Myles Turner",
+          "pick": 11,
+          "draftYear": 2015,
+          "totalGames": 280,
+          "meaningfulSeasons": 11,
+          "expected": 7,
+          "ratio": 1.5714285714285714
+        },
+        {
+          "name": "Channing Frye",
+          "pick": 8,
+          "draftYear": 2005,
+          "totalGames": 278,
+          "meaningfulSeasons": 10,
+          "expected": 7,
+          "ratio": 1.4285714285714286
+        },
+        {
+          "name": "Markieff Morris",
+          "pick": 13,
+          "draftYear": 2011,
+          "totalGames": 308,
+          "meaningfulSeasons": 10,
+          "expected": 7,
+          "ratio": 1.4285714285714286
+        }
+      ]
+    },
+    {
+      "position": "Big",
+      "range": "Late 1st (15-30)",
+      "players": [
+        {
+          "name": "Tobias Harris",
+          "pick": 19,
+          "draftYear": 2011,
+          "totalGames": 226,
+          "meaningfulSeasons": 14,
+          "expected": 3.5,
+          "ratio": 4
+        },
+        {
+          "name": "Taj Gibson",
+          "pick": 26,
+          "draftYear": 2009,
+          "totalGames": 290,
+          "meaningfulSeasons": 13,
+          "expected": 3.5,
+          "ratio": 3.7142857142857144
+        },
+        {
+          "name": "David Lee",
+          "pick": 30,
+          "draftYear": 2005,
+          "totalGames": 287,
+          "meaningfulSeasons": 12,
+          "expected": 3.5,
+          "ratio": 3.4285714285714284
+        },
+        {
+          "name": "Rudy Gobert",
+          "pick": 27,
+          "draftYear": 2013,
+          "totalGames": 269,
+          "meaningfulSeasons": 12,
+          "expected": 3.5,
+          "ratio": 3.4285714285714284
+        },
+        {
+          "name": "Mason Plumlee",
+          "pick": 22,
+          "draftYear": 2013,
+          "totalGames": 315,
+          "meaningfulSeasons": 11,
+          "expected": 3.5,
+          "ratio": 3.142857142857143
+        },
+        {
+          "name": "Bobby Portis",
+          "pick": 22,
+          "draftYear": 2015,
+          "totalGames": 249,
+          "meaningfulSeasons": 11,
+          "expected": 3.5,
+          "ratio": 3.142857142857143
+        },
+        {
+          "name": "Clint Capela",
+          "pick": 25,
+          "draftYear": 2014,
+          "totalGames": 228,
+          "meaningfulSeasons": 10,
+          "expected": 3.5,
+          "ratio": 2.857142857142857
+        },
+        {
+          "name": "James Johnson",
+          "pick": 16,
+          "draftYear": 2009,
+          "totalGames": 219,
+          "meaningfulSeasons": 9,
+          "expected": 3.5,
+          "ratio": 2.5714285714285716
+        }
+      ]
+    }
+  ],
+  "outperformerTraits": [
+    {
+      "position": "Guard",
+      "traits": [
+        {
+          "key": "trueShootingPct",
+          "label": "True Shooting %",
+          "outperformerAvg": 0.5868436314363144,
+          "underperformerAvg": 0.5590863039399625,
+          "diff": 0.027757327496351847,
+          "correlation": 0.16797434715072615
+        },
+        {
+          "key": "sprint",
+          "label": "Sprint",
+          "outperformerAvg": 3.2031707317073175,
+          "underperformerAvg": 3.2582926829268293,
+          "diff": -0.0551219512195118,
+          "correlation": -0.1502800835435027
+        },
+        {
+          "key": "boxPlusMinus",
+          "label": "Box +/-",
+          "outperformerAvg": 9.45625,
+          "underperformerAvg": 8.02962962962963,
+          "diff": 1.4266203703703706,
+          "correlation": 0.1481124752993024
+        },
+        {
+          "key": "blkPer40",
+          "label": "BLK/40",
+          "outperformerAvg": 0.4447359235513502,
+          "underperformerAvg": 0.6164905925798468,
+          "diff": -0.17175466902849662,
+          "correlation": -0.14749477907777084
+        },
+        {
+          "key": "usageRate",
+          "label": "Usage Rate",
+          "outperformerAvg": 24.436585365853652,
+          "underperformerAvg": 25.57560975609756,
+          "diff": -1.1390243902439074,
+          "correlation": -0.14704872738946378
+        },
+        {
+          "key": "threePtPct",
+          "label": "3PT%",
+          "outperformerAvg": 0.38163550135501356,
+          "underperformerAvg": 0.3631458724202626,
+          "diff": 0.01848962893475098,
+          "correlation": 0.11916672324449629
+        },
+        {
+          "key": "standingReachInches",
+          "label": "Standing Reach",
+          "outperformerAvg": 99.32926829268293,
+          "underperformerAvg": 100.7439024390244,
+          "diff": -1.41463414634147,
+          "correlation": -0.11837817214384397
+        },
+        {
+          "key": "wingspanInches",
+          "label": "Wingspan",
+          "outperformerAvg": 79.46341463414635,
+          "underperformerAvg": 80.89634146341463,
+          "diff": -1.4329268292682826,
+          "correlation": -0.11795466674979804
+        },
+        {
+          "key": "usageTrajectory",
+          "label": "Usage Trajectory",
+          "outperformerAvg": 0.11101277697178387,
+          "underperformerAvg": 0.10676094866370099,
+          "diff": 0.004251828308082878,
+          "correlation": -0.11514129743743125
+        },
+        {
+          "key": "pointsShare",
+          "label": "Points Share",
+          "outperformerAvg": 0.21936515392211284,
+          "underperformerAvg": 0.21858567845329036,
+          "diff": 0.0007794754688224825,
+          "correlation": -0.10035976175282432
+        },
+        {
+          "key": "threePer40",
+          "label": "3PM/40",
+          "outperformerAvg": 2.075198884104831,
+          "underperformerAvg": 2.0371013329576675,
+          "diff": 0.03809755114716351,
+          "correlation": -0.0952179355488781
+        },
+        {
+          "key": "weightLbs",
+          "label": "Weight",
+          "outperformerAvg": 196.9975609756098,
+          "underperformerAvg": 203.28780487804886,
+          "diff": -6.290243902439073,
+          "correlation": -0.08761970851357742
+        }
+      ]
+    },
+    {
+      "position": "Wing",
+      "traits": [
+        {
+          "key": "gamesPlayed",
+          "label": "Games Played",
+          "outperformerAvg": 31.125,
+          "underperformerAvg": 24.06451612903226,
+          "diff": 7.06048387096774,
+          "correlation": 0.26092990070910427
+        },
+        {
+          "key": "minutesPerGame",
+          "label": "MPG",
+          "outperformerAvg": 29.56875,
+          "underperformerAvg": 25.528125000000003,
+          "diff": 4.040624999999999,
+          "correlation": 0.225686312326568
+        },
+        {
+          "key": "assistsShare",
+          "label": "Ast Share",
+          "outperformerAvg": 0.17380172782614017,
+          "underperformerAvg": 0.15667704221503923,
+          "diff": 0.017124685611100948,
+          "correlation": 0.2035376516156842
+        },
+        {
+          "key": "threePtPct",
+          "label": "3PT%",
+          "outperformerAvg": 0.4011138810464317,
+          "underperformerAvg": 0.3450409830358497,
+          "diff": 0.05607289801058202,
+          "correlation": 0.2012810481188649
+        },
+        {
+          "key": "ptsTrajectory",
+          "label": "PTS Trajectory",
+          "outperformerAvg": 0.6602373191047713,
+          "underperformerAvg": 1.6766581993877652,
+          "diff": -1.0164208802829937,
+          "correlation": -0.17192651293698988
+        },
+        {
+          "key": "winSharesPer40",
+          "label": "Win Shares/40",
+          "outperformerAvg": 0.18276000000000003,
+          "underperformerAvg": 0.2152352941176471,
+          "diff": -0.032475294117647074,
+          "correlation": -0.14832363868254975
+        },
+        {
+          "key": "maxVertical",
+          "label": "Max Vert",
+          "outperformerAvg": 34.609375,
+          "underperformerAvg": 33.640625,
+          "diff": 0.96875,
+          "correlation": 0.14180383534986207
+        },
+        {
+          "key": "freeThrowPct",
+          "label": "FT%",
+          "outperformerAvg": 0.7336146793727383,
+          "underperformerAvg": 0.6797334271506883,
+          "diff": 0.05388125222204998,
+          "correlation": 0.13899979794250986
+        },
+        {
+          "key": "trueShootingPct",
+          "label": "True Shooting %",
+          "outperformerAvg": 0.5538326147615004,
+          "underperformerAvg": 0.5181674077854213,
+          "diff": 0.03566520697607911,
+          "correlation": 0.1375275602266687
+        },
+        {
+          "key": "standingVertical",
+          "label": "Standing Vert",
+          "outperformerAvg": 29.578125,
+          "underperformerAvg": 28.53125,
+          "diff": 1.046875,
+          "correlation": 0.13384823749703456
+        },
+        {
+          "key": "threePer40",
+          "label": "3PM/40",
+          "outperformerAvg": 1.5768991230726963,
+          "underperformerAvg": 1.8509479782974139,
+          "diff": -0.27404885522471756,
+          "correlation": -0.13146454241660696
+        },
+        {
+          "key": "boxPlusMinus",
+          "label": "Box +/-",
+          "outperformerAvg": 6.869230769230769,
+          "underperformerAvg": 9.31111111111111,
+          "diff": -2.441880341880341,
+          "correlation": -0.11754492878661142
+        }
+      ]
+    },
+    {
+      "position": "Big",
+      "traits": [
+        {
+          "key": "usageTrajectory",
+          "label": "Usage Trajectory",
+          "outperformerAvg": 0.15152835801579087,
+          "underperformerAvg": 0.032104276057779185,
+          "diff": 0.11942408195801169,
+          "correlation": 0.30627503631404623
+        },
+        {
+          "key": "threePtPct",
+          "label": "3PT%",
+          "outperformerAvg": 0.3201578947368421,
+          "underperformerAvg": 0.41616666666666663,
+          "diff": -0.09600877192982454,
+          "correlation": -0.17192459803001356
+        },
+        {
+          "key": "pointsShare",
+          "label": "Points Share",
+          "outperformerAvg": 0.20704029420967407,
+          "underperformerAvg": 0.18657147383183123,
+          "diff": 0.02046882037784284,
+          "correlation": 0.1453454448492394
+        },
+        {
+          "key": "stlPer40",
+          "label": "STL/40",
+          "outperformerAvg": 1.35671349299088,
+          "underperformerAvg": 1.0849989852085724,
+          "diff": 0.27171450778230755,
+          "correlation": 0.1431021479878528
+        },
+        {
+          "key": "assistsShare",
+          "label": "Ast Share",
+          "outperformerAvg": 0.09702440835264847,
+          "underperformerAvg": 0.08271906085037192,
+          "diff": 0.01430534750227655,
+          "correlation": 0.12352330530821767
+        },
+        {
+          "key": "reboundsShare",
+          "label": "Reb Share",
+          "outperformerAvg": 0.23620038813884492,
+          "underperformerAvg": 0.22413391970938643,
+          "diff": 0.012066468429458493,
+          "correlation": 0.0952182365689743
+        },
+        {
+          "key": "blkPer40",
+          "label": "BLK/40",
+          "outperformerAvg": 2.2418176638100755,
+          "underperformerAvg": 2.491215072671788,
+          "diff": -0.24939740886171258,
+          "correlation": -0.08888994565119829
+        },
+        {
+          "key": "minutesPerGame",
+          "label": "MPG",
+          "outperformerAvg": 29.668571428571436,
+          "underperformerAvg": 28.66571428571429,
+          "diff": 1.0028571428571453,
+          "correlation": 0.0846923240635231
+        },
+        {
+          "key": "wingspanInches",
+          "label": "Wingspan",
+          "outperformerAvg": 85.94285714285714,
+          "underperformerAvg": 86.72142857142858,
+          "diff": -0.7785714285714391,
+          "correlation": -0.08170028234709575
+        },
+        {
+          "key": "freeThrowPct",
+          "label": "FT%",
+          "outperformerAvg": 0.6754870379338176,
+          "underperformerAvg": 0.6967142857142855,
+          "diff": -0.021227247780467917,
+          "correlation": -0.07203755646528757
+        },
+        {
+          "key": "benchPress",
+          "label": "Bench Press",
+          "outperformerAvg": 11.371428571428572,
+          "underperformerAvg": 10.114285714285714,
+          "diff": 1.257142857142858,
+          "correlation": 0.06901627611634353
+        },
+        {
+          "key": "usageRate",
+          "label": "Usage Rate",
+          "outperformerAvg": 24.091428571428565,
+          "underperformerAvg": 23.34857142857143,
+          "diff": 0.7428571428571367,
+          "correlation": 0.06786090001005177
+        }
+      ]
+    }
+  ],
+  "redFlags": [
+    {
+      "position": "Guard",
+      "range": "Lottery (6-14)",
+      "bustCount": 7,
+      "survivorCount": 45,
+      "flags": [
+        {
+          "label": "Box +/-",
+          "bustAvg": 7.55,
+          "survivorAvg": 9.185714285714287,
+          "diff": -1.635714285714287,
+          "isPct": false
+        },
+        {
+          "label": "AST/TO",
+          "bustAvg": 1.7248991912280567,
+          "survivorAvg": 1.4895767966940816,
+          "diff": 0.23532239453397508,
+          "isPct": false
+        },
+        {
+          "label": "PTS/40",
+          "bustAvg": 18.629996511761014,
+          "survivorAvg": 21.546624498078277,
+          "diff": -2.9166279863172626,
+          "isPct": false
+        },
+        {
+          "label": "Win Shares/40",
+          "bustAvg": 0.18128571428571427,
+          "survivorAvg": 0.20586046511627895,
+          "diff": -0.02457475083056468,
+          "isPct": false
+        },
+        {
+          "label": "Usage Rate",
+          "bustAvg": 24.385714285714283,
+          "survivorAvg": 26.92000000000001,
+          "diff": -2.5342857142857262,
+          "isPct": false
+        },
+        {
+          "label": "FT%",
+          "bustAvg": 0.7281428571428571,
+          "survivorAvg": 0.7961252136752135,
+          "diff": -0.0679823565323564,
+          "isPct": true
+        },
+        {
+          "label": "STL/40",
+          "bustAvg": 1.6298467839402677,
+          "survivorAvg": 1.770195493879913,
+          "diff": -0.1403487099396452,
+          "isPct": false
+        },
+        {
+          "label": "Max Vert",
+          "bustAvg": 35.214285714285715,
+          "survivorAvg": 36.43333333333333,
+          "diff": -1.2190476190476147,
+          "isPct": false
+        }
+      ]
+    },
+    {
+      "position": "Guard",
+      "range": "Late 1st (15-30)",
+      "bustCount": 30,
+      "survivorCount": 58,
+      "flags": [
+        {
+          "label": "Box +/-",
+          "bustAvg": 8.085,
+          "survivorAvg": 9.151612903225807,
+          "diff": -1.0666129032258063,
+          "isPct": false
+        },
+        {
+          "label": "AST/TO",
+          "bustAvg": 1.460198046809534,
+          "survivorAvg": 1.6180196012334387,
+          "diff": -0.15782155442390478,
+          "isPct": false
+        },
+        {
+          "label": "Usage Rate",
+          "bustAvg": 25.29666666666666,
+          "survivorAvg": 23.487931034482767,
+          "diff": 1.8087356321838932,
+          "isPct": false
+        },
+        {
+          "label": "3PT%",
+          "bustAvg": 0.3595326923076922,
+          "survivorAvg": 0.3835803034155437,
+          "diff": -0.02404761110785153,
+          "isPct": true
+        },
+        {
+          "label": "FT%",
+          "bustAvg": 0.7517166666666667,
+          "survivorAvg": 0.7828373563218393,
+          "diff": -0.031120689655172562,
+          "isPct": true
+        },
+        {
+          "label": "True Shooting %",
+          "bustAvg": 0.557551282051282,
+          "survivorAvg": 0.5725660003331667,
+          "diff": -0.01501471828188472,
+          "isPct": true
+        },
+        {
+          "label": "PTS/40",
+          "bustAvg": 19.83556136049194,
+          "survivorAvg": 19.461384804571072,
+          "diff": 0.37417655592086874,
+          "isPct": false
+        },
+        {
+          "label": "Win Shares/40",
+          "bustAvg": 0.19120689655172413,
+          "survivorAvg": 0.19485185185185186,
+          "diff": -0.0036449553001277335,
+          "isPct": false
+        }
+      ]
+    },
+    {
+      "position": "Wing",
+      "range": "Top 5",
+      "bustCount": 3,
+      "survivorCount": 22,
+      "flags": [
+        {
+          "label": "STL/40",
+          "bustAvg": 1.1235884186187428,
+          "survivorAvg": 1.542908374311465,
+          "diff": -0.4193199556927223,
+          "isPct": false
+        },
+        {
+          "label": "AST/TO",
+          "bustAvg": 0.7551487414187643,
+          "survivorAvg": 1.0083008032758178,
+          "diff": -0.2531520618570535,
+          "isPct": false
+        },
+        {
+          "label": "Win Shares/40",
+          "bustAvg": 0.23149999999999998,
+          "survivorAvg": 0.1904,
+          "diff": 0.04109999999999997,
+          "isPct": false
+        },
+        {
+          "label": "PTS/40",
+          "bustAvg": 15.84418297013159,
+          "survivorAvg": 19.399910836505377,
+          "diff": -3.555727866373788,
+          "isPct": false
+        },
+        {
+          "label": "FT%",
+          "bustAvg": 0.6076666666666667,
+          "survivorAvg": 0.7190795441502125,
+          "diff": -0.11141287748354578,
+          "isPct": true
+        },
+        {
+          "label": "True Shooting %",
+          "bustAvg": 0.48236666666666667,
+          "survivorAvg": 0.5510712475726945,
+          "diff": -0.06870458090602788,
+          "isPct": true
+        },
+        {
+          "label": "MPG",
+          "bustAvg": 24.733333333333334,
+          "survivorAvg": 28.209090909090904,
+          "diff": -3.4757575757575694,
+          "isPct": false
+        },
+        {
+          "label": "3PT%",
+          "bustAvg": 0.326,
+          "survivorAvg": 0.34792512533207076,
+          "diff": -0.02192512533207075,
+          "isPct": true
+        }
+      ]
+    },
+    {
+      "position": "Wing",
+      "range": "Lottery (6-14)",
+      "bustCount": 3,
+      "survivorCount": 29,
+      "flags": [
+        {
+          "label": "MPG",
+          "bustAvg": 13,
+          "survivorAvg": 30.45172413793103,
+          "diff": -17.45172413793103,
+          "isPct": false
+        },
+        {
+          "label": "FT%",
+          "bustAvg": 0.5515333333333334,
+          "survivorAvg": 0.7575100078007553,
+          "diff": -0.20597667446742185,
+          "isPct": true
+        },
+        {
+          "label": "AST/TO",
+          "bustAvg": 0.7525281985827071,
+          "survivorAvg": 0.9819210062680325,
+          "diff": -0.22939280768532533,
+          "isPct": false
+        },
+        {
+          "label": "Usage Rate",
+          "bustAvg": 20,
+          "survivorAvg": 24.91034482758621,
+          "diff": -4.910344827586211,
+          "isPct": false
+        },
+        {
+          "label": "STL/40",
+          "bustAvg": 1.362962962962963,
+          "survivorAvg": 1.6117561184760785,
+          "diff": -0.24879315551311554,
+          "isPct": false
+        },
+        {
+          "label": "PTS/40",
+          "bustAvg": 18.68148148148148,
+          "survivorAvg": 20.404007076559484,
+          "diff": -1.7225255950780038,
+          "isPct": false
+        },
+        {
+          "label": "True Shooting %",
+          "bustAvg": 0.5292277777777779,
+          "survivorAvg": 0.55741935164517,
+          "diff": -0.028191573867392128,
+          "isPct": true
+        },
+        {
+          "label": "Age at Draft",
+          "bustAvg": 19.428587725302304,
+          "survivorAvg": 20.385041736489733,
+          "diff": -0.9564540111874287,
+          "isPct": false
+        }
+      ]
+    },
+    {
+      "position": "Wing",
+      "range": "Late 1st (15-30)",
+      "bustCount": 24,
+      "survivorCount": 48,
+      "flags": [
+        {
+          "label": "Win Shares/40",
+          "bustAvg": 0.21392307692307697,
+          "survivorAvg": 0.18236363636363634,
+          "diff": 0.03155944055944063,
+          "isPct": false
+        },
+        {
+          "label": "Box +/-",
+          "bustAvg": 9.15,
+          "survivorAvg": 7.928571428571429,
+          "diff": 1.2214285714285715,
+          "isPct": false
+        },
+        {
+          "label": "3PT%",
+          "bustAvg": 0.3493002999844206,
+          "survivorAvg": 0.37690438217300226,
+          "diff": -0.02760408218858168,
+          "isPct": true
+        },
+        {
+          "label": "Usage Rate",
+          "bustAvg": 23.8125,
+          "survivorAvg": 22.466666666666665,
+          "diff": 1.345833333333335,
+          "isPct": false
+        },
+        {
+          "label": "True Shooting %",
+          "bustAvg": 0.5149014202413543,
+          "survivorAvg": 0.5454026559579159,
+          "diff": -0.030501235716561603,
+          "isPct": true
+        },
+        {
+          "label": "MPG",
+          "bustAvg": 26.783333333333335,
+          "survivorAvg": 27.814583333333335,
+          "diff": -1.03125,
+          "isPct": false
+        },
+        {
+          "label": "Max Vert",
+          "bustAvg": 33.666666666666664,
+          "survivorAvg": 34.6875,
+          "diff": -1.0208333333333357,
+          "isPct": false
+        },
+        {
+          "label": "STL/40",
+          "bustAvg": 1.5537310889922085,
+          "survivorAvg": 1.6000492035422862,
+          "diff": -0.04631811455007773,
+          "isPct": false
+        }
+      ]
+    },
+    {
+      "position": "Big",
+      "range": "Top 5",
+      "bustCount": 3,
+      "survivorCount": 22,
+      "flags": [
+        {
+          "label": "AST/TO",
+          "bustAvg": 0.3043859649122807,
+          "survivorAvg": 0.6989374205620629,
+          "diff": -0.39455145564978217,
+          "isPct": false
+        },
+        {
+          "label": "STL/40",
+          "bustAvg": 0.7023019795188259,
+          "survivorAvg": 1.452443493274081,
+          "diff": -0.7501415137552552,
+          "isPct": false
+        },
+        {
+          "label": "Win Shares/40",
+          "bustAvg": 0.37266666666666665,
+          "survivorAvg": 0.27995000000000003,
+          "diff": 0.09271666666666661,
+          "isPct": false
+        },
+        {
+          "label": "Usage Rate",
+          "bustAvg": 22.7,
+          "survivorAvg": 25.859090909090913,
+          "diff": -3.1590909090909136,
+          "isPct": false
+        },
+        {
+          "label": "True Shooting %",
+          "bustAvg": 0.6773333333333333,
+          "survivorAvg": 0.6166363636363635,
+          "diff": 0.060696969696969805,
+          "isPct": true
+        },
+        {
+          "label": "PTS/40",
+          "bustAvg": 24.36596387014649,
+          "survivorAvg": 22.346888280096074,
+          "diff": 2.0190755900504165,
+          "isPct": false
+        },
+        {
+          "label": "MPG",
+          "bustAvg": 27.900000000000002,
+          "survivorAvg": 29.881818181818186,
+          "diff": -1.9818181818181841,
+          "isPct": false
+        },
+        {
+          "label": "FT%",
+          "bustAvg": 0.6529999999999999,
+          "survivorAvg": 0.6798636363636364,
+          "diff": -0.026863636363636534,
+          "isPct": true
+        }
+      ]
+    },
+    {
+      "position": "Big",
+      "range": "Lottery (6-14)",
+      "bustCount": 9,
+      "survivorCount": 37,
+      "flags": [
+        {
+          "label": "3PT%",
+          "bustAvg": 0.305,
+          "survivorAvg": 0.3508,
+          "diff": -0.04580000000000001,
+          "isPct": true
+        },
+        {
+          "label": "AST/TO",
+          "bustAvg": 0.6329430084140228,
+          "survivorAvg": 0.7063627701935171,
+          "diff": -0.07341976177949427,
+          "isPct": false
+        },
+        {
+          "label": "Win Shares/40",
+          "bustAvg": 0.2452222222222222,
+          "survivorAvg": 0.22357142857142862,
+          "diff": 0.021650793650793587,
+          "isPct": false
+        },
+        {
+          "label": "STL/40",
+          "bustAvg": 1.259369457596439,
+          "survivorAvg": 1.17689940829404,
+          "diff": 0.08247004930239887,
+          "isPct": false
+        },
+        {
+          "label": "MPG",
+          "bustAvg": 29.966666666666672,
+          "survivorAvg": 28.308108108108105,
+          "diff": 1.6585585585585676,
+          "isPct": false
+        },
+        {
+          "label": "FT%",
+          "bustAvg": 0.7076666666666667,
+          "survivorAvg": 0.6798918918918918,
+          "diff": 0.027774774774774857,
+          "isPct": true
+        },
+        {
+          "label": "Max Vert",
+          "bustAvg": 32.611111111111114,
+          "survivorAvg": 33.689189189189186,
+          "diff": -1.0780780780780717,
+          "isPct": false
+        },
+        {
+          "label": "Lane Agility",
+          "bustAvg": 11.695555555555556,
+          "survivorAvg": 11.41459459459459,
+          "diff": 0.28096096096096623,
+          "isPct": false
+        }
+      ]
+    },
+    {
+      "position": "Big",
+      "range": "Late 1st (15-30)",
+      "bustCount": 28,
+      "survivorCount": 42,
+      "flags": [
+        {
+          "label": "3PT%",
+          "bustAvg": 0.4296500000000001,
+          "survivorAvg": 0.3403531034482758,
+          "diff": 0.08929689655172429,
+          "isPct": true
+        },
+        {
+          "label": "STL/40",
+          "bustAvg": 1.0393661865187378,
+          "survivorAvg": 1.3073188748430442,
+          "diff": -0.2679526883243064,
+          "isPct": false
+        },
+        {
+          "label": "Box +/-",
+          "bustAvg": 7.423809523809526,
+          "survivorAvg": 8.942857142857141,
+          "diff": -1.5190476190476154,
+          "isPct": false
+        },
+        {
+          "label": "Win Shares/40",
+          "bustAvg": 0.19485185185185183,
+          "survivorAvg": 0.2261081081081081,
+          "diff": -0.031256256256256276,
+          "isPct": false
+        },
+        {
+          "label": "PTS/40",
+          "bustAvg": 19.171381414392105,
+          "survivorAvg": 19.906091335226463,
+          "diff": -0.7347099208343586,
+          "isPct": false
+        },
+        {
+          "label": "AST/TO",
+          "bustAvg": 0.6998746719474249,
+          "survivorAvg": 0.6762043554070715,
+          "diff": 0.023670316540353453,
+          "isPct": false
+        },
+        {
+          "label": "FT%",
+          "bustAvg": 0.6933007518796991,
+          "survivorAvg": 0.6727975204158138,
+          "diff": 0.02050323146388533,
+          "isPct": true
+        },
+        {
+          "label": "MPG",
+          "bustAvg": 27.86428571428572,
+          "survivorAvg": 28.485714285714295,
+          "diff": -0.6214285714285737,
+          "isPct": false
+        }
+      ]
+    }
+  ]
+}

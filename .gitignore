@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# raw scraped data (regenerate via scripts/)
+data/raw/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

@@ -1,0 +1,5149 @@
+{
+  "generatedAt": "2026-10-26T22:22:16.220Z",
+  "profiles": [
+    {
+      "pick": 1,
+      "name": "Cooper Flagg",
+      "team": "DAL",
+      "college": "Duke",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "Top 5",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.12,
+      "historicalMedianGames": 6,
+      "stats": {
+        "ppg": 19.2,
+        "rpg": 7.5,
+        "apg": 4.2,
+        "spg": 1.4,
+        "bpg": 1.4,
+        "tov": 2.1,
+        "mpg": 30.7,
+        "ftPct": 0.84,
+        "fgPct": 0.481,
+        "threePtPct": 0.385,
+        "fta": 5.8,
+        "threePM": 1.4,
+        "gamesPlayed": 37,
+        "usageRate": 30.9,
+        "boxPlusMinus": 16.3,
+        "winSharesPer40": 0.296,
+        "trueShootingPct": 0.593,
+        "classYear": 1,
+        "ageAtDraft": 18.5
+      },
+      "per40": {
+        "pts": 25.016286644951137,
+        "reb": 9.77198697068404,
+        "ast": 5.4723127035830625,
+        "stl": 1.8241042345276872,
+        "blk": 1.8241042345276872,
+        "tov": 2.7361563517915313,
+        "fta": 7.55700325732899
+      },
+      "assistToTurnover": 2,
+      "expectedRole": "Two-Way Wing",
+      "roleConfidence": "clear",
+      "roleDetail": "Scores, shoots, and defends — premium NBA archetype",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "STL/40",
+          "value": "1.8",
+          "comparison": "Bust avg: 1.1, Survivor avg: 1.5",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "AST/TO",
+          "value": "2.0",
+          "comparison": "Bust avg: 0.755, Survivor avg: 1.0",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "PTS/40",
+          "value": "25.0",
+          "comparison": "Bust avg: 15.8, Survivor avg: 19.4",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "84.0%",
+          "comparison": "Bust avg: 60.8%, Survivor avg: 71.9%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "59.3%",
+          "comparison": "Bust avg: 48.2%, Survivor avg: 55.1%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "MPG",
+          "value": "30.7",
+          "comparison": "Bust avg: 24.7, Survivor avg: 28.2",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "3PT%",
+          "value": "38.5%",
+          "comparison": "Bust avg: 32.6%, Survivor avg: 34.5%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT% Elite",
+          "value": "84.0%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Active Hands",
+          "value": "1.8 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 16.3",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Strong profile — multiple markers of NBA success",
+      "nbaRookie": {
+        "team": "DAL",
+        "gamesPlayed": 57,
+        "mpg": 33.5,
+        "ppg": 20.2,
+        "rpg": 6.6,
+        "apg": 4.5,
+        "spg": 1.1,
+        "bpg": 0.9,
+        "tov": 2.3,
+        "fgPct": 0.471,
+        "ftPct": 0.804
+      }
+    },
+    {
+      "pick": 2,
+      "name": "Dylan Harper",
+      "team": "SAS",
+      "college": "Rutgers University",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "Top 5",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0,
+      "historicalMedianGames": 10,
+      "stats": {
+        "ppg": 19.4,
+        "rpg": 4.6,
+        "apg": 4,
+        "spg": 1.4,
+        "bpg": 0.6,
+        "tov": 2.4,
+        "mpg": 32.6,
+        "ftPct": 0.75,
+        "fgPct": 0.484,
+        "threePtPct": 0.333,
+        "fta": 5.8,
+        "threePM": 1.7,
+        "gamesPlayed": 29,
+        "usageRate": 29,
+        "boxPlusMinus": 9.2,
+        "winSharesPer40": 0.166,
+        "trueShootingPct": 0.587,
+        "classYear": 1,
+        "ageAtDraft": 19.3
+      },
+      "per40": {
+        "pts": 23.803680981595086,
+        "reb": 5.644171779141104,
+        "ast": 4.9079754601226995,
+        "stl": 1.7177914110429446,
+        "blk": 0.7361963190184049,
+        "tov": 2.9447852760736195,
+        "fta": 7.116564417177914
+      },
+      "assistToTurnover": 1.6666666666666667,
+      "expectedRole": "Combo Guard",
+      "roleConfidence": "clear",
+      "roleDetail": "Efficient high-usage scorer — can create his own shot and contributes across the board",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "1.7 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.2",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "SAS",
+        "gamesPlayed": 56,
+        "mpg": 22.1,
+        "ppg": 11.3,
+        "rpg": 3.3,
+        "apg": 3.8,
+        "spg": 0.8,
+        "bpg": 0.3,
+        "tov": 1.4,
+        "fgPct": 0.49,
+        "ftPct": 0.733
+      }
+    },
+    {
+      "pick": 3,
+      "name": "VJ Edgecombe",
+      "team": "PHI",
+      "college": "Baylor",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "Top 5",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0,
+      "historicalMedianGames": 10,
+      "stats": {
+        "ppg": 15,
+        "rpg": 5.6,
+        "apg": 3.2,
+        "spg": 2.1,
+        "bpg": 0.6,
+        "tov": 1.9,
+        "mpg": 32.7,
+        "ftPct": 0.782,
+        "fgPct": 0.436,
+        "threePtPct": 0.34,
+        "fta": 4.3,
+        "threePM": 1.6,
+        "gamesPlayed": 33,
+        "usageRate": 24.1,
+        "boxPlusMinus": 11.4,
+        "winSharesPer40": 0.178,
+        "trueShootingPct": 0.552,
+        "classYear": 1,
+        "ageAtDraft": 19.9
+      },
+      "per40": {
+        "pts": 18.34862385321101,
+        "reb": 6.850152905198775,
+        "ast": 3.914373088685015,
+        "stl": 2.5688073394495414,
+        "blk": 0.7339449541284403,
+        "tov": 2.324159021406728,
+        "fta": 5.2599388379204886
+      },
+      "assistToTurnover": 1.6842105263157896,
+      "expectedRole": "Defensive Guard",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Active hands but no clear offensive role — needs a skill to stick",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Defensive Guard",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "high",
+          "detail": "Active hands but no clear offensive role — needs a skill to stick"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "2.6 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 11.4",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "One major concern — worth monitoring",
+      "nbaRookie": {
+        "team": "PHI",
+        "gamesPlayed": 62,
+        "mpg": 34.8,
+        "ppg": 15.3,
+        "rpg": 5.5,
+        "apg": 3.9,
+        "spg": 1.4,
+        "bpg": 0.6,
+        "tov": 1.9,
+        "fgPct": 0.423,
+        "ftPct": 0.825
+      }
+    },
+    {
+      "pick": 4,
+      "name": "Kon Knueppel",
+      "team": "CHO",
+      "college": "Duke",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "Top 5",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0,
+      "historicalMedianGames": 10,
+      "stats": {
+        "ppg": 14.4,
+        "rpg": 4,
+        "apg": 2.7,
+        "spg": 1,
+        "bpg": 0.2,
+        "tov": 1.4,
+        "mpg": 30.5,
+        "ftPct": 0.914,
+        "fgPct": 0.479,
+        "threePtPct": 0.406,
+        "fta": 3.3,
+        "threePM": 2.2,
+        "gamesPlayed": 39,
+        "usageRate": 21.4,
+        "boxPlusMinus": 10.8,
+        "winSharesPer40": 0.232,
+        "trueShootingPct": 0.642,
+        "classYear": 1,
+        "ageAtDraft": 19.9
+      },
+      "per40": {
+        "pts": 18.885245901639344,
+        "reb": 5.245901639344263,
+        "ast": 3.5409836065573774,
+        "stl": 1.3114754098360657,
+        "blk": 0.26229508196721313,
+        "tov": 1.8360655737704916,
+        "fta": 4.327868852459017
+      },
+      "assistToTurnover": 1.9285714285714288,
+      "expectedRole": "Spot-Up Shooter",
+      "roleConfidence": "clear",
+      "roleDetail": "Floor spacer — will need to shoot to stay on the floor",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "FT% Elite",
+          "value": "91.4%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 10.8",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "CHO",
+        "gamesPlayed": 68,
+        "mpg": 31.8,
+        "ppg": 19.3,
+        "rpg": 5.3,
+        "apg": 3.4,
+        "spg": 0.8,
+        "bpg": 0.3,
+        "tov": 2,
+        "fgPct": 0.49,
+        "ftPct": 0.876
+      }
+    },
+    {
+      "pick": 5,
+      "name": "Ace Bailey",
+      "team": "UTA",
+      "college": "Rutgers University",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "Top 5",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.12,
+      "historicalMedianGames": 6,
+      "stats": {
+        "ppg": 17.6,
+        "rpg": 7.2,
+        "apg": 1.3,
+        "spg": 1,
+        "bpg": 1.3,
+        "tov": 2,
+        "mpg": 33.3,
+        "ftPct": 0.692,
+        "fgPct": 0.46,
+        "threePtPct": 0.346,
+        "fta": 3.6,
+        "threePM": 1.6,
+        "gamesPlayed": 30,
+        "usageRate": 27.5,
+        "boxPlusMinus": 4.5,
+        "winSharesPer40": 0.112,
+        "trueShootingPct": 0.536,
+        "classYear": 1,
+        "ageAtDraft": 18.9
+      },
+      "per40": {
+        "pts": 21.141141141141144,
+        "reb": 8.64864864864865,
+        "ast": 1.5615615615615617,
+        "stl": 1.2012012012012012,
+        "blk": 1.5615615615615617,
+        "tov": 2.4024024024024024,
+        "fta": 4.324324324324325
+      },
+      "assistToTurnover": 0.65,
+      "expectedRole": "Two-Way Wing",
+      "roleConfidence": "clear",
+      "roleDetail": "Scores and defends without elite shooting — upside depends on shot development",
+      "flags": [
+        {
+          "label": "STL/40",
+          "value": "1.2",
+          "comparison": "Bust avg: 1.1, Survivor avg: 1.5",
+          "severity": "medium",
+          "detail": "Closer to bust average than survivor average"
+        },
+        {
+          "label": "AST/TO",
+          "value": "0.650",
+          "comparison": "Bust avg: 0.755, Survivor avg: 1.0",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Top 5"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "PTS/40",
+          "value": "21.1",
+          "comparison": "Bust avg: 15.8, Survivor avg: 19.4",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "69.2%",
+          "comparison": "Bust avg: 60.8%, Survivor avg: 71.9%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "53.6%",
+          "comparison": "Bust avg: 48.2%, Survivor avg: 55.1%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "MPG",
+          "value": "33.3",
+          "comparison": "Bust avg: 24.7, Survivor avg: 28.2",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "3PT%",
+          "value": "34.6%",
+          "comparison": "Bust avg: 32.6%, Survivor avg: 34.5%",
+          "detail": "At or above survivor average"
+        }
+      ],
+      "summary": "One major concern — worth monitoring",
+      "nbaRookie": {
+        "team": "UTA",
+        "gamesPlayed": 59,
+        "mpg": 26.7,
+        "ppg": 12.4,
+        "rpg": 4,
+        "apg": 1.7,
+        "spg": 0.9,
+        "bpg": 0.5,
+        "tov": 1.3,
+        "fgPct": 0.445,
+        "ftPct": 0.742
+      }
+    },
+    {
+      "pick": 6,
+      "name": "Tre Johnson",
+      "team": "WAS",
+      "college": "Texas",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.13461538461538464,
+      "historicalMedianGames": 7,
+      "stats": {
+        "ppg": 19.9,
+        "rpg": 3.1,
+        "apg": 2.7,
+        "spg": 0.9,
+        "bpg": 0.3,
+        "tov": 1.8,
+        "mpg": 34.7,
+        "ftPct": 0.871,
+        "fgPct": 0.427,
+        "threePtPct": 0.397,
+        "fta": 4.2,
+        "threePM": 2.7,
+        "gamesPlayed": 33,
+        "usageRate": 29.1,
+        "boxPlusMinus": 7.7,
+        "winSharesPer40": 0.145,
+        "trueShootingPct": 0.557,
+        "classYear": 1,
+        "ageAtDraft": 19.3
+      },
+      "per40": {
+        "pts": 22.939481268011527,
+        "reb": 3.5734870317002883,
+        "ast": 3.1123919308357353,
+        "stl": 1.037463976945245,
+        "blk": 0.34582132564841495,
+        "tov": 2.07492795389049,
+        "fta": 4.8414985590778095
+      },
+      "assistToTurnover": 1.5,
+      "expectedRole": "Scoring Guard",
+      "roleConfidence": "clear",
+      "roleDetail": "Volume scorer with shooting touch — projects as a go-to offensive option",
+      "flags": [
+        {
+          "label": "Box +/-",
+          "value": "7.7",
+          "comparison": "Bust avg: 7.5, Survivor avg: 9.2",
+          "severity": "medium",
+          "detail": "Closer to bust average than survivor average"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.145",
+          "comparison": "Bust avg: 0.181, Survivor avg: 0.206",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        },
+        {
+          "label": "STL/40",
+          "value": "1.0",
+          "comparison": "Bust avg: 1.6, Survivor avg: 1.8",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "PTS/40",
+          "value": "22.9",
+          "comparison": "Bust avg: 18.6, Survivor avg: 21.5",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Usage Rate",
+          "value": "29.1",
+          "comparison": "Bust avg: 24.4, Survivor avg: 26.9",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "87.1%",
+          "comparison": "Bust avg: 72.8%, Survivor avg: 79.6%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT% Elite",
+          "value": "87.1%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "WAS",
+        "gamesPlayed": 55,
+        "mpg": 24.1,
+        "ppg": 12.4,
+        "rpg": 2.8,
+        "apg": 2,
+        "spg": 0.6,
+        "bpg": 0.3,
+        "tov": 1.5,
+        "fgPct": 0.421,
+        "ftPct": 0.874
+      }
+    },
+    {
+      "pick": 7,
+      "name": "Jeremiah Fears",
+      "team": "NOP",
+      "college": "Oklahoma",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.13461538461538464,
+      "historicalMedianGames": 7,
+      "stats": {
+        "ppg": 17.1,
+        "rpg": 4.1,
+        "apg": 4.1,
+        "spg": 1.6,
+        "bpg": 0.1,
+        "tov": 3.4,
+        "mpg": 30.2,
+        "ftPct": 0.851,
+        "fgPct": 0.434,
+        "threePtPct": 0.284,
+        "fta": 6.3,
+        "threePM": 1.1,
+        "gamesPlayed": 34,
+        "usageRate": 31.5,
+        "boxPlusMinus": 5.9,
+        "winSharesPer40": 0.132,
+        "trueShootingPct": 0.562,
+        "classYear": 1,
+        "ageAtDraft": 18.7
+      },
+      "per40": {
+        "pts": 22.649006622516556,
+        "reb": 5.430463576158941,
+        "ast": 5.430463576158941,
+        "stl": 2.119205298013245,
+        "blk": 0.13245033112582782,
+        "tov": 4.503311258278146,
+        "fta": 8.344370860927153
+      },
+      "assistToTurnover": 1.2058823529411764,
+      "expectedRole": "Two-Way Guard",
+      "roleConfidence": "clear",
+      "roleDetail": "Scores and defends — versatile backcourt piece",
+      "flags": [
+        {
+          "label": "Box +/-",
+          "value": "5.9",
+          "comparison": "Bust avg: 7.5, Survivor avg: 9.2",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.132",
+          "comparison": "Bust avg: 0.181, Survivor avg: 0.206",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "PTS/40",
+          "value": "22.6",
+          "comparison": "Bust avg: 18.6, Survivor avg: 21.5",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Usage Rate",
+          "value": "31.5",
+          "comparison": "Bust avg: 24.4, Survivor avg: 26.9",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "85.1%",
+          "comparison": "Bust avg: 72.8%, Survivor avg: 79.6%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "STL/40",
+          "value": "2.1",
+          "comparison": "Bust avg: 1.6, Survivor avg: 1.8",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT% Elite",
+          "value": "85.1%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Active Hands",
+          "value": "2.1 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "NOP",
+        "gamesPlayed": 69,
+        "mpg": 25.1,
+        "ppg": 13.1,
+        "rpg": 3.7,
+        "apg": 3.2,
+        "spg": 1.1,
+        "bpg": 0.3,
+        "tov": 2.2,
+        "fgPct": 0.426,
+        "ftPct": 0.79
+      }
+    },
+    {
+      "pick": 8,
+      "name": "Egor Dёmin",
+      "team": "BRK",
+      "college": "BYU",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.13461538461538464,
+      "historicalMedianGames": 7,
+      "stats": {
+        "ppg": 10.6,
+        "rpg": 3.9,
+        "apg": 5.5,
+        "spg": 1.2,
+        "bpg": 0.4,
+        "tov": 2.9,
+        "mpg": 27.5,
+        "ftPct": 0.695,
+        "fgPct": 0.412,
+        "threePtPct": 0.273,
+        "fta": 2.5,
+        "threePM": 1.3,
+        "gamesPlayed": 33,
+        "usageRate": 24.5,
+        "boxPlusMinus": 5.3,
+        "winSharesPer40": 0.103,
+        "trueShootingPct": 0.509,
+        "classYear": 1,
+        "ageAtDraft": 19.3
+      },
+      "per40": {
+        "pts": 15.418181818181818,
+        "reb": 5.672727272727273,
+        "ast": 8,
+        "stl": 1.7454545454545454,
+        "blk": 0.5818181818181818,
+        "tov": 4.218181818181818,
+        "fta": 3.6363636363636367
+      },
+      "assistToTurnover": 1.896551724137931,
+      "expectedRole": "Playmaker",
+      "roleConfidence": "clear",
+      "roleDetail": "Pass-first guard — value depends on finding shooters around him",
+      "flags": [
+        {
+          "label": "Box +/-",
+          "value": "5.3",
+          "comparison": "Bust avg: 7.5, Survivor avg: 9.2",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        },
+        {
+          "label": "PTS/40",
+          "value": "15.4",
+          "comparison": "Bust avg: 18.6, Survivor avg: 21.5",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.103",
+          "comparison": "Bust avg: 0.181, Survivor avg: 0.206",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        },
+        {
+          "label": "Usage Rate",
+          "value": "24.5",
+          "comparison": "Bust avg: 24.4, Survivor avg: 26.9",
+          "severity": "medium",
+          "detail": "Closer to bust average than survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "69.5%",
+          "comparison": "Bust avg: 72.8%, Survivor avg: 79.6%",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "STL/40",
+          "value": "1.7",
+          "comparison": "Bust avg: 1.6, Survivor avg: 1.8",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Active Hands",
+          "value": "1.7 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "BRK",
+        "gamesPlayed": 52,
+        "mpg": 25.2,
+        "ppg": 10.3,
+        "rpg": 3.2,
+        "apg": 3.3,
+        "spg": 0.8,
+        "bpg": 0.3,
+        "tov": 1.7,
+        "fgPct": 0.399,
+        "ftPct": 0.831
+      }
+    },
+    {
+      "pick": 9,
+      "name": "Collin Murray-Boyles",
+      "team": "TOR",
+      "college": "South Carolina",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.19565217391304346,
+      "historicalMedianGames": 5.5,
+      "stats": {
+        "ppg": 16.8,
+        "rpg": 8.3,
+        "apg": 2.4,
+        "spg": 1.5,
+        "bpg": 1.3,
+        "tov": 2.4,
+        "mpg": 30.6,
+        "ftPct": 0.707,
+        "fgPct": 0.586,
+        "threePtPct": 0.265,
+        "fta": 5.9,
+        "threePM": 0.3,
+        "gamesPlayed": 32,
+        "usageRate": 26.7,
+        "boxPlusMinus": 11.9,
+        "winSharesPer40": 0.2,
+        "trueShootingPct": 0.63,
+        "classYear": 2,
+        "ageAtDraft": 20
+      },
+      "per40": {
+        "pts": 21.96078431372549,
+        "reb": 10.84967320261438,
+        "ast": 3.1372549019607843,
+        "stl": 1.9607843137254901,
+        "blk": 1.6993464052287583,
+        "tov": 3.1372549019607843,
+        "fta": 7.712418300653595
+      },
+      "assistToTurnover": 1,
+      "expectedRole": "Scoring Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Efficient scorer who can create — projects as an offensive hub",
+      "flags": [
+        {
+          "label": "Non-Shooter",
+          "value": "0.3 3PM/g, 26.5% 3PT",
+          "comparison": "Modern NBA wings/forwards need to space the floor",
+          "severity": "high",
+          "detail": "Barely attempts threes — limits offensive versatility and floor spacing at the next level"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "AST/TO",
+          "value": "1.0",
+          "comparison": "Bust avg: 0.633, Survivor avg: 0.706",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 11.9",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "One major concern — worth monitoring",
+      "nbaRookie": {
+        "team": "TOR",
+        "gamesPlayed": 47,
+        "mpg": 22.3,
+        "ppg": 7.8,
+        "rpg": 5,
+        "apg": 2,
+        "spg": 0.9,
+        "bpg": 0.9,
+        "tov": 1.1,
+        "fgPct": 0.557,
+        "ftPct": 0.653
+      }
+    },
+    {
+      "pick": 10,
+      "name": "Khaman Maluach",
+      "team": "HOU",
+      "college": "Duke",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.19565217391304346,
+      "historicalMedianGames": 5.5,
+      "stats": {
+        "ppg": 8.6,
+        "rpg": 6.6,
+        "apg": 0.5,
+        "spg": 0.2,
+        "bpg": 1.3,
+        "tov": 0.8,
+        "mpg": 21.2,
+        "ftPct": 0.766,
+        "fgPct": 0.712,
+        "threePtPct": 0.25,
+        "fta": 2,
+        "threePM": 0.1,
+        "gamesPlayed": 39,
+        "usageRate": 16.1,
+        "boxPlusMinus": 9.9,
+        "winSharesPer40": 0.26,
+        "trueShootingPct": 0.736,
+        "classYear": 1,
+        "ageAtDraft": 18.8
+      },
+      "per40": {
+        "pts": 16.22641509433962,
+        "reb": 12.452830188679245,
+        "ast": 0.9433962264150944,
+        "stl": 0.37735849056603776,
+        "blk": 2.4528301886792456,
+        "tov": 1.509433962264151,
+        "fta": 3.7735849056603774
+      },
+      "assistToTurnover": 0.625,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "No clear defensive anchor role, no shooting, no active hands — unclear NBA path",
+      "flags": [
+        {
+          "label": "AST/TO",
+          "value": "0.625",
+          "comparison": "Bust avg: 0.633, Survivor avg: 0.706",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Lottery (6-14)"
+        },
+        {
+          "label": "Low Minutes",
+          "value": "21.2 MPG",
+          "comparison": "Lottery picks typically play 28+ MPG in college",
+          "severity": "medium",
+          "detail": "Not a full-time starter — concerning for a pick this high"
+        },
+        {
+          "label": "Non-Shooter",
+          "value": "0.1 3PM/g, 25.0% 3PT",
+          "comparison": "Modern NBA wings/forwards need to space the floor",
+          "severity": "high",
+          "detail": "Barely attempts threes — limits offensive versatility and floor spacing at the next level"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "high",
+          "detail": "No clear defensive anchor role, no shooting, no active hands — unclear NBA path"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.9",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "PHO",
+        "gamesPlayed": 34,
+        "mpg": 7.2,
+        "ppg": 2.2,
+        "rpg": 2,
+        "apg": 0.1,
+        "spg": 0.1,
+        "bpg": 0.5,
+        "tov": 0.6,
+        "fgPct": 0.526,
+        "ftPct": 0.765
+      }
+    },
+    {
+      "pick": 11,
+      "name": "Cedric Coward",
+      "team": "POR",
+      "college": "Washington State",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.13461538461538464,
+      "historicalMedianGames": 7,
+      "stats": {
+        "ppg": 17.7,
+        "rpg": 7,
+        "apg": 3.7,
+        "spg": 0.8,
+        "bpg": 1.7,
+        "tov": 2.2,
+        "mpg": 33,
+        "ftPct": 0.839,
+        "fgPct": 0.557,
+        "threePtPct": 0.4,
+        "fta": 5.2,
+        "threePM": 2,
+        "gamesPlayed": 6,
+        "usageRate": 22.1,
+        "boxPlusMinus": 9.3,
+        "winSharesPer40": 0.21,
+        "trueShootingPct": 0.7,
+        "classYear": 4,
+        "ageAtDraft": 21.8
+      },
+      "per40": {
+        "pts": 21.454545454545453,
+        "reb": 8.484848484848484,
+        "ast": 4.484848484848484,
+        "stl": 0.9696969696969697,
+        "blk": 2.0606060606060606,
+        "tov": 2.6666666666666665,
+        "fta": 6.303030303030304
+      },
+      "assistToTurnover": 1.6818181818181817,
+      "expectedRole": "Spot-Up Shooter",
+      "roleConfidence": "clear",
+      "roleDetail": "Floor spacer — will need to shoot to stay on the floor",
+      "flags": [
+        {
+          "label": "Usage Rate",
+          "value": "22.1",
+          "comparison": "Bust avg: 24.4, Survivor avg: 26.9",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        },
+        {
+          "label": "STL/40",
+          "value": "0.970",
+          "comparison": "Bust avg: 1.6, Survivor avg: 1.8",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Lottery (6-14)"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Box +/-",
+          "value": "9.3",
+          "comparison": "Bust avg: 7.5, Survivor avg: 9.2",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "PTS/40",
+          "value": "21.5",
+          "comparison": "Bust avg: 18.6, Survivor avg: 21.5",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.210",
+          "comparison": "Bust avg: 0.181, Survivor avg: 0.206",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "83.9%",
+          "comparison": "Bust avg: 72.8%, Survivor avg: 79.6%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT% Elite",
+          "value": "83.9%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.3",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "MEM",
+        "gamesPlayed": 53,
+        "mpg": 26,
+        "ppg": 13.3,
+        "rpg": 6.2,
+        "apg": 2.8,
+        "spg": 0.6,
+        "bpg": 0.4,
+        "tov": 1.8,
+        "fgPct": 0.467,
+        "ftPct": 0.838
+      }
+    },
+    {
+      "pick": 12,
+      "name": "Noa Essengue",
+      "team": "CHI",
+      "college": "",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.19565217391304346,
+      "historicalMedianGames": 5.5,
+      "stats": {
+        "ppg": 12.4,
+        "rpg": 5.3,
+        "apg": 1.1,
+        "spg": 1.4,
+        "bpg": 0.6,
+        "tov": 1,
+        "mpg": 23.7,
+        "ftPct": 0.73,
+        "fgPct": 0.56,
+        "threePtPct": 0.294,
+        "fta": 5.6,
+        "threePM": 0.6,
+        "gamesPlayed": 18,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 2,
+        "ageAtDraft": 18.5
+      },
+      "per40": {
+        "pts": 20.928270042194093,
+        "reb": 8.945147679324894,
+        "ast": 1.8565400843881856,
+        "stl": 2.3628691983122363,
+        "blk": 1.0126582278481013,
+        "tov": 1.6877637130801686,
+        "fta": 9.451476793248945
+      },
+      "assistToTurnover": 1.1,
+      "expectedRole": "Role Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Solid but not elite in any one area — projects as a rotation piece",
+      "flags": [
+        {
+          "label": "3PT%",
+          "value": "29.4%",
+          "comparison": "Bust avg: 31.3%, Survivor avg: 34.4%",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Lottery (6-14)"
+        },
+        {
+          "label": "Low Minutes",
+          "value": "23.7 MPG",
+          "comparison": "Lottery picks typically play 28+ MPG in college",
+          "severity": "medium",
+          "detail": "Not a full-time starter — concerning for a pick this high"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "AST/TO",
+          "value": "1.1",
+          "comparison": "Bust avg: 0.633, Survivor avg: 0.706",
+          "detail": "At or above survivor average"
+        }
+      ],
+      "summary": "One major concern — worth monitoring",
+      "nbaRookie": {
+        "team": "CHI",
+        "gamesPlayed": 2,
+        "mpg": 3,
+        "ppg": 0,
+        "rpg": 0,
+        "apg": 0,
+        "spg": 0.5,
+        "bpg": 0,
+        "tov": 0,
+        "fgPct": 0,
+        "ftPct": 0
+      }
+    },
+    {
+      "pick": 13,
+      "name": "Derik Queen",
+      "team": "ATL",
+      "college": "Maryland",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.19565217391304346,
+      "historicalMedianGames": 5.5,
+      "stats": {
+        "ppg": 16.5,
+        "rpg": 9,
+        "apg": 1.9,
+        "spg": 1.1,
+        "bpg": 1.1,
+        "tov": 2.4,
+        "mpg": 30.4,
+        "ftPct": 0.766,
+        "fgPct": 0.526,
+        "threePtPct": 0.2,
+        "fta": 6.1,
+        "threePM": 0.2,
+        "gamesPlayed": 36,
+        "usageRate": 26.6,
+        "boxPlusMinus": 9.2,
+        "winSharesPer40": 0.216,
+        "trueShootingPct": 0.591,
+        "classYear": 1,
+        "ageAtDraft": 20.5
+      },
+      "per40": {
+        "pts": 21.710526315789473,
+        "reb": 11.842105263157896,
+        "ast": 2.5,
+        "stl": 1.4473684210526316,
+        "blk": 1.4473684210526316,
+        "tov": 3.1578947368421053,
+        "fta": 8.026315789473683
+      },
+      "assistToTurnover": 0.7916666666666666,
+      "expectedRole": "Scoring Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Efficient scorer who can create — projects as an offensive hub",
+      "flags": [
+        {
+          "label": "Non-Shooter",
+          "value": "0.2 3PM/g, 20.0% 3PT",
+          "comparison": "Modern NBA wings/forwards need to space the floor",
+          "severity": "high",
+          "detail": "Barely attempts threes — limits offensive versatility and floor spacing at the next level"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "AST/TO",
+          "value": "0.792",
+          "comparison": "Bust avg: 0.633, Survivor avg: 0.706",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.2",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "One major concern — worth monitoring",
+      "nbaRookie": {
+        "team": "NOP",
+        "gamesPlayed": 68,
+        "mpg": 24.9,
+        "ppg": 11.5,
+        "rpg": 7,
+        "apg": 3.8,
+        "spg": 0.9,
+        "bpg": 0.9,
+        "tov": 2.3,
+        "fgPct": 0.481,
+        "ftPct": 0.79
+      }
+    },
+    {
+      "pick": 14,
+      "name": "Carter Bryant",
+      "team": "SAS",
+      "college": "Arizona",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "Lottery (6-14)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.09375,
+      "historicalMedianGames": 7,
+      "stats": {
+        "ppg": 6.5,
+        "rpg": 4.1,
+        "apg": 1,
+        "spg": 0.9,
+        "bpg": 1,
+        "tov": 1,
+        "mpg": 19.3,
+        "ftPct": 0.695,
+        "fgPct": 0.46,
+        "threePtPct": 0.371,
+        "fta": 1.6,
+        "threePM": 1.1,
+        "gamesPlayed": 37,
+        "usageRate": 16.4,
+        "boxPlusMinus": 8.8,
+        "winSharesPer40": 0.142,
+        "trueShootingPct": 0.593,
+        "classYear": 1,
+        "ageAtDraft": 19.6
+      },
+      "per40": {
+        "pts": 13.471502590673573,
+        "reb": 8.497409326424869,
+        "ast": 2.0725388601036268,
+        "stl": 1.8652849740932642,
+        "blk": 2.0725388601036268,
+        "tov": 2.0725388601036268,
+        "fta": 3.3160621761658033
+      },
+      "assistToTurnover": 1,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Could not earn starter minutes in college — role at next level is unclear",
+      "flags": [
+        {
+          "label": "MPG",
+          "value": "19.3",
+          "comparison": "Bust avg: 13.0, Survivor avg: 30.5",
+          "severity": "medium",
+          "detail": "Closer to bust average than survivor average"
+        },
+        {
+          "label": "Usage Rate",
+          "value": "16.4",
+          "comparison": "Bust avg: 20.0, Survivor avg: 24.9",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Lottery (6-14)"
+        },
+        {
+          "label": "PTS/40",
+          "value": "13.5",
+          "comparison": "Bust avg: 18.7, Survivor avg: 20.4",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Lottery (6-14)"
+        },
+        {
+          "label": "Low Minutes",
+          "value": "19.3 MPG",
+          "comparison": "Lottery picks typically play 28+ MPG in college",
+          "severity": "medium",
+          "detail": "Not a full-time starter — concerning for a pick this high"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "high",
+          "detail": "Could not earn starter minutes in college — role at next level is unclear"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "AST/TO",
+          "value": "1.0",
+          "comparison": "Bust avg: 0.753, Survivor avg: 0.982",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "69.5%",
+          "comparison": "Bust avg: 60.1%, Survivor avg: 75.8%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "STL/40",
+          "value": "1.9",
+          "comparison": "Bust avg: 1.4, Survivor avg: 1.6",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "3PT%",
+          "value": "37.1%",
+          "comparison": "Bust avg: 31.3%, Survivor avg: 36.8%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "59.3%",
+          "comparison": "Bust avg: 51.9%, Survivor avg: 55.7%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Active Hands",
+          "value": "1.9 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 8.8",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "SAS",
+        "gamesPlayed": 58,
+        "mpg": 10.5,
+        "ppg": 3.9,
+        "rpg": 2.3,
+        "apg": 0.5,
+        "spg": 0.2,
+        "bpg": 0.3,
+        "tov": 0.3,
+        "fgPct": 0.38,
+        "ftPct": 0.722
+      }
+    },
+    {
+      "pick": 15,
+      "name": "Thomas Sorber",
+      "team": "OKC",
+      "college": "Georgetown",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.4084507042253521,
+      "historicalMedianGames": 3,
+      "stats": {
+        "ppg": 14.5,
+        "rpg": 8.5,
+        "apg": 2.4,
+        "spg": 1.5,
+        "bpg": 2,
+        "tov": 2.3,
+        "mpg": 31.3,
+        "ftPct": 0.724,
+        "fgPct": 0.532,
+        "threePtPct": 0.162,
+        "fta": 4.4,
+        "threePM": 0.3,
+        "gamesPlayed": 24,
+        "usageRate": 23.6,
+        "boxPlusMinus": 8.5,
+        "winSharesPer40": 0.179,
+        "trueShootingPct": 0.58,
+        "classYear": 1,
+        "ageAtDraft": 19
+      },
+      "per40": {
+        "pts": 18.53035143769968,
+        "reb": 10.862619808306707,
+        "ast": 3.0670926517571884,
+        "stl": 1.9169329073482428,
+        "blk": 2.5559105431309903,
+        "tov": 2.939297124600639,
+        "fta": 5.62300319488818
+      },
+      "assistToTurnover": 1.0434782608695652,
+      "expectedRole": "Switchable Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Protects the rim, active hands, and has a secondary skill — modern big archetype",
+      "flags": [
+        {
+          "label": "Win Shares/40",
+          "value": "0.179",
+          "comparison": "Bust avg: 0.193, Survivor avg: 0.226",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "PTS/40",
+          "value": "18.5",
+          "comparison": "Bust avg: 18.9, Survivor avg: 19.9",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "Non-Shooter",
+          "value": "0.3 3PM/g, 16.2% 3PT",
+          "comparison": "Modern NBA wings/forwards need to space the floor",
+          "severity": "medium",
+          "detail": "Barely attempts threes — limits offensive versatility and floor spacing at the next level"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "STL/40",
+          "value": "1.9",
+          "comparison": "Bust avg: 1.0, Survivor avg: 1.3",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Box +/-",
+          "value": "8.5",
+          "comparison": "Bust avg: 7.3, Survivor avg: 8.9",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "MPG",
+          "value": "31.3",
+          "comparison": "Bust avg: 27.8, Survivor avg: 28.5",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 8.5",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk"
+    },
+    {
+      "pick": 16,
+      "name": "Yang Hansen",
+      "team": "MEM",
+      "college": "",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.4084507042253521,
+      "historicalMedianGames": 3,
+      "stats": {
+        "ppg": 16.6,
+        "rpg": 10.5,
+        "apg": 3,
+        "spg": 1,
+        "bpg": 2.6,
+        "tov": 3,
+        "mpg": 32.8,
+        "ftPct": 0.671,
+        "fgPct": 0.586,
+        "threePtPct": 0.333,
+        "fta": 4.9,
+        "threePM": 0.4,
+        "gamesPlayed": 45,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 2,
+        "ageAtDraft": 20
+      },
+      "per40": {
+        "pts": 20.243902439024396,
+        "reb": 12.804878048780488,
+        "ast": 3.6585365853658542,
+        "stl": 1.2195121951219514,
+        "blk": 3.1707317073170738,
+        "tov": 3.6585365853658542,
+        "fta": 5.975609756097562
+      },
+      "assistToTurnover": 1,
+      "expectedRole": "Switchable Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Protects the rim, active hands, and has a secondary skill — modern big archetype",
+      "flags": [
+        {
+          "label": "Non-Shooter",
+          "value": "0.4 3PM/g, 33.3% 3PT",
+          "comparison": "Modern NBA wings/forwards need to space the floor",
+          "severity": "medium",
+          "detail": "Barely attempts threes — limits offensive versatility and floor spacing at the next level"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "STL/40",
+          "value": "1.2",
+          "comparison": "Bust avg: 1.0, Survivor avg: 1.3",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "PTS/40",
+          "value": "20.2",
+          "comparison": "Bust avg: 18.9, Survivor avg: 19.9",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "MPG",
+          "value": "32.8",
+          "comparison": "Bust avg: 27.8, Survivor avg: 28.5",
+          "detail": "At or above survivor average"
+        }
+      ],
+      "summary": "Strong profile — multiple markers of NBA success",
+      "nbaRookie": {
+        "team": "POR",
+        "gamesPlayed": 39,
+        "mpg": 7.1,
+        "ppg": 2.2,
+        "rpg": 1.5,
+        "apg": 0.6,
+        "spg": 0.1,
+        "bpg": 0.2,
+        "tov": 0.8,
+        "fgPct": 0.301,
+        "ftPct": 0.828
+      }
+    },
+    {
+      "pick": 17,
+      "name": "Joan Beringer",
+      "team": "MIN",
+      "college": "",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.4084507042253521,
+      "historicalMedianGames": 3,
+      "stats": {
+        "ppg": 4.9,
+        "rpg": 4.1,
+        "apg": 0.6,
+        "spg": 0.5,
+        "bpg": 1.5,
+        "tov": 0.6,
+        "mpg": 18.3,
+        "ftPct": 0.6,
+        "fgPct": 0.594,
+        "threePtPct": 0,
+        "fta": 1.5,
+        "threePM": 0,
+        "gamesPlayed": 30,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 2,
+        "ageAtDraft": 18.6
+      },
+      "per40": {
+        "pts": 10.710382513661203,
+        "reb": 8.96174863387978,
+        "ast": 1.3114754098360653,
+        "stl": 1.0928961748633879,
+        "blk": 3.2786885245901636,
+        "tov": 1.3114754098360653,
+        "fta": 3.2786885245901636
+      },
+      "assistToTurnover": 1,
+      "expectedRole": "Rim-Only Big",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Shot-blocking specialist with no secondary skill — one-dimensional bigs bust at elevated rates",
+      "flags": [
+        {
+          "label": "STL/40",
+          "value": "1.1",
+          "comparison": "Bust avg: 1.0, Survivor avg: 1.3",
+          "severity": "medium",
+          "detail": "Closer to bust average than survivor average"
+        },
+        {
+          "label": "PTS/40",
+          "value": "10.7",
+          "comparison": "Bust avg: 18.9, Survivor avg: 19.9",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "MPG",
+          "value": "18.3",
+          "comparison": "Bust avg: 27.8, Survivor avg: 28.5",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "Non-Shooter",
+          "value": "0.0 3PM/g",
+          "comparison": "Modern NBA wings/forwards need to space the floor",
+          "severity": "medium",
+          "detail": "Barely attempts threes — limits offensive versatility and floor spacing at the next level"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Rim-Only Big",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Shot-blocking specialist with no secondary skill — one-dimensional bigs bust at elevated rates"
+        }
+      ],
+      "greenLights": [],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "MIN",
+        "gamesPlayed": 31,
+        "mpg": 6.7,
+        "ppg": 2.9,
+        "rpg": 1.8,
+        "apg": 0.3,
+        "spg": 0.1,
+        "bpg": 0.4,
+        "tov": 0.3,
+        "fgPct": 0.667,
+        "ftPct": 0.647
+      }
+    },
+    {
+      "pick": 18,
+      "name": "Walter Clayton",
+      "team": "WAS",
+      "college": "Florida",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.34090909090909094,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 18.3,
+        "rpg": 3.7,
+        "apg": 4.2,
+        "spg": 1.2,
+        "bpg": 0.5,
+        "tov": 2.4,
+        "mpg": 32.6,
+        "ftPct": 0.875,
+        "fgPct": 0.448,
+        "threePtPct": 0.386,
+        "fta": 3.7,
+        "threePM": 3,
+        "gamesPlayed": 39,
+        "usageRate": 25.6,
+        "boxPlusMinus": 11.2,
+        "winSharesPer40": 0.206,
+        "trueShootingPct": 0.602,
+        "classYear": 4,
+        "ageAtDraft": 22.3
+      },
+      "per40": {
+        "pts": 22.45398773006135,
+        "reb": 4.5398773006134965,
+        "ast": 5.153374233128835,
+        "stl": 1.4723926380368098,
+        "blk": 0.6134969325153374,
+        "tov": 2.9447852760736195,
+        "fta": 4.5398773006134965
+      },
+      "assistToTurnover": 1.7500000000000002,
+      "expectedRole": "Lead Guard",
+      "roleConfidence": "clear",
+      "roleDetail": "Creates for self and others efficiently — projects as primary ball-handler",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Box +/-",
+          "value": "11.2",
+          "comparison": "Bust avg: 8.1, Survivor avg: 9.2",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "AST/TO",
+          "value": "1.8",
+          "comparison": "Bust avg: 1.5, Survivor avg: 1.6",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "3PT%",
+          "value": "38.6%",
+          "comparison": "Bust avg: 36.0%, Survivor avg: 38.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "87.5%",
+          "comparison": "Bust avg: 75.2%, Survivor avg: 78.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "60.2%",
+          "comparison": "Bust avg: 55.8%, Survivor avg: 57.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.206",
+          "comparison": "Bust avg: 0.191, Survivor avg: 0.195",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT% Elite",
+          "value": "87.5%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 11.2",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Strong profile — multiple markers of NBA success",
+      "nbaRookie": {
+        "team": "NBA",
+        "gamesPlayed": 57,
+        "mpg": 19.6,
+        "ppg": 7.2,
+        "rpg": 2,
+        "apg": 3.9,
+        "spg": 0.7,
+        "bpg": 0.3,
+        "tov": 1.5,
+        "fgPct": 0.387,
+        "ftPct": 0.912
+      }
+    },
+    {
+      "pick": 19,
+      "name": "Nolan Traoré",
+      "team": "BRK",
+      "college": "",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.34090909090909094,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 11.6,
+        "rpg": 1.7,
+        "apg": 5.1,
+        "spg": 0.7,
+        "bpg": 0.7,
+        "tov": 2.5,
+        "mpg": 22.6,
+        "ftPct": 0.71,
+        "fgPct": 0.392,
+        "threePtPct": 0.304,
+        "fta": 3.1,
+        "threePM": 1.3,
+        "gamesPlayed": 30,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 2,
+        "ageAtDraft": 19.1
+      },
+      "per40": {
+        "pts": 20.53097345132743,
+        "reb": 3.0088495575221237,
+        "ast": 9.02654867256637,
+        "stl": 1.238938053097345,
+        "blk": 1.238938053097345,
+        "tov": 4.424778761061947,
+        "fta": 5.486725663716814
+      },
+      "assistToTurnover": 2.04,
+      "expectedRole": "Playmaker",
+      "roleConfidence": "clear",
+      "roleDetail": "Pass-first guard — value depends on finding shooters around him",
+      "flags": [
+        {
+          "label": "3PT%",
+          "value": "30.4%",
+          "comparison": "Bust avg: 36.0%, Survivor avg: 38.3%",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Late 1st (15-30)"
+        },
+        {
+          "label": "FT%",
+          "value": "71.0%",
+          "comparison": "Bust avg: 75.2%, Survivor avg: 78.3%",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Late 1st (15-30)"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "AST/TO",
+          "value": "2.0",
+          "comparison": "Bust avg: 1.5, Survivor avg: 1.6",
+          "detail": "At or above survivor average"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "BRK",
+        "gamesPlayed": 45,
+        "mpg": 22,
+        "ppg": 8.2,
+        "rpg": 1.6,
+        "apg": 3.6,
+        "spg": 0.6,
+        "bpg": 0.3,
+        "tov": 2.1,
+        "fgPct": 0.385,
+        "ftPct": 0.761
+      }
+    },
+    {
+      "pick": 20,
+      "name": "Kasparas Jakučionis",
+      "team": "MIA",
+      "college": "Illinois",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.34090909090909094,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 15,
+        "rpg": 5.7,
+        "apg": 4.7,
+        "spg": 0.9,
+        "bpg": 0.3,
+        "tov": 3.7,
+        "mpg": 31.8,
+        "ftPct": 0.845,
+        "fgPct": 0.44,
+        "threePtPct": 0.318,
+        "fta": 5.1,
+        "threePM": 1.6,
+        "gamesPlayed": 33,
+        "usageRate": 24.2,
+        "boxPlusMinus": 6.6,
+        "winSharesPer40": 0.141,
+        "trueShootingPct": 0.59,
+        "classYear": 1,
+        "ageAtDraft": 19.1
+      },
+      "per40": {
+        "pts": 18.867924528301888,
+        "reb": 7.169811320754716,
+        "ast": 5.911949685534591,
+        "stl": 1.1320754716981132,
+        "blk": 0.3773584905660377,
+        "tov": 4.654088050314465,
+        "fta": 6.415094339622641
+      },
+      "assistToTurnover": 1.2702702702702702,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "No clear NBA role — not a clear playmaker, scorer, or shooter",
+      "flags": [
+        {
+          "label": "Box +/-",
+          "value": "6.6",
+          "comparison": "Bust avg: 8.1, Survivor avg: 9.2",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Late 1st (15-30)"
+        },
+        {
+          "label": "AST/TO",
+          "value": "1.3",
+          "comparison": "Bust avg: 1.5, Survivor avg: 1.6",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Late 1st (15-30)"
+        },
+        {
+          "label": "3PT%",
+          "value": "31.8%",
+          "comparison": "Bust avg: 36.0%, Survivor avg: 38.3%",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Late 1st (15-30)"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.141",
+          "comparison": "Bust avg: 0.191, Survivor avg: 0.195",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Late 1st (15-30)"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "No clear NBA role — not a clear playmaker, scorer, or shooter"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "FT%",
+          "value": "84.5%",
+          "comparison": "Bust avg: 75.2%, Survivor avg: 78.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "59.0%",
+          "comparison": "Bust avg: 55.8%, Survivor avg: 57.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT% Elite",
+          "value": "84.5%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "MIA",
+        "gamesPlayed": 42,
+        "mpg": 17.8,
+        "ppg": 6,
+        "rpg": 2.7,
+        "apg": 2.4,
+        "spg": 0.7,
+        "bpg": 0.1,
+        "tov": 1,
+        "fgPct": 0.42,
+        "ftPct": 0.886
+      }
+    },
+    {
+      "pick": 21,
+      "name": "Will Riley",
+      "team": "UTA",
+      "college": "Illinois",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.33333333333333337,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 12.6,
+        "rpg": 4.1,
+        "apg": 2.2,
+        "spg": 0.3,
+        "bpg": 0.3,
+        "tov": 1.2,
+        "mpg": 25.7,
+        "ftPct": 0.724,
+        "fgPct": 0.432,
+        "threePtPct": 0.326,
+        "fta": 3.3,
+        "threePM": 1.3,
+        "gamesPlayed": 35,
+        "usageRate": 23.8,
+        "boxPlusMinus": 6.5,
+        "winSharesPer40": 0.146,
+        "trueShootingPct": 0.532,
+        "classYear": 1,
+        "ageAtDraft": 19.4
+      },
+      "per40": {
+        "pts": 19.61089494163424,
+        "reb": 6.381322957198443,
+        "ast": 3.4241245136186778,
+        "stl": 0.4669260700389105,
+        "blk": 0.4669260700389105,
+        "tov": 1.867704280155642,
+        "fta": 5.136186770428015
+      },
+      "assistToTurnover": 1.8333333333333335,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Could not earn starter minutes in college — role at next level is unclear",
+      "flags": [
+        {
+          "label": "3PT%",
+          "value": "32.6%",
+          "comparison": "Bust avg: 34.7%, Survivor avg: 37.4%",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "MPG",
+          "value": "25.7",
+          "comparison": "Bust avg: 26.8, Survivor avg: 27.8",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "STL/40",
+          "value": "0.467",
+          "comparison": "Bust avg: 1.6, Survivor avg: 1.6",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Could not earn starter minutes in college — role at next level is unclear"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "True Shooting %",
+          "value": "53.2%",
+          "comparison": "Bust avg: 51.5%, Survivor avg: 54.4%",
+          "detail": "At or above survivor average"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "WAS",
+        "gamesPlayed": 60,
+        "mpg": 19.8,
+        "ppg": 8.8,
+        "rpg": 2.6,
+        "apg": 1.7,
+        "spg": 0.6,
+        "bpg": 0.1,
+        "tov": 1.1,
+        "fgPct": 0.437,
+        "ftPct": 0.78
+      }
+    },
+    {
+      "pick": 22,
+      "name": "Drake Powell",
+      "team": "ATL",
+      "college": "UNC",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.33333333333333337,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 7.4,
+        "rpg": 3.4,
+        "apg": 1.1,
+        "spg": 0.7,
+        "bpg": 0.7,
+        "tov": 0.7,
+        "mpg": 25.6,
+        "ftPct": 0.648,
+        "fgPct": 0.483,
+        "threePtPct": 0.379,
+        "fta": 1.5,
+        "threePM": 1,
+        "gamesPlayed": 37,
+        "usageRate": 13.8,
+        "boxPlusMinus": 6.1,
+        "winSharesPer40": 0.106,
+        "trueShootingPct": 0.581,
+        "classYear": 1,
+        "ageAtDraft": 19.8
+      },
+      "per40": {
+        "pts": 11.5625,
+        "reb": 5.3125,
+        "ast": 1.71875,
+        "stl": 1.0937499999999998,
+        "blk": 1.0937499999999998,
+        "tov": 1.0937499999999998,
+        "fta": 2.34375
+      },
+      "assistToTurnover": 1.5714285714285716,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Could not earn starter minutes in college — role at next level is unclear",
+      "flags": [
+        {
+          "label": "MPG",
+          "value": "25.6",
+          "comparison": "Bust avg: 26.8, Survivor avg: 27.8",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "STL/40",
+          "value": "1.1",
+          "comparison": "Bust avg: 1.6, Survivor avg: 1.6",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Could not earn starter minutes in college — role at next level is unclear"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "3PT%",
+          "value": "37.9%",
+          "comparison": "Bust avg: 34.7%, Survivor avg: 37.4%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "58.1%",
+          "comparison": "Bust avg: 51.5%, Survivor avg: 54.4%",
+          "detail": "At or above survivor average"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "BRK",
+        "gamesPlayed": 51,
+        "mpg": 19.5,
+        "ppg": 6.1,
+        "rpg": 1.7,
+        "apg": 1.5,
+        "spg": 0.5,
+        "bpg": 0.2,
+        "tov": 1,
+        "fgPct": 0.414,
+        "ftPct": 0.905
+      }
+    },
+    {
+      "pick": 23,
+      "name": "Asa Newell",
+      "team": "IND",
+      "college": "Georgia",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.4084507042253521,
+      "historicalMedianGames": 3,
+      "stats": {
+        "ppg": 15.4,
+        "rpg": 6.9,
+        "apg": 0.9,
+        "spg": 1,
+        "bpg": 1,
+        "tov": 1.1,
+        "mpg": 29,
+        "ftPct": 0.748,
+        "fgPct": 0.543,
+        "threePtPct": 0.292,
+        "fta": 4.1,
+        "threePM": 0.8,
+        "gamesPlayed": 33,
+        "usageRate": 23.5,
+        "boxPlusMinus": 9.6,
+        "winSharesPer40": 0.218,
+        "trueShootingPct": 0.612,
+        "classYear": 1,
+        "ageAtDraft": 19.7
+      },
+      "per40": {
+        "pts": 21.24137931034483,
+        "reb": 9.517241379310345,
+        "ast": 1.2413793103448276,
+        "stl": 1.3793103448275863,
+        "blk": 1.3793103448275863,
+        "tov": 1.5172413793103452,
+        "fta": 5.655172413793102
+      },
+      "assistToTurnover": 0.8181818181818181,
+      "expectedRole": "Role Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Solid but not elite in any one area — projects as a rotation piece",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "STL/40",
+          "value": "1.4",
+          "comparison": "Bust avg: 1.0, Survivor avg: 1.3",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Box +/-",
+          "value": "9.6",
+          "comparison": "Bust avg: 7.3, Survivor avg: 8.9",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.218",
+          "comparison": "Bust avg: 0.193, Survivor avg: 0.226",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "PTS/40",
+          "value": "21.2",
+          "comparison": "Bust avg: 18.9, Survivor avg: 19.9",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "MPG",
+          "value": "29.0",
+          "comparison": "Bust avg: 27.8, Survivor avg: 28.5",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.6",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Strong profile — multiple markers of NBA success",
+      "nbaRookie": {
+        "team": "ATL",
+        "gamesPlayed": 40,
+        "mpg": 11.1,
+        "ppg": 5,
+        "rpg": 2,
+        "apg": 0.5,
+        "spg": 0.4,
+        "bpg": 0.3,
+        "tov": 0.5,
+        "fgPct": 0.537,
+        "ftPct": 0.56
+      }
+    },
+    {
+      "pick": 24,
+      "name": "Nique Clifford",
+      "team": "OKC",
+      "college": "Colorado State",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.34090909090909094,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 18.9,
+        "rpg": 9.6,
+        "apg": 4.4,
+        "spg": 1.2,
+        "bpg": 0.6,
+        "tov": 2.6,
+        "mpg": 35.4,
+        "ftPct": 0.777,
+        "fgPct": 0.496,
+        "threePtPct": 0.377,
+        "fta": 5,
+        "threePM": 1.8,
+        "gamesPlayed": 36,
+        "usageRate": 27.7,
+        "boxPlusMinus": 11.1,
+        "winSharesPer40": 0.22,
+        "trueShootingPct": 0.603,
+        "classYear": 5,
+        "ageAtDraft": 23.4
+      },
+      "per40": {
+        "pts": 21.35593220338983,
+        "reb": 10.847457627118644,
+        "ast": 4.971751412429379,
+        "stl": 1.3559322033898304,
+        "blk": 0.6779661016949152,
+        "tov": 2.937853107344633,
+        "fta": 5.649717514124294
+      },
+      "assistToTurnover": 1.6923076923076923,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "No clear NBA role — not a clear playmaker, scorer, or shooter",
+      "flags": [
+        {
+          "label": "Old for 1st Round",
+          "value": "23.4 years old",
+          "comparison": "Age at draft correlates -0.26 with NBA career length for guards",
+          "severity": "medium",
+          "detail": "Older first-rounders have less room for growth"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "No clear NBA role — not a clear playmaker, scorer, or shooter"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Box +/-",
+          "value": "11.1",
+          "comparison": "Bust avg: 8.1, Survivor avg: 9.2",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "AST/TO",
+          "value": "1.7",
+          "comparison": "Bust avg: 1.5, Survivor avg: 1.6",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "3PT%",
+          "value": "37.7%",
+          "comparison": "Bust avg: 36.0%, Survivor avg: 38.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "77.7%",
+          "comparison": "Bust avg: 75.2%, Survivor avg: 78.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "60.3%",
+          "comparison": "Bust avg: 55.8%, Survivor avg: 57.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.220",
+          "comparison": "Bust avg: 0.191, Survivor avg: 0.195",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 11.1",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Some yellow flags — profile has questions",
+      "nbaRookie": {
+        "team": "SAC",
+        "gamesPlayed": 66,
+        "mpg": 23.8,
+        "ppg": 7.8,
+        "rpg": 3.6,
+        "apg": 2.1,
+        "spg": 0.9,
+        "bpg": 0.3,
+        "tov": 1.3,
+        "fgPct": 0.408,
+        "ftPct": 0.697
+      }
+    },
+    {
+      "pick": 25,
+      "name": "Jase Richardson",
+      "team": "ORL",
+      "college": "Michigan State",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.34090909090909094,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 12.1,
+        "rpg": 3.3,
+        "apg": 1.9,
+        "spg": 0.8,
+        "bpg": 0.3,
+        "tov": 0.8,
+        "mpg": 25.3,
+        "ftPct": 0.836,
+        "fgPct": 0.493,
+        "threePtPct": 0.412,
+        "fta": 3.4,
+        "threePM": 1.3,
+        "gamesPlayed": 36,
+        "usageRate": 20.6,
+        "boxPlusMinus": 11.6,
+        "winSharesPer40": 0.209,
+        "trueShootingPct": 0.624,
+        "classYear": 1,
+        "ageAtDraft": 19.7
+      },
+      "per40": {
+        "pts": 19.130434782608695,
+        "reb": 5.217391304347826,
+        "ast": 3.0039525691699605,
+        "stl": 1.2648221343873516,
+        "blk": 0.4743083003952569,
+        "tov": 1.2648221343873516,
+        "fta": 5.375494071146245
+      },
+      "assistToTurnover": 2.3749999999999996,
+      "expectedRole": "Spot-Up Shooter",
+      "roleConfidence": "clear",
+      "roleDetail": "Floor spacer — will need to shoot to stay on the floor",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Box +/-",
+          "value": "11.6",
+          "comparison": "Bust avg: 8.1, Survivor avg: 9.2",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "AST/TO",
+          "value": "2.4",
+          "comparison": "Bust avg: 1.5, Survivor avg: 1.6",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "3PT%",
+          "value": "41.2%",
+          "comparison": "Bust avg: 36.0%, Survivor avg: 38.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "83.6%",
+          "comparison": "Bust avg: 75.2%, Survivor avg: 78.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "62.4%",
+          "comparison": "Bust avg: 55.8%, Survivor avg: 57.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.209",
+          "comparison": "Bust avg: 0.191, Survivor avg: 0.195",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT% Elite",
+          "value": "83.6%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 11.6",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Strong profile — multiple markers of NBA success",
+      "nbaRookie": {
+        "team": "ORL",
+        "gamesPlayed": 45,
+        "mpg": 11.4,
+        "ppg": 4.6,
+        "rpg": 1.2,
+        "apg": 1.1,
+        "spg": 0.3,
+        "bpg": 0,
+        "tov": 0.5,
+        "fgPct": 0.461,
+        "ftPct": 0.737
+      }
+    },
+    {
+      "pick": 26,
+      "name": "Ben Saraf",
+      "team": "BRK",
+      "college": "",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.34090909090909094,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 12.8,
+        "rpg": 2.2,
+        "apg": 4.6,
+        "spg": 1.3,
+        "bpg": 0.1,
+        "tov": 2.5,
+        "mpg": 24.4,
+        "ftPct": 0.78,
+        "fgPct": 0.419,
+        "threePtPct": 0.222,
+        "fta": 3.1,
+        "threePM": 0.6,
+        "gamesPlayed": 16,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 2,
+        "ageAtDraft": 19.2
+      },
+      "per40": {
+        "pts": 20.98360655737705,
+        "reb": 3.606557377049181,
+        "ast": 7.5409836065573765,
+        "stl": 2.1311475409836067,
+        "blk": 0.1639344262295082,
+        "tov": 4.0983606557377055,
+        "fta": 5.081967213114754
+      },
+      "assistToTurnover": 1.8399999999999999,
+      "expectedRole": "Playmaker",
+      "roleConfidence": "clear",
+      "roleDetail": "Pass-first guard — value depends on finding shooters around him",
+      "flags": [
+        {
+          "label": "3PT%",
+          "value": "22.2%",
+          "comparison": "Bust avg: 36.0%, Survivor avg: 38.3%",
+          "severity": "high",
+          "detail": "Below even the bust average for Guard Late 1st (15-30)"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "AST/TO",
+          "value": "1.8",
+          "comparison": "Bust avg: 1.5, Survivor avg: 1.6",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT%",
+          "value": "78.0%",
+          "comparison": "Bust avg: 75.2%, Survivor avg: 78.3%",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Active Hands",
+          "value": "2.1 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        }
+      ],
+      "summary": "One major concern — worth monitoring",
+      "nbaRookie": {
+        "team": "BRK",
+        "gamesPlayed": 32,
+        "mpg": 18.3,
+        "ppg": 5.8,
+        "rpg": 1.5,
+        "apg": 3.1,
+        "spg": 0.8,
+        "bpg": 0.2,
+        "tov": 2,
+        "fgPct": 0.38,
+        "ftPct": 0.796
+      }
+    },
+    {
+      "pick": 27,
+      "name": "Danny Wolf",
+      "team": "BRK",
+      "college": "Michigan",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.4084507042253521,
+      "historicalMedianGames": 3,
+      "stats": {
+        "ppg": 13.2,
+        "rpg": 9.7,
+        "apg": 3.6,
+        "spg": 0.7,
+        "bpg": 1.4,
+        "tov": 3.2,
+        "mpg": 30.5,
+        "ftPct": 0.594,
+        "fgPct": 0.497,
+        "threePtPct": 0.336,
+        "fta": 3.6,
+        "threePM": 1,
+        "gamesPlayed": 37,
+        "usageRate": 24.2,
+        "boxPlusMinus": 9.5,
+        "winSharesPer40": 0.144,
+        "trueShootingPct": 0.559,
+        "classYear": 3,
+        "ageAtDraft": 21.1
+      },
+      "per40": {
+        "pts": 17.311475409836067,
+        "reb": 12.721311475409836,
+        "ast": 4.721311475409836,
+        "stl": 0.9180327868852458,
+        "blk": 1.8360655737704916,
+        "tov": 4.19672131147541,
+        "fta": 4.721311475409836
+      },
+      "assistToTurnover": 1.125,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "No clear defensive anchor role, no shooting, no active hands — unclear NBA path",
+      "flags": [
+        {
+          "label": "STL/40",
+          "value": "0.918",
+          "comparison": "Bust avg: 1.0, Survivor avg: 1.3",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.144",
+          "comparison": "Bust avg: 0.193, Survivor avg: 0.226",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "PTS/40",
+          "value": "17.3",
+          "comparison": "Bust avg: 18.9, Survivor avg: 19.9",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "No clear defensive anchor role, no shooting, no active hands — unclear NBA path"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Box +/-",
+          "value": "9.5",
+          "comparison": "Bust avg: 7.3, Survivor avg: 8.9",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "MPG",
+          "value": "30.5",
+          "comparison": "Bust avg: 27.8, Survivor avg: 28.5",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.5",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "BRK",
+        "gamesPlayed": 54,
+        "mpg": 20.9,
+        "ppg": 9,
+        "rpg": 4.9,
+        "apg": 2.3,
+        "spg": 0.5,
+        "bpg": 0.6,
+        "tov": 1.3,
+        "fgPct": 0.406,
+        "ftPct": 0.781
+      }
+    },
+    {
+      "pick": 28,
+      "name": "Hugo González",
+      "team": "BOS",
+      "college": "",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.33333333333333337,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 5.2,
+        "rpg": 2.5,
+        "apg": 0.9,
+        "spg": 0.5,
+        "bpg": 0.3,
+        "tov": 0.7,
+        "mpg": 14.2,
+        "ftPct": 0.773,
+        "fgPct": 0.444,
+        "threePtPct": 0.271,
+        "fta": 1.5,
+        "threePM": 0.4,
+        "gamesPlayed": 29,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 5,
+        "ageAtDraft": 19.4
+      },
+      "per40": {
+        "pts": 14.647887323943662,
+        "reb": 7.042253521126761,
+        "ast": 2.535211267605634,
+        "stl": 1.4084507042253522,
+        "blk": 0.8450704225352113,
+        "tov": 1.9718309859154928,
+        "fta": 4.225352112676057
+      },
+      "assistToTurnover": 1.2857142857142858,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Could not earn starter minutes in college — role at next level is unclear",
+      "flags": [
+        {
+          "label": "MPG",
+          "value": "14.2",
+          "comparison": "Bust avg: 26.8, Survivor avg: 27.8",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "STL/40",
+          "value": "1.4",
+          "comparison": "Bust avg: 1.6, Survivor avg: 1.6",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "Non-Shooter",
+          "value": "0.4 3PM/g, 27.1% 3PT",
+          "comparison": "Modern NBA wings/forwards need to space the floor",
+          "severity": "medium",
+          "detail": "Barely attempts threes — limits offensive versatility and floor spacing at the next level"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Could not earn starter minutes in college — role at next level is unclear"
+        }
+      ],
+      "greenLights": [],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "BOS",
+        "gamesPlayed": 63,
+        "mpg": 15.4,
+        "ppg": 4.1,
+        "rpg": 3.5,
+        "apg": 0.6,
+        "spg": 0.6,
+        "bpg": 0.3,
+        "tov": 0.5,
+        "fgPct": 0.473,
+        "ftPct": 0.5
+      }
+    },
+    {
+      "pick": 29,
+      "name": "Liam McNeeley",
+      "team": "PHO",
+      "college": "UConn",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.33333333333333337,
+      "historicalMedianGames": 4,
+      "stats": {
+        "ppg": 14.5,
+        "rpg": 6,
+        "apg": 2.3,
+        "spg": 0.6,
+        "bpg": 0.2,
+        "tov": 1.9,
+        "mpg": 32.1,
+        "ftPct": 0.866,
+        "fgPct": 0.381,
+        "threePtPct": 0.317,
+        "fta": 4.7,
+        "threePM": 1.7,
+        "gamesPlayed": 27,
+        "usageRate": 25.6,
+        "boxPlusMinus": 3.4,
+        "winSharesPer40": 0.132,
+        "trueShootingPct": 0.529,
+        "classYear": 1,
+        "ageAtDraft": 19.7
+      },
+      "per40": {
+        "pts": 18.068535825545172,
+        "reb": 7.4766355140186915,
+        "ast": 2.866043613707165,
+        "stl": 0.7476635514018691,
+        "blk": 0.24922118380062305,
+        "tov": 2.367601246105919,
+        "fta": 5.8566978193146415
+      },
+      "assistToTurnover": 1.2105263157894737,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "No clear offensive skill plus no elite defensive profile — tweener risk",
+      "flags": [
+        {
+          "label": "3PT%",
+          "value": "31.7%",
+          "comparison": "Bust avg: 34.7%, Survivor avg: 37.4%",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "True Shooting %",
+          "value": "52.9%",
+          "comparison": "Bust avg: 51.5%, Survivor avg: 54.4%",
+          "severity": "medium",
+          "detail": "Closer to bust average than survivor average"
+        },
+        {
+          "label": "STL/40",
+          "value": "0.748",
+          "comparison": "Bust avg: 1.6, Survivor avg: 1.6",
+          "severity": "high",
+          "detail": "Below even the bust average for Wing Late 1st (15-30)"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "No clear offensive skill plus no elite defensive profile — tweener risk"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "MPG",
+          "value": "32.1",
+          "comparison": "Bust avg: 26.8, Survivor avg: 27.8",
+          "detail": "At or above survivor average"
+        },
+        {
+          "label": "FT% Elite",
+          "value": "86.6%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "CHO",
+        "gamesPlayed": 28,
+        "mpg": 12.2,
+        "ppg": 4.1,
+        "rpg": 2.1,
+        "apg": 0.8,
+        "spg": 0.2,
+        "bpg": 0.1,
+        "tov": 0.4,
+        "fgPct": 0.386,
+        "ftPct": 0.806
+      }
+    },
+    {
+      "pick": 30,
+      "name": "Yanic Konan Niederhäuser",
+      "team": "LAC",
+      "college": "Penn State",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "Late 1st (15-30)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.4084507042253521,
+      "historicalMedianGames": 3,
+      "stats": {
+        "ppg": 12.9,
+        "rpg": 6.3,
+        "apg": 0.8,
+        "spg": 0.7,
+        "bpg": 2.3,
+        "tov": 1.7,
+        "mpg": 25.1,
+        "ftPct": 0.664,
+        "fgPct": 0.611,
+        "threePtPct": 0.091,
+        "fta": 4.5,
+        "threePM": 0,
+        "gamesPlayed": 29,
+        "usageRate": 23.5,
+        "boxPlusMinus": 6.1,
+        "winSharesPer40": 0.179,
+        "trueShootingPct": 0.631,
+        "classYear": 3,
+        "ageAtDraft": 22.3
+      },
+      "per40": {
+        "pts": 20.55776892430279,
+        "reb": 10.0398406374502,
+        "ast": 1.2749003984063745,
+        "stl": 1.1155378486055776,
+        "blk": 3.665338645418326,
+        "tov": 2.7091633466135456,
+        "fta": 7.1713147410358555
+      },
+      "assistToTurnover": 0.4705882352941177,
+      "expectedRole": "Rim-Only Big",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Shot-blocking specialist with no secondary skill — one-dimensional bigs bust at elevated rates",
+      "flags": [
+        {
+          "label": "STL/40",
+          "value": "1.1",
+          "comparison": "Bust avg: 1.0, Survivor avg: 1.3",
+          "severity": "medium",
+          "detail": "Closer to bust average than survivor average"
+        },
+        {
+          "label": "Box +/-",
+          "value": "6.1",
+          "comparison": "Bust avg: 7.3, Survivor avg: 8.9",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "Win Shares/40",
+          "value": "0.179",
+          "comparison": "Bust avg: 0.193, Survivor avg: 0.226",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "MPG",
+          "value": "25.1",
+          "comparison": "Bust avg: 27.8, Survivor avg: 28.5",
+          "severity": "high",
+          "detail": "Below even the bust average for Big Late 1st (15-30)"
+        },
+        {
+          "label": "Non-Shooter",
+          "value": "0.0 3PM/g, 9.1% 3PT",
+          "comparison": "Modern NBA wings/forwards need to space the floor",
+          "severity": "medium",
+          "detail": "Barely attempts threes — limits offensive versatility and floor spacing at the next level"
+        },
+        {
+          "label": "Unclear NBA Role",
+          "value": "Rim-Only Big",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Shot-blocking specialist with no secondary skill — one-dimensional bigs bust at elevated rates"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "PTS/40",
+          "value": "20.6",
+          "comparison": "Bust avg: 18.9, Survivor avg: 19.9",
+          "detail": "At or above survivor average"
+        }
+      ],
+      "summary": "Multiple serious red flags — historically elevated bust risk",
+      "nbaRookie": {
+        "team": "LAC",
+        "gamesPlayed": 41,
+        "mpg": 10.3,
+        "ppg": 4.3,
+        "rpg": 2.9,
+        "apg": 0.3,
+        "spg": 0.1,
+        "bpg": 0.7,
+        "tov": 0.6,
+        "fgPct": 0.64,
+        "ftPct": 0.758
+      }
+    },
+    {
+      "pick": 31,
+      "name": "Rasheer Fleming",
+      "team": "MIN",
+      "college": "Saint Joseph's",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 14.7,
+        "rpg": 8.5,
+        "apg": 1.3,
+        "spg": 1.4,
+        "bpg": 1.5,
+        "tov": 1.5,
+        "mpg": 31.3,
+        "ftPct": 0.743,
+        "fgPct": 0.531,
+        "threePtPct": 0.39,
+        "fta": 2.9,
+        "threePM": 1.8,
+        "gamesPlayed": 35,
+        "usageRate": 21.2,
+        "boxPlusMinus": 7.7,
+        "winSharesPer40": 0.206,
+        "trueShootingPct": 0.638,
+        "classYear": 3,
+        "ageAtDraft": 21
+      },
+      "per40": {
+        "pts": 18.78594249201278,
+        "reb": 10.862619808306707,
+        "ast": 1.6613418530351436,
+        "stl": 1.7891373801916932,
+        "blk": 1.9169329073482428,
+        "tov": 1.9169329073482428,
+        "fta": 3.706070287539936
+      },
+      "assistToTurnover": 0.8666666666666667,
+      "expectedRole": "Stretch Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Can shoot and switch — spaces the floor while contributing defensively",
+      "flags": [],
+      "greenLights": [],
+      "summary": "Limited data for comparison",
+      "nbaRookie": {
+        "team": "PHO",
+        "gamesPlayed": 43,
+        "mpg": 10.2,
+        "ppg": 3.6,
+        "rpg": 2,
+        "apg": 0.2,
+        "spg": 0.3,
+        "bpg": 0.3,
+        "tov": 0.3,
+        "fgPct": 0.403,
+        "ftPct": 0.571
+      }
+    },
+    {
+      "pick": 32,
+      "name": "Noah Penda",
+      "team": "BOS",
+      "college": "",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 10.2,
+        "rpg": 5.1,
+        "apg": 2.6,
+        "spg": 1.4,
+        "bpg": 0.4,
+        "tov": 1.7,
+        "mpg": 26.9,
+        "ftPct": 0.693,
+        "fgPct": 0.44,
+        "threePtPct": 0.304,
+        "fta": 3.5,
+        "threePM": 1,
+        "gamesPlayed": 29,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 1,
+        "ageAtDraft": 20.5
+      },
+      "per40": {
+        "pts": 15.16728624535316,
+        "reb": 7.58364312267658,
+        "ast": 3.866171003717472,
+        "stl": 2.0817843866171004,
+        "blk": 0.5947955390334573,
+        "tov": 2.527881040892193,
+        "fta": 5.204460966542751
+      },
+      "assistToTurnover": 1.5294117647058825,
+      "expectedRole": "Role Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Solid but not elite in any one area — projects as a rotation piece",
+      "flags": [],
+      "greenLights": [],
+      "summary": "Limited data for comparison",
+      "nbaRookie": {
+        "team": "ORL",
+        "gamesPlayed": 49,
+        "mpg": 13.7,
+        "ppg": 4.4,
+        "rpg": 3.6,
+        "apg": 1.2,
+        "spg": 0.6,
+        "bpg": 0.3,
+        "tov": 0.8,
+        "fgPct": 0.425,
+        "ftPct": 0.688
+      }
+    },
+    {
+      "pick": 33,
+      "name": "Sion James",
+      "team": "CHO",
+      "college": "Duke",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 8.6,
+        "rpg": 4.2,
+        "apg": 2.9,
+        "spg": 0.8,
+        "bpg": 0.3,
+        "tov": 1.2,
+        "mpg": 25.5,
+        "ftPct": 0.81,
+        "fgPct": 0.516,
+        "threePtPct": 0.413,
+        "fta": 2.6,
+        "threePM": 0.8,
+        "gamesPlayed": 39,
+        "usageRate": 16.2,
+        "boxPlusMinus": 9.3,
+        "winSharesPer40": 0.203,
+        "trueShootingPct": 0.635,
+        "classYear": 5,
+        "ageAtDraft": 22.6
+      },
+      "per40": {
+        "pts": 13.49019607843137,
+        "reb": 6.588235294117647,
+        "ast": 4.549019607843137,
+        "stl": 1.2549019607843137,
+        "blk": 0.47058823529411764,
+        "tov": 1.8823529411764706,
+        "fta": 4.078431372549019
+      },
+      "assistToTurnover": 2.4166666666666665,
+      "expectedRole": "Spot-Up Shooter",
+      "roleConfidence": "clear",
+      "roleDetail": "Floor spacer — will need to shoot to stay on the floor",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "FT% Elite",
+          "value": "81.0%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.3",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "CHO",
+        "gamesPlayed": 69,
+        "mpg": 23,
+        "ppg": 5.3,
+        "rpg": 3.5,
+        "apg": 1.9,
+        "spg": 0.6,
+        "bpg": 0.3,
+        "tov": 0.9,
+        "fgPct": 0.372,
+        "ftPct": 0.839
+      }
+    },
+    {
+      "pick": 34,
+      "name": "Ryan Kalkbrenner",
+      "team": "CHO",
+      "college": "Creighton",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 19.2,
+        "rpg": 8.7,
+        "apg": 1.5,
+        "spg": 0.5,
+        "bpg": 2.7,
+        "tov": 1.5,
+        "mpg": 34.5,
+        "ftPct": 0.681,
+        "fgPct": 0.653,
+        "threePtPct": 0.344,
+        "fta": 4.6,
+        "threePM": 0.6,
+        "gamesPlayed": 35,
+        "usageRate": 23.6,
+        "boxPlusMinus": 12.2,
+        "winSharesPer40": 0.236,
+        "trueShootingPct": 0.684,
+        "classYear": 5,
+        "ageAtDraft": 23.4
+      },
+      "per40": {
+        "pts": 22.26086956521739,
+        "reb": 10.086956521739129,
+        "ast": 1.7391304347826086,
+        "stl": 0.5797101449275363,
+        "blk": 3.130434782608696,
+        "tov": 1.7391304347826086,
+        "fta": 5.333333333333333
+      },
+      "assistToTurnover": 1,
+      "expectedRole": "Scoring Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Efficient scorer who can create — projects as an offensive hub",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Impact Player",
+          "value": "BPM: 12.2",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "CHO",
+        "gamesPlayed": 56,
+        "mpg": 21.9,
+        "ppg": 7.9,
+        "rpg": 5.8,
+        "apg": 0.8,
+        "spg": 0.5,
+        "bpg": 1.5,
+        "tov": 0.9,
+        "fgPct": 0.741,
+        "ftPct": 0.673
+      }
+    },
+    {
+      "pick": 35,
+      "name": "Johni Broome",
+      "team": "PHI",
+      "college": "Auburn",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 18.6,
+        "rpg": 10.8,
+        "apg": 2.9,
+        "spg": 0.9,
+        "bpg": 2.1,
+        "tov": 1.6,
+        "mpg": 30.2,
+        "ftPct": 0.587,
+        "fgPct": 0.51,
+        "threePtPct": 0.278,
+        "fta": 5.6,
+        "threePM": 0.7,
+        "gamesPlayed": 36,
+        "usageRate": 30.4,
+        "boxPlusMinus": 14.3,
+        "winSharesPer40": 0.25,
+        "trueShootingPct": 0.547,
+        "classYear": 5,
+        "ageAtDraft": 22.9
+      },
+      "per40": {
+        "pts": 24.635761589403977,
+        "reb": 14.304635761589406,
+        "ast": 3.8410596026490067,
+        "stl": 1.1920529801324504,
+        "blk": 2.7814569536423845,
+        "tov": 2.119205298013245,
+        "fta": 7.417218543046358
+      },
+      "assistToTurnover": 1.8124999999999998,
+      "expectedRole": "Anchor Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Elite rim protector and rebounder with enough secondary skills to stick",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Impact Player",
+          "value": "BPM: 14.3",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "PHI",
+        "gamesPlayed": 11,
+        "mpg": 5,
+        "ppg": 0.9,
+        "rpg": 1.5,
+        "apg": 0.4,
+        "spg": 0.3,
+        "bpg": 0.2,
+        "tov": 0.3,
+        "fgPct": 0.167,
+        "ftPct": 0.333
+      }
+    },
+    {
+      "pick": 36,
+      "name": "Adou Thiero",
+      "team": "BRK",
+      "college": "Arkansas",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 15.1,
+        "rpg": 5.8,
+        "apg": 1.9,
+        "spg": 1.6,
+        "bpg": 0.7,
+        "tov": 1.7,
+        "mpg": 27.5,
+        "ftPct": 0.686,
+        "fgPct": 0.545,
+        "threePtPct": 0.256,
+        "fta": 6.5,
+        "threePM": 0.4,
+        "gamesPlayed": 27,
+        "usageRate": 25.8,
+        "boxPlusMinus": 10.6,
+        "winSharesPer40": 0.203,
+        "trueShootingPct": 0.605,
+        "classYear": 3,
+        "ageAtDraft": 21.1
+      },
+      "per40": {
+        "pts": 21.96363636363636,
+        "reb": 8.436363636363636,
+        "ast": 2.7636363636363637,
+        "stl": 2.327272727272727,
+        "blk": 1.018181818181818,
+        "tov": 2.4727272727272727,
+        "fta": 9.454545454545455
+      },
+      "assistToTurnover": 1.1176470588235294,
+      "expectedRole": "Two-Way Wing",
+      "roleConfidence": "clear",
+      "roleDetail": "Scores and defends without elite shooting — upside depends on shot development",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "2.3 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 10.6",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "LAL",
+        "gamesPlayed": 19,
+        "mpg": 5.5,
+        "ppg": 1.5,
+        "rpg": 1.1,
+        "apg": 0.3,
+        "spg": 0.3,
+        "bpg": 0.1,
+        "tov": 0.3,
+        "fgPct": 0.476,
+        "ftPct": 0.8
+      }
+    },
+    {
+      "pick": 37,
+      "name": "Chaz Lanier",
+      "team": "DET",
+      "college": "Tennessee",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 18,
+        "rpg": 3.9,
+        "apg": 1.1,
+        "spg": 0.9,
+        "bpg": 0.1,
+        "tov": 1.1,
+        "mpg": 31.4,
+        "ftPct": 0.758,
+        "fgPct": 0.431,
+        "threePtPct": 0.395,
+        "fta": 2.6,
+        "threePM": 3.2,
+        "gamesPlayed": 38,
+        "usageRate": 28.8,
+        "boxPlusMinus": 8.9,
+        "winSharesPer40": 0.173,
+        "trueShootingPct": 0.56,
+        "classYear": 5,
+        "ageAtDraft": 23.5
+      },
+      "per40": {
+        "pts": 22.929936305732483,
+        "reb": 4.968152866242038,
+        "ast": 1.4012738853503186,
+        "stl": 1.1464968152866242,
+        "blk": 0.12738853503184713,
+        "tov": 1.4012738853503186,
+        "fta": 3.3121019108280256
+      },
+      "assistToTurnover": 1,
+      "expectedRole": "Combo Guard",
+      "roleConfidence": "clear",
+      "roleDetail": "Efficient high-usage scorer — can create his own shot and contributes across the board",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Impact Player",
+          "value": "BPM: 8.9",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "DET",
+        "gamesPlayed": 24,
+        "mpg": 8,
+        "ppg": 2.7,
+        "rpg": 0.8,
+        "apg": 0.6,
+        "spg": 0.2,
+        "bpg": 0,
+        "tov": 0.1,
+        "fgPct": 0.338,
+        "ftPct": 1
+      }
+    },
+    {
+      "pick": 38,
+      "name": "Kam Jones",
+      "team": "SAS",
+      "college": "Marquette",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 19.2,
+        "rpg": 4.5,
+        "apg": 5.9,
+        "spg": 1.4,
+        "bpg": 0.3,
+        "tov": 1.9,
+        "mpg": 33.8,
+        "ftPct": 0.648,
+        "fgPct": 0.483,
+        "threePtPct": 0.311,
+        "fta": 2.6,
+        "threePM": 1.9,
+        "gamesPlayed": 34,
+        "usageRate": 28.9,
+        "boxPlusMinus": 10.6,
+        "winSharesPer40": 0.202,
+        "trueShootingPct": 0.551,
+        "classYear": 4,
+        "ageAtDraft": 23.3
+      },
+      "per40": {
+        "pts": 22.721893491124263,
+        "reb": 5.325443786982249,
+        "ast": 6.98224852071006,
+        "stl": 1.6568047337278107,
+        "blk": 0.3550295857988166,
+        "tov": 2.2485207100591715,
+        "fta": 3.076923076923077
+      },
+      "assistToTurnover": 3.105263157894737,
+      "expectedRole": "Playmaker",
+      "roleConfidence": "clear",
+      "roleDetail": "Pass-first guard — value depends on finding shooters around him",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "1.7 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 10.6",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "IND",
+        "gamesPlayed": 29,
+        "mpg": 15.7,
+        "ppg": 4.2,
+        "rpg": 1.4,
+        "apg": 2.7,
+        "spg": 0.5,
+        "bpg": 0,
+        "tov": 0.9,
+        "fgPct": 0.421,
+        "ftPct": 0.5
+      }
+    },
+    {
+      "pick": 39,
+      "name": "Alijah Martin",
+      "team": "TOR",
+      "college": "Florida",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 14.4,
+        "rpg": 4.5,
+        "apg": 2.2,
+        "spg": 1.5,
+        "bpg": 0.2,
+        "tov": 1.4,
+        "mpg": 30.4,
+        "ftPct": 0.761,
+        "fgPct": 0.452,
+        "threePtPct": 0.35,
+        "fta": 3.1,
+        "threePM": 2.1,
+        "gamesPlayed": 38,
+        "usageRate": 21.7,
+        "boxPlusMinus": 9.8,
+        "winSharesPer40": 0.184,
+        "trueShootingPct": 0.576,
+        "classYear": 5,
+        "ageAtDraft": 23.5
+      },
+      "per40": {
+        "pts": 18.947368421052634,
+        "reb": 5.921052631578948,
+        "ast": 2.8947368421052633,
+        "stl": 1.973684210526316,
+        "blk": 0.26315789473684215,
+        "tov": 1.8421052631578947,
+        "fta": 4.078947368421053
+      },
+      "assistToTurnover": 1.5714285714285716,
+      "expectedRole": "Defensive Guard",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Active hands but no clear offensive role — needs a skill to stick",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Defensive Guard",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Active hands but no clear offensive role — needs a skill to stick"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "2.0 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.8",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "TOR",
+        "gamesPlayed": 16,
+        "mpg": 6.4,
+        "ppg": 2.5,
+        "rpg": 0.9,
+        "apg": 0.5,
+        "spg": 0.4,
+        "bpg": 0.2,
+        "tov": 0.3,
+        "fgPct": 0.353,
+        "ftPct": 0.813
+      }
+    },
+    {
+      "pick": 40,
+      "name": "Micah Peavy",
+      "team": "WAS",
+      "college": "Georgetown",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 17.2,
+        "rpg": 5.8,
+        "apg": 3.6,
+        "spg": 2.3,
+        "bpg": 0.5,
+        "tov": 2.6,
+        "mpg": 37,
+        "ftPct": 0.659,
+        "fgPct": 0.481,
+        "threePtPct": 0.4,
+        "fta": 2.8,
+        "threePM": 1.6,
+        "gamesPlayed": 32,
+        "usageRate": 24.7,
+        "boxPlusMinus": 6.3,
+        "winSharesPer40": 0.143,
+        "trueShootingPct": 0.552,
+        "classYear": 5,
+        "ageAtDraft": 23.9
+      },
+      "per40": {
+        "pts": 18.594594594594593,
+        "reb": 6.27027027027027,
+        "ast": 3.891891891891892,
+        "stl": 2.4864864864864864,
+        "blk": 0.5405405405405406,
+        "tov": 2.810810810810811,
+        "fta": 3.0270270270270268
+      },
+      "assistToTurnover": 1.3846153846153846,
+      "expectedRole": "Defensive Wing",
+      "roleConfidence": "clear",
+      "roleDetail": "Defends and earns minutes — offense will determine ceiling",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "2.5 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "NOP",
+        "gamesPlayed": 52,
+        "mpg": 13.6,
+        "ppg": 3.9,
+        "rpg": 1.8,
+        "apg": 0.9,
+        "spg": 0.6,
+        "bpg": 0.1,
+        "tov": 0.3,
+        "fgPct": 0.376,
+        "ftPct": 0.684
+      }
+    },
+    {
+      "pick": 41,
+      "name": "Koby Brea",
+      "team": "GSW",
+      "college": "Kentucky",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 11.6,
+        "rpg": 3.2,
+        "apg": 1.3,
+        "spg": 0.5,
+        "bpg": 0.3,
+        "tov": 0.5,
+        "mpg": 28.1,
+        "ftPct": 0.914,
+        "fgPct": 0.47,
+        "threePtPct": 0.435,
+        "fta": 1,
+        "threePM": 2.6,
+        "gamesPlayed": 36,
+        "usageRate": 16.7,
+        "boxPlusMinus": 7.1,
+        "winSharesPer40": 0.131,
+        "trueShootingPct": 0.636,
+        "classYear": 5,
+        "ageAtDraft": 22.6
+      },
+      "per40": {
+        "pts": 16.51245551601423,
+        "reb": 4.555160142348754,
+        "ast": 1.8505338078291813,
+        "stl": 0.7117437722419928,
+        "blk": 0.4270462633451957,
+        "tov": 0.7117437722419928,
+        "fta": 1.4234875444839856
+      },
+      "assistToTurnover": 2.6,
+      "expectedRole": "Spot-Up Shooter",
+      "roleConfidence": "clear",
+      "roleDetail": "Floor spacer — will need to shoot to stay on the floor",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "FT% Elite",
+          "value": "91.4%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "PHO",
+        "gamesPlayed": 5,
+        "mpg": 4.6,
+        "ppg": 3.2,
+        "rpg": 0.4,
+        "apg": 0.6,
+        "spg": 0,
+        "bpg": 0,
+        "tov": 0,
+        "fgPct": 0.556,
+        "ftPct": 1
+      }
+    },
+    {
+      "pick": 42,
+      "name": "Maxime Raynaud",
+      "team": "SAC",
+      "college": "Stanford",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 20.2,
+        "rpg": 10.6,
+        "apg": 1.7,
+        "spg": 0.9,
+        "bpg": 1.4,
+        "tov": 2.4,
+        "mpg": 33.5,
+        "ftPct": 0.77,
+        "fgPct": 0.467,
+        "threePtPct": 0.347,
+        "fta": 4.2,
+        "threePM": 1.9,
+        "gamesPlayed": 35,
+        "usageRate": 31.5,
+        "boxPlusMinus": 7,
+        "winSharesPer40": 0.17,
+        "trueShootingPct": 0.558,
+        "classYear": 4,
+        "ageAtDraft": 22.2
+      },
+      "per40": {
+        "pts": 24.11940298507463,
+        "reb": 12.656716417910447,
+        "ast": 2.0298507462686564,
+        "stl": 1.0746268656716418,
+        "blk": 1.6716417910447758,
+        "tov": 2.865671641791045,
+        "fta": 5.014925373134329
+      },
+      "assistToTurnover": 0.7083333333333334,
+      "expectedRole": "Stretch Scorer",
+      "roleConfidence": "clear",
+      "roleDetail": "Shoots and scores — offensive-minded big with floor spacing",
+      "flags": [],
+      "greenLights": [],
+      "summary": "Limited data for comparison",
+      "nbaRookie": {
+        "team": "SAC",
+        "gamesPlayed": 62,
+        "mpg": 25.4,
+        "ppg": 11.4,
+        "rpg": 7.3,
+        "apg": 1.3,
+        "spg": 0.5,
+        "bpg": 0.5,
+        "tov": 1.2,
+        "fgPct": 0.566,
+        "ftPct": 0.789
+      }
+    },
+    {
+      "pick": 43,
+      "name": "Jamir Watkins",
+      "team": "UTA",
+      "college": "Florida State",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 18.4,
+        "rpg": 5.7,
+        "apg": 2.4,
+        "spg": 1.2,
+        "bpg": 0.5,
+        "tov": 2.7,
+        "mpg": 30.9,
+        "ftPct": 0.747,
+        "fgPct": 0.427,
+        "threePtPct": 0.321,
+        "fta": 7.7,
+        "threePM": 1.7,
+        "gamesPlayed": 32,
+        "usageRate": 31.1,
+        "boxPlusMinus": 5.6,
+        "winSharesPer40": 0.148,
+        "trueShootingPct": 0.555,
+        "classYear": 5,
+        "ageAtDraft": 24
+      },
+      "per40": {
+        "pts": 23.818770226537218,
+        "reb": 7.378640776699029,
+        "ast": 3.1067961165048548,
+        "stl": 1.5533980582524274,
+        "blk": 0.6472491909385114,
+        "tov": 3.4951456310679614,
+        "fta": 9.967637540453074
+      },
+      "assistToTurnover": 0.8888888888888888,
+      "expectedRole": "Two-Way Wing",
+      "roleConfidence": "clear",
+      "roleDetail": "Scores and defends without elite shooting — upside depends on shot development",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "1.6 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "WAS",
+        "gamesPlayed": 36,
+        "mpg": 18.7,
+        "ppg": 6.1,
+        "rpg": 3.4,
+        "apg": 1.1,
+        "spg": 0.9,
+        "bpg": 0.5,
+        "tov": 0.7,
+        "fgPct": 0.461,
+        "ftPct": 0.619
+      }
+    },
+    {
+      "pick": 44,
+      "name": "Brooks Barnhizer",
+      "team": "OKC",
+      "college": "Northwestern",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 17.1,
+        "rpg": 8.8,
+        "apg": 4.2,
+        "spg": 2.3,
+        "bpg": 1.1,
+        "tov": 2.8,
+        "mpg": 36.9,
+        "ftPct": 0.764,
+        "fgPct": 0.414,
+        "threePtPct": 0.266,
+        "fta": 5.2,
+        "threePM": 1,
+        "gamesPlayed": 17,
+        "usageRate": 28.1,
+        "boxPlusMinus": 9.7,
+        "winSharesPer40": 0.14,
+        "trueShootingPct": 0.5,
+        "classYear": 4,
+        "ageAtDraft": 23.3
+      },
+      "per40": {
+        "pts": 18.53658536585366,
+        "reb": 9.53929539295393,
+        "ast": 4.5528455284552845,
+        "stl": 2.4932249322493223,
+        "blk": 1.1924119241192412,
+        "tov": 3.0352303523035227,
+        "fta": 5.636856368563686
+      },
+      "assistToTurnover": 1.5000000000000002,
+      "expectedRole": "Defensive Wing",
+      "roleConfidence": "clear",
+      "roleDetail": "Defends and earns minutes — offense will determine ceiling",
+      "flags": [
+        {
+          "label": "High Volume / Low Efficiency",
+          "value": "USG: 28.1, TS%: 50.0%",
+          "comparison": "High usage (>28) with below-average efficiency (<54% TS)",
+          "severity": "medium",
+          "detail": "College volume scorers with poor efficiency often struggle in NBA"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "2.5 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.7",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "OKC",
+        "gamesPlayed": 33,
+        "mpg": 7.8,
+        "ppg": 1.4,
+        "rpg": 1.7,
+        "apg": 0.5,
+        "spg": 0.2,
+        "bpg": 0.1,
+        "tov": 0.2,
+        "fgPct": 0.38,
+        "ftPct": 0.667
+      }
+    },
+    {
+      "pick": 45,
+      "name": "Rocco Zikarsky",
+      "team": "CHI",
+      "college": "",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 4.6,
+        "rpg": 3.4,
+        "apg": 0.3,
+        "spg": 0.3,
+        "bpg": 0.6,
+        "tov": 0.6,
+        "mpg": 11.8,
+        "ftPct": 0.571,
+        "fgPct": 0.524,
+        "threePtPct": 0.2,
+        "fta": 1.6,
+        "threePM": 0.1,
+        "gamesPlayed": 18,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 2,
+        "ageAtDraft": 19
+      },
+      "per40": {
+        "pts": 15.593220338983048,
+        "reb": 11.525423728813557,
+        "ast": 1.0169491525423728,
+        "stl": 1.0169491525423728,
+        "blk": 2.0338983050847457,
+        "tov": 2.0338983050847457,
+        "fta": 5.423728813559322
+      },
+      "assistToTurnover": 0.5,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "No clear defensive anchor role, no shooting, no active hands — unclear NBA path",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "No clear defensive anchor role, no shooting, no active hands — unclear NBA path"
+        }
+      ],
+      "greenLights": [],
+      "summary": "Limited data for comparison",
+      "nbaRookie": {
+        "team": "MIN",
+        "gamesPlayed": 4,
+        "mpg": 4,
+        "ppg": 1.5,
+        "rpg": 1.3,
+        "apg": 0,
+        "spg": 0,
+        "bpg": 0.8,
+        "tov": 0,
+        "fgPct": 0.6,
+        "ftPct": 0
+      }
+    },
+    {
+      "pick": 46,
+      "name": "Amari Williams",
+      "team": "ORL",
+      "college": "Kentucky",
+      "position": "C",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 10.9,
+        "rpg": 8.5,
+        "apg": 3.2,
+        "spg": 0.6,
+        "bpg": 1.2,
+        "tov": 2.3,
+        "mpg": 22.8,
+        "ftPct": 0.623,
+        "fgPct": 0.561,
+        "threePtPct": 0.25,
+        "fta": 5.1,
+        "threePM": 0,
+        "gamesPlayed": 36,
+        "usageRate": 24.6,
+        "boxPlusMinus": 9.9,
+        "winSharesPer40": 0.173,
+        "trueShootingPct": 0.587,
+        "classYear": 5,
+        "ageAtDraft": 23.4
+      },
+      "per40": {
+        "pts": 19.12280701754386,
+        "reb": 14.912280701754385,
+        "ast": 5.614035087719298,
+        "stl": 1.0526315789473684,
+        "blk": 2.1052631578947367,
+        "tov": 4.035087719298246,
+        "fta": 8.94736842105263
+      },
+      "assistToTurnover": 1.3913043478260871,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "No clear defensive anchor role, no shooting, no active hands — unclear NBA path",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "No clear defensive anchor role, no shooting, no active hands — unclear NBA path"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.9",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "BOS",
+        "gamesPlayed": 19,
+        "mpg": 6.3,
+        "ppg": 1.3,
+        "rpg": 1.6,
+        "apg": 0.4,
+        "spg": 0.1,
+        "bpg": 0.5,
+        "tov": 0.4,
+        "fgPct": 0.471,
+        "ftPct": 0.667
+      }
+    },
+    {
+      "pick": 47,
+      "name": "Bogoljub Markovic",
+      "team": "MIL",
+      "college": "",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 13.7,
+        "rpg": 6.8,
+        "apg": 2.7,
+        "spg": 0.8,
+        "bpg": 0.8,
+        "tov": 2.7,
+        "mpg": 29.4,
+        "ftPct": 0.76,
+        "fgPct": 0.538,
+        "threePtPct": 0.37,
+        "fta": 4.3,
+        "threePM": 1,
+        "gamesPlayed": 30,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 3,
+        "ageAtDraft": 21
+      },
+      "per40": {
+        "pts": 18.639455782312925,
+        "reb": 9.251700680272108,
+        "ast": 3.673469387755102,
+        "stl": 1.08843537414966,
+        "blk": 1.08843537414966,
+        "tov": 3.673469387755102,
+        "fta": 5.850340136054422
+      },
+      "assistToTurnover": 1,
+      "expectedRole": "Role Big",
+      "roleConfidence": "clear",
+      "roleDetail": "Solid but not elite in any one area — projects as a rotation piece",
+      "flags": [],
+      "greenLights": [],
+      "summary": "Limited data for comparison"
+    },
+    {
+      "pick": 48,
+      "name": "Javon Small",
+      "team": "MEM",
+      "college": "West Virginia",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 18.6,
+        "rpg": 4.1,
+        "apg": 5.6,
+        "spg": 1.5,
+        "bpg": 0.3,
+        "tov": 2.7,
+        "mpg": 36.1,
+        "ftPct": 0.88,
+        "fgPct": 0.418,
+        "threePtPct": 0.353,
+        "fta": 5.2,
+        "threePM": 2.6,
+        "gamesPlayed": 32,
+        "usageRate": 28.2,
+        "boxPlusMinus": 10.6,
+        "winSharesPer40": 0.188,
+        "trueShootingPct": 0.576,
+        "classYear": 4,
+        "ageAtDraft": 22.5
+      },
+      "per40": {
+        "pts": 20.609418282548475,
+        "reb": 4.542936288088642,
+        "ast": 6.204986149584487,
+        "stl": 1.6620498614958448,
+        "blk": 0.3324099722991689,
+        "tov": 2.991689750692521,
+        "fta": 5.761772853185596
+      },
+      "assistToTurnover": 2.074074074074074,
+      "expectedRole": "Floor General",
+      "roleConfidence": "clear",
+      "roleDetail": "High assist rate with good decision-making — projects as a setup man",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "FT% Elite",
+          "value": "88.0%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Active Hands",
+          "value": "1.7 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 10.6",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Strong profile — multiple markers of NBA success",
+      "nbaRookie": {
+        "team": "MEM",
+        "gamesPlayed": 33,
+        "mpg": 19,
+        "ppg": 8.9,
+        "rpg": 3,
+        "apg": 3.7,
+        "spg": 0.8,
+        "bpg": 0.3,
+        "tov": 1.2,
+        "fgPct": 0.447,
+        "ftPct": 0.838
+      }
+    },
+    {
+      "pick": 49,
+      "name": "Tyrese Proctor",
+      "team": "CLE",
+      "college": "Duke",
+      "position": "PG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 12.4,
+        "rpg": 3,
+        "apg": 2.2,
+        "spg": 0.8,
+        "bpg": 0.1,
+        "tov": 1.1,
+        "mpg": 29.9,
+        "ftPct": 0.68,
+        "fgPct": 0.452,
+        "threePtPct": 0.405,
+        "fta": 2,
+        "threePM": 2.3,
+        "gamesPlayed": 38,
+        "usageRate": 20.1,
+        "boxPlusMinus": 7.4,
+        "winSharesPer40": 0.174,
+        "trueShootingPct": 0.587,
+        "classYear": 3,
+        "ageAtDraft": 21.2
+      },
+      "per40": {
+        "pts": 16.58862876254181,
+        "reb": 4.013377926421405,
+        "ast": 2.9431438127090304,
+        "stl": 1.0702341137123748,
+        "blk": 0.13377926421404684,
+        "tov": 1.4715719063545152,
+        "fta": 2.6755852842809364
+      },
+      "assistToTurnover": 2,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "No clear NBA role — not a clear playmaker, scorer, or shooter",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "No clear NBA role — not a clear playmaker, scorer, or shooter"
+        }
+      ],
+      "greenLights": [],
+      "summary": "Limited data for comparison",
+      "nbaRookie": {
+        "team": "CLE",
+        "gamesPlayed": 42,
+        "mpg": 10.4,
+        "ppg": 4.8,
+        "rpg": 1,
+        "apg": 1.3,
+        "spg": 0.4,
+        "bpg": 0,
+        "tov": 0.6,
+        "fgPct": 0.395,
+        "ftPct": 0.862
+      }
+    },
+    {
+      "pick": 50,
+      "name": "Kobe Sanders",
+      "team": "NYK",
+      "college": "Nevada",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 15.8,
+        "rpg": 3.9,
+        "apg": 4.5,
+        "spg": 1.1,
+        "bpg": 0.3,
+        "tov": 1.8,
+        "mpg": 31.7,
+        "ftPct": 0.795,
+        "fgPct": 0.46,
+        "threePtPct": 0.342,
+        "fta": 5.2,
+        "threePM": 1.2,
+        "gamesPlayed": 33,
+        "usageRate": 27.1,
+        "boxPlusMinus": 7,
+        "winSharesPer40": 0.176,
+        "trueShootingPct": 0.572,
+        "classYear": 5,
+        "ageAtDraft": 23.1
+      },
+      "per40": {
+        "pts": 19.936908517350158,
+        "reb": 4.921135646687697,
+        "ast": 5.678233438485805,
+        "stl": 1.3880126182965302,
+        "blk": 0.3785488958990536,
+        "tov": 2.271293375394322,
+        "fta": 6.561514195583596
+      },
+      "assistToTurnover": 2.5,
+      "expectedRole": "Defensive Wing",
+      "roleConfidence": "clear",
+      "roleDetail": "Defends and earns minutes — offense will determine ceiling",
+      "flags": [],
+      "greenLights": [],
+      "summary": "Limited data for comparison",
+      "nbaRookie": {
+        "team": "LAC",
+        "gamesPlayed": 57,
+        "mpg": 20.6,
+        "ppg": 6.9,
+        "rpg": 2.4,
+        "apg": 1.6,
+        "spg": 0.6,
+        "bpg": 0.1,
+        "tov": 1.3,
+        "fgPct": 0.45,
+        "ftPct": 0.811
+      }
+    },
+    {
+      "pick": 51,
+      "name": "Mohamed Diawara",
+      "team": "LAC",
+      "college": "",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 5.8,
+        "rpg": 3.1,
+        "apg": 1.4,
+        "spg": 0.6,
+        "bpg": 0.3,
+        "tov": 0.8,
+        "mpg": 19.6,
+        "ftPct": 0.488,
+        "fgPct": 0.383,
+        "threePtPct": 0.31,
+        "fta": 1.5,
+        "threePM": 0.8,
+        "gamesPlayed": 27,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 6,
+        "ageAtDraft": 20.2
+      },
+      "per40": {
+        "pts": 11.83673469387755,
+        "reb": 6.326530612244897,
+        "ast": 2.8571428571428568,
+        "stl": 1.2244897959183672,
+        "blk": 0.6122448979591836,
+        "tov": 1.6326530612244896,
+        "fta": 3.0612244897959178
+      },
+      "assistToTurnover": 1.7499999999999998,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Could not earn starter minutes in college — role at next level is unclear",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Could not earn starter minutes in college — role at next level is unclear"
+        }
+      ],
+      "greenLights": [],
+      "summary": "Limited data for comparison",
+      "nbaRookie": {
+        "team": "NYK",
+        "gamesPlayed": 59,
+        "mpg": 8.6,
+        "ppg": 3.4,
+        "rpg": 1.3,
+        "apg": 0.6,
+        "spg": 0.2,
+        "bpg": 0.1,
+        "tov": 0.4,
+        "fgPct": 0.424,
+        "ftPct": 0.75
+      }
+    },
+    {
+      "pick": 52,
+      "name": "Alex Toohey",
+      "team": "PHO",
+      "college": "",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 10.6,
+        "rpg": 4,
+        "apg": 1.3,
+        "spg": 1.4,
+        "bpg": 0.8,
+        "tov": 1.1,
+        "mpg": 23,
+        "ftPct": 0.726,
+        "fgPct": 0.449,
+        "threePtPct": 0.31,
+        "fta": 2.9,
+        "threePM": 0.9,
+        "gamesPlayed": 29,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 2,
+        "ageAtDraft": 20
+      },
+      "per40": {
+        "pts": 18.434782608695652,
+        "reb": 6.956521739130435,
+        "ast": 2.260869565217391,
+        "stl": 2.434782608695652,
+        "blk": 1.391304347826087,
+        "tov": 1.9130434782608696,
+        "fta": 5.0434782608695645
+      },
+      "assistToTurnover": 1.1818181818181817,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Could not earn starter minutes in college — role at next level is unclear",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Could not earn starter minutes in college — role at next level is unclear"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "2.4 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        }
+      ],
+      "summary": "Clean profile — no major red flags"
+    },
+    {
+      "pick": 53,
+      "name": "John Tonje",
+      "team": "UTA",
+      "college": "Wisconsin",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 19.6,
+        "rpg": 5.3,
+        "apg": 1.8,
+        "spg": 0.7,
+        "bpg": 0.2,
+        "tov": 1.8,
+        "mpg": 31.1,
+        "ftPct": 0.909,
+        "fgPct": 0.465,
+        "threePtPct": 0.388,
+        "fta": 6.9,
+        "threePM": 2.3,
+        "gamesPlayed": 37,
+        "usageRate": 28,
+        "boxPlusMinus": 11,
+        "winSharesPer40": 0.222,
+        "trueShootingPct": 0.647,
+        "classYear": 6,
+        "ageAtDraft": 24.2
+      },
+      "per40": {
+        "pts": 25.209003215434084,
+        "reb": 6.816720257234726,
+        "ast": 2.315112540192926,
+        "stl": 0.90032154340836,
+        "blk": 0.2572347266881029,
+        "tov": 2.315112540192926,
+        "fta": 8.87459807073955
+      },
+      "assistToTurnover": 1,
+      "expectedRole": "Scoring Guard",
+      "roleConfidence": "clear",
+      "roleDetail": "Volume scorer with shooting touch — projects as a go-to offensive option",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "FT% Elite",
+          "value": "90.9%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 11.0",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "BOS",
+        "gamesPlayed": 3,
+        "mpg": 3.7,
+        "ppg": 0.7,
+        "rpg": 0.7,
+        "apg": 0.3,
+        "spg": 0,
+        "bpg": 0,
+        "tov": 0,
+        "fgPct": 0,
+        "ftPct": 1
+      }
+    },
+    {
+      "pick": 54,
+      "name": "Taelon Peter",
+      "team": "IND",
+      "college": "Liberty",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 13.7,
+        "rpg": 4,
+        "apg": 1,
+        "spg": 0.9,
+        "bpg": 0.1,
+        "tov": 0.6,
+        "mpg": 22.7,
+        "ftPct": 0.773,
+        "fgPct": 0.578,
+        "threePtPct": 0.453,
+        "fta": 2.5,
+        "threePM": 2.2,
+        "gamesPlayed": 35,
+        "usageRate": 24.1,
+        "boxPlusMinus": 9,
+        "winSharesPer40": 0.266,
+        "trueShootingPct": null,
+        "classYear": 5,
+        "ageAtDraft": 23.3
+      },
+      "per40": {
+        "pts": 24.140969162995596,
+        "reb": 7.048458149779736,
+        "ast": 1.762114537444934,
+        "stl": 1.5859030837004406,
+        "blk": 0.1762114537444934,
+        "tov": 1.0572687224669604,
+        "fta": 4.405286343612335
+      },
+      "assistToTurnover": 1.6666666666666667,
+      "expectedRole": "Two-Way Wing",
+      "roleConfidence": "clear",
+      "roleDetail": "Scores, shoots, and defends — premium NBA archetype",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "1.6 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.0",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "IND",
+        "gamesPlayed": 31,
+        "mpg": 11.2,
+        "ppg": 3.9,
+        "rpg": 1.4,
+        "apg": 1,
+        "spg": 0.5,
+        "bpg": 0.1,
+        "tov": 0.6,
+        "fgPct": 0.375,
+        "ftPct": 0.538
+      }
+    },
+    {
+      "pick": 55,
+      "name": "Lachlan Olbrich",
+      "team": "LAL",
+      "college": "",
+      "position": "PF",
+      "posGroup": "Big",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.6941176470588235,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 8.7,
+        "rpg": 3.8,
+        "apg": 1.6,
+        "spg": 0.4,
+        "bpg": 0.6,
+        "tov": 0.8,
+        "mpg": 16.7,
+        "ftPct": 0.564,
+        "fgPct": 0.602,
+        "threePtPct": 0.091,
+        "fta": 2.7,
+        "threePM": 0,
+        "gamesPlayed": 29,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 3,
+        "ageAtDraft": 21.5
+      },
+      "per40": {
+        "pts": 20.83832335329341,
+        "reb": 9.101796407185628,
+        "ast": 3.8323353293413174,
+        "stl": 0.9580838323353293,
+        "blk": 1.437125748502994,
+        "tov": 1.9161676646706587,
+        "fta": 6.467065868263474
+      },
+      "assistToTurnover": 2,
+      "expectedRole": "Post Scorer",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Scores inside but poor FT% and no range — limited in modern NBA spacing",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Post Scorer",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Scores inside but poor FT% and no range — limited in modern NBA spacing"
+        }
+      ],
+      "greenLights": [],
+      "summary": "Limited data for comparison",
+      "nbaRookie": {
+        "team": "CHI",
+        "gamesPlayed": 26,
+        "mpg": 6.3,
+        "ppg": 1.3,
+        "rpg": 1.8,
+        "apg": 0.7,
+        "spg": 0.2,
+        "bpg": 0.1,
+        "tov": 0.3,
+        "fgPct": 0.452,
+        "ftPct": 0.333
+      }
+    },
+    {
+      "pick": 56,
+      "name": "Will Richard",
+      "team": "MEM",
+      "college": "Florida",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 13.3,
+        "rpg": 4.6,
+        "apg": 1.9,
+        "spg": 1.7,
+        "bpg": 0.3,
+        "tov": 1.6,
+        "mpg": 31.6,
+        "ftPct": 0.844,
+        "fgPct": 0.487,
+        "threePtPct": 0.359,
+        "fta": 2.4,
+        "threePM": 2,
+        "gamesPlayed": 0,
+        "usageRate": 18.3,
+        "boxPlusMinus": 9.6,
+        "winSharesPer40": 0.18,
+        "trueShootingPct": 0.624,
+        "classYear": 4,
+        "ageAtDraft": 22.5
+      },
+      "per40": {
+        "pts": 16.835443037974684,
+        "reb": 5.822784810126581,
+        "ast": 2.4050632911392404,
+        "stl": 2.151898734177215,
+        "blk": 0.3797468354430379,
+        "tov": 2.0253164556962027,
+        "fta": 3.037974683544303
+      },
+      "assistToTurnover": 1.1874999999999998,
+      "expectedRole": "Defensive Guard",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Active hands but no clear offensive role — needs a skill to stick",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Defensive Guard",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Active hands but no clear offensive role — needs a skill to stick"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "FT% Elite",
+          "value": "84.4%",
+          "comparison": "80%+ FT shooters have lower bust rates historically",
+          "detail": "Strong FT% is the most translatable shooting stat"
+        },
+        {
+          "label": "Active Hands",
+          "value": "2.2 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.6",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Strong profile — multiple markers of NBA success",
+      "nbaRookie": {
+        "team": "GSW",
+        "gamesPlayed": 59,
+        "mpg": 20.2,
+        "ppg": 6.7,
+        "rpg": 2.6,
+        "apg": 1.4,
+        "spg": 1.3,
+        "bpg": 0.1,
+        "tov": 0.8,
+        "fgPct": 0.463,
+        "ftPct": 0.846
+      }
+    },
+    {
+      "pick": 57,
+      "name": "Max Shulga",
+      "team": "ORL",
+      "college": "VCU",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 15,
+        "rpg": 5.9,
+        "apg": 4,
+        "spg": 1.8,
+        "bpg": 0.1,
+        "tov": 1.7,
+        "mpg": 32.8,
+        "ftPct": 0.783,
+        "fgPct": 0.435,
+        "threePtPct": 0.387,
+        "fta": 5.4,
+        "threePM": 2.1,
+        "gamesPlayed": 35,
+        "usageRate": 21.9,
+        "boxPlusMinus": 9.4,
+        "winSharesPer40": 0.244,
+        "trueShootingPct": 0.595,
+        "classYear": 5,
+        "ageAtDraft": 23
+      },
+      "per40": {
+        "pts": 18.29268292682927,
+        "reb": 7.195121951219513,
+        "ast": 4.878048780487806,
+        "stl": 2.1951219512195124,
+        "blk": 0.12195121951219515,
+        "tov": 2.073170731707317,
+        "fta": 6.585365853658538
+      },
+      "assistToTurnover": 2.3529411764705883,
+      "expectedRole": "3&D Guard",
+      "roleConfidence": "clear",
+      "roleDetail": "Can shoot and defend — the most in-demand guard profile in the NBA",
+      "flags": [],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "2.2 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 9.4",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "BOS",
+        "gamesPlayed": 5,
+        "mpg": 1.6,
+        "ppg": 0,
+        "rpg": 0,
+        "apg": 0.2,
+        "spg": 0,
+        "bpg": 0,
+        "tov": 0.2,
+        "fgPct": 0,
+        "ftPct": 0
+      }
+    },
+    {
+      "pick": 58,
+      "name": "Saliou Niang",
+      "team": "CLE",
+      "college": "",
+      "position": "SF",
+      "posGroup": "Wing",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": true,
+      "historicalBustRate": 0.5900000000000001,
+      "historicalMedianGames": 1,
+      "stats": {
+        "ppg": 8.1,
+        "rpg": 5,
+        "apg": 1.4,
+        "spg": 0.6,
+        "bpg": 0.1,
+        "tov": 2.2,
+        "mpg": 20.3,
+        "ftPct": 0.712,
+        "fgPct": 0.532,
+        "threePtPct": 0.333,
+        "fta": 2.4,
+        "threePM": 0.2,
+        "gamesPlayed": 30,
+        "usageRate": null,
+        "boxPlusMinus": null,
+        "winSharesPer40": null,
+        "trueShootingPct": null,
+        "classYear": 5,
+        "ageAtDraft": 23
+      },
+      "per40": {
+        "pts": 15.960591133004925,
+        "reb": 9.852216748768473,
+        "ast": 2.7586206896551726,
+        "stl": 1.1822660098522166,
+        "blk": 0.19704433497536947,
+        "tov": 4.334975369458128,
+        "fta": 4.7290640394088665
+      },
+      "assistToTurnover": 0.6363636363636362,
+      "expectedRole": "Undefined",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Could not earn starter minutes in college — role at next level is unclear",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Undefined",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Could not earn starter minutes in college — role at next level is unclear"
+        }
+      ],
+      "greenLights": [],
+      "summary": "Limited data for comparison"
+    },
+    {
+      "pick": 59,
+      "name": "Jahmai Mashack",
+      "team": "HOU",
+      "college": "Tennessee",
+      "position": "SG",
+      "posGroup": "Guard",
+      "range": "2nd Round (31-60)",
+      "hasCollegeData": true,
+      "isInternational": false,
+      "historicalBustRate": 0.6742424242424243,
+      "historicalMedianGames": 0,
+      "stats": {
+        "ppg": 6,
+        "rpg": 4.2,
+        "apg": 1.5,
+        "spg": 1.7,
+        "bpg": 0.5,
+        "tov": 0.9,
+        "mpg": 28.2,
+        "ftPct": 0.723,
+        "fgPct": 0.454,
+        "threePtPct": 0.351,
+        "fta": 2.2,
+        "threePM": 0.5,
+        "gamesPlayed": 38,
+        "usageRate": 11.6,
+        "boxPlusMinus": 8.2,
+        "winSharesPer40": 0.143,
+        "trueShootingPct": 0.563,
+        "classYear": 4,
+        "ageAtDraft": 22.6
+      },
+      "per40": {
+        "pts": 8.51063829787234,
+        "reb": 5.957446808510639,
+        "ast": 2.127659574468085,
+        "stl": 2.4113475177304964,
+        "blk": 0.7092198581560284,
+        "tov": 1.2765957446808511,
+        "fta": 3.120567375886525
+      },
+      "assistToTurnover": 1.6666666666666665,
+      "expectedRole": "Defensive Guard",
+      "roleConfidence": "fuzzy",
+      "roleDetail": "Active hands but no clear offensive role — needs a skill to stick",
+      "flags": [
+        {
+          "label": "Unclear NBA Role",
+          "value": "Defensive Guard",
+          "comparison": "Players with a clear, definable NBA role survive at higher rates",
+          "severity": "medium",
+          "detail": "Active hands but no clear offensive role — needs a skill to stick"
+        }
+      ],
+      "greenLights": [
+        {
+          "label": "Active Hands",
+          "value": "2.4 STL/40",
+          "comparison": "Above-average steal rate translates well to NBA",
+          "detail": "Steals correlate with NBA longevity for perimeter players"
+        },
+        {
+          "label": "Impact Player",
+          "value": "BPM: 8.2",
+          "comparison": "BPM > 8 indicates an above-average college impact",
+          "detail": "High box plus-minus reflects overall contribution beyond counting stats"
+        }
+      ],
+      "summary": "Clean profile — no major red flags",
+      "nbaRookie": {
+        "team": "MEM",
+        "gamesPlayed": 24,
+        "mpg": 18.7,
+        "ppg": 5,
+        "rpg": 2.2,
+        "apg": 1.3,
+        "spg": 1.2,
+        "bpg": 0.5,
+        "tov": 1,
+        "fgPct": 0.381,
+        "ftPct": 0.529
+      }
+    }
+  ]
+}
